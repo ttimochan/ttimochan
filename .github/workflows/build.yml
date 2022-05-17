@@ -3,7 +3,7 @@ name: README build
 on:
   push:
     branches:
-      - main
+      - master
   schedule:
     - cron: '0 */3 * * *'
 
@@ -39,6 +39,6 @@ jobs:
         run: |
           npm run build
       - name: Push new README.md
-        uses: mikeal/publish-to-github-action@main
+        uses: mikeal/publish-to-github-action@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
