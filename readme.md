@@ -22,7 +22,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/SilverCicada/AyanBot>SilverCicada/AyanBot</a><p>一个简洁高效， 易于使用的异步QQ机器人框架， 基于C++20标准。</p></li><li><a href=https://github.com/xiaoZ-hc/redtool>xiaoZ-hc/redtool</a><p>日常积累的一些红队工具及自己写的脚本，更偏向于一些diy的好用的工具，并不是一些比较常用的msf/awvs/xray这种</p></li><li><a href=https://github.com/polishing-labs/patchup>polishing-labs/patchup</a><p>一个 pwn 手 配置 gilbc 库的小工具</p></li><li><a href=https://github.com/crisprss/PrintSpoofer>crisprss/PrintSpoofer</a><p>PrintSpoofer的反射dll实现，结合Cobalt Strike使用</p></li><li><a href=https://github.com/mx-space/docs>mx-space/docs</a><p>📄 Documentation for Mix Space</p></li></ul>
+<ul><li><a href=https://github.com/RicheyJang/PaimengBot>RicheyJang/PaimengBot</a><p>派蒙Bot：一个使用Onebot协议、基于ZeroBot的QQ娱乐机器人，支持30余种功能，可以大大丰富你的QQ体验或群活跃度，欸嘿。支持多种数据库（包括SQLite、Postgresql、Mysql等）</p></li><li><a href=https://github.com/ftTony/learning-map>ftTony/learning-map</a><p>前端知识思维导图</p></li><li><a href=https://github.com/tuna/tunasync>tuna/tunasync</a><p>Mirror job management tool.</p></li><li><a href=https://github.com/Kaiyiwing/qwerty-learner>Kaiyiwing/qwerty-learner</a><p>为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers</p></li><li><a href=https://github.com/Rust-Boy/RustGame>Rust-Boy/RustGame</a><p>A game written using rust</p></li></ul>
 
 **捉迷藏**
 
@@ -30,4 +30,4 @@
 
 ------------
 Thanks，[@innei](https://innei.ren)
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/19/22, 2:10 AM<br>下一次刷新：5/19/22, 5:10 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/19/22, 5:08 AM<br>下一次刷新：5/19/22, 8:08 AM</p>
