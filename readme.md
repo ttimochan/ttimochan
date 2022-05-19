@@ -14,7 +14,7 @@
 
 **最近写了...**
 
-<ul><li><span>4/18/22 - <a href=https://www.timochan.cn/posts/any_pen/upload-labs_Pass_10_for_Linux>Upload-labs_Pass-10_for_Linux</a></span><p>我们不要用常见的思维来做，需要有新的突破</p></li><li><span>4/18/22 - <a href=https://www.timochan.cn/posts/any_pen/upload-labs>Upload-labs</a></span><p>文件上传的基础漏洞</p></li><li><span>4/18/22 - <a href=https://www.timochan.cn/posts/any_pen/java_note>初识 Java 的面向对象思想</a></span><p>Java 的面向对象思想如此美妙，如此神奇</p></li><li><span>3/6/22 - <a href=https://www.timochan.cn/posts/jc/gitea_drone>基于 Gitea + Drone 的 CI/CD 方案</a></span><p>Github 的 CI/CD 方案，对于公开项目来说，基本上是免费的，但是对于私有项目来说，是收费的，个人开发者无力承担过多的支出在这上面，相较于 Gitlab 的集成化的方案，Gitea + Drone 的方案资源占用更低。小提莫试了试 Gitlab ，也就自己的笔记本能承受 Gitlab 庞大的资源占用，但这有什么意义呢？</p></li><li><span>2/20/22 - <a href=https://www.timochan.cn/posts/php/php_note_1>php笔记</a></span></li></ul>
+<ul><li><span>4/18/22 - <a href=https://www.timochan.cn/posts/any_pen/upload-labs_Pass_10_for_Linux>Upload-labs_Pass-10_for_Linux</a></span><p>我们不要用常见的思维来做，需要有新的突破</p></li><li><span>4/18/22 - <a href=https://www.timochan.cn/posts/any_pen/upload-labs>Upload-labs</a></span><p>文件上传的基础漏洞</p></li><li><span>4/18/22 - <a href=https://www.timochan.cn/posts/any_pen/java_note>初识 Java 的面向对象思想</a></span><p>Java 的面向对象思想如此美妙，如此神奇</p></li><li><span>3/6/22 - <a href=https://www.timochan.cn/posts/jc/gitea_drone>基于 Gitea + Drone 的 CI/CD 方案</a></span><p>Github 的 CI/CD 方案，对于公开项目来说，基本上是免费的，但是对于私有项目来说，是收费的，个人开发者无力承担过多的支出在这上面，相较于 Gitlab 的集成化的方案，Gitea + Drone 的方案资源占用更低。小提莫试了试 Gitlab ，也就自己的笔记本能承受 Gitlab 庞大的资源占用，但这有什么意义呢？</p></li><li><span>2/20/22 - <a href=https://www.timochan.cn/posts/php/php_note>php笔记</a></span></li></ul>
 
 **最近赞了...**
 
@@ -22,7 +22,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/tuna/tunasync>tuna/tunasync</a><p>Mirror job management tool.</p></li><li><a href=https://github.com/PowerShell/PowerShell>PowerShell/PowerShell</a><p>PowerShell for every system!</p></li><li><a href=https://github.com/polishing-labs/wp_blog>polishing-labs/wp_blog</a><p>这是楼上请让路*的WP存放地</p></li><li><a href=https://github.com/Grasscutters/Grasscutter>Grasscutters/Grasscutter</a><p>A server software reimplementation for a certain anime game.</p></li><li><a href=https://github.com/Innei/candy>Innei/candy</a><p>Simple and cute static blog generator.</p></li></ul>
+<ul><li><a href=https://github.com/ftTony/learning-map>ftTony/learning-map</a><p>前端知识思维导图</p></li><li><a href=https://github.com/SilverCicada/AyanBot>SilverCicada/AyanBot</a><p>一个简洁高效， 易于使用的异步QQ机器人框架， 基于C++20标准。</p></li><li><a href=https://github.com/mx-space/api-client>mx-space/api-client</a><p>A HTTP Client for mx-space RESTful API.</p></li><li><a href=https://github.com/gchq/CyberChef>gchq/CyberChef</a><p>The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis</p></li><li><a href=https://github.com/mx-space/kami>mx-space/kami</a><p>🍰 Kami is mx-space's web frontend theme. Cute and lovely.</p></li></ul>
 
 **捉迷藏**
 
@@ -30,4 +30,4 @@
 
 ------------
 Thanks，[@innei](https://innei.ren)
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/19/22, 11:20 PM<br>下一次刷新：5/20/22, 2:20 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/20/22, 5:08 AM<br>下一次刷新：5/20/22, 8:08 AM</p>
