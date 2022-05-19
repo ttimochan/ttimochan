@@ -22,7 +22,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/mamoe/mirai>mamoe/mirai</a><p>高效率 QQ 机器人支持库</p></li><li><a href=https://github.com/PowerShell/PowerShell>PowerShell/PowerShell</a><p>PowerShell for every system!</p></li><li><a href=https://github.com/aqz236/hnzjdt>aqz236/hnzjdt</a><p>河南宗教理论知识竞赛自动答题程序脚本，自动提交，稳定95分以上。 可生成满分截图 [最近更新:2021-12-04]</p></li><li><a href=https://github.com/polishing-labs/wp_blog>polishing-labs/wp_blog</a><p>这是楼上请让路*的WP存放地</p></li><li><a href=https://github.com/mx-space/api-client>mx-space/api-client</a><p>A HTTP Client for mx-space RESTful API.</p></li></ul>
+<ul><li><a href=https://github.com/SilverCicada/AyanBot>SilverCicada/AyanBot</a><p>一个简洁高效， 易于使用的异步QQ机器人框架， 基于C++20标准。</p></li><li><a href=https://github.com/PowerShell/PowerShell>PowerShell/PowerShell</a><p>PowerShell for every system!</p></li><li><a href=https://github.com/tuna/tunasync>tuna/tunasync</a><p>Mirror job management tool.</p></li><li><a href=https://github.com/ftTony/learning-map>ftTony/learning-map</a><p>前端知识思维导图</p></li><li><a href=https://github.com/vulhub/vulhub>vulhub/vulhub</a><p>Pre-Built Vulnerable Environments Based on Docker-Compose</p></li></ul>
 
 **捉迷藏**
 
@@ -30,4 +30,4 @@
 
 ------------
 Thanks，[@innei](https://innei.ren)
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/19/22, 11:47 AM<br>下一次刷新：5/19/22, 2:47 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/19/22, 8:49 PM<br>下一次刷新：5/19/22, 11:49 PM</p>
