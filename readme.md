@@ -22,7 +22,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Innei/tailwindcss3-naive-ui-reproduction>Innei/tailwindcss3-naive-ui-reproduction</a><p>tailwindcss 3 preflight override naive-ui 3 style.</p></li><li><a href=https://github.com/mx-space/docs>mx-space/docs</a><p>📄 Documentation for Mix Space</p></li><li><a href=https://github.com/vulhub/vulhub>vulhub/vulhub</a><p>Pre-Built Vulnerable Environments Based on Docker-Compose</p></li><li><a href=https://github.com/Innei/nest-http-boilerplate>Innei/nest-http-boilerplate</a><p>A template for NestJS Typegoose Vitest and more, fast and simple boilerplate.</p></li><li><a href=https://github.com/aqz236/hnzjdt>aqz236/hnzjdt</a><p>河南宗教理论知识竞赛自动答题程序脚本，自动提交，稳定95分以上。 可生成满分截图 [最近更新:2021-12-04]</p></li></ul>
+<ul><li><a href=https://github.com/RicheyJang/PaimengBot>RicheyJang/PaimengBot</a><p>派蒙Bot：一个使用Onebot协议、基于ZeroBot的QQ娱乐机器人，支持30余种功能，可以大大丰富你的QQ体验或群活跃度，欸嘿。支持多种数据库（包括SQLite、Postgresql、Mysql等）</p></li><li><a href=https://github.com/gchq/CyberChef>gchq/CyberChef</a><p>The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis</p></li><li><a href=https://github.com/ehids/ecapture>ehids/ecapture</a><p>capture SSL/TLS text content without CA cert using eBPF.</p></li><li><a href=https://github.com/crisprss/PrintSpoofer>crisprss/PrintSpoofer</a><p>PrintSpoofer的反射dll实现，结合Cobalt Strike使用</p></li><li><a href=https://github.com/Innei/nest-http-boilerplate>Innei/nest-http-boilerplate</a><p>A template for NestJS Typegoose Vitest and more, fast and simple boilerplate.</p></li></ul>
 
 **捉迷藏**
 
@@ -30,4 +30,4 @@
 
 ------------
 Thanks，[@innei](https://innei.ren)
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/24/22, 11:48 AM<br>下一次刷新：5/24/22, 2:48 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/24/22, 2:11 PM<br>下一次刷新：5/24/22, 5:11 PM</p>
