@@ -22,7 +22,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/mamoe/mirai>mamoe/mirai</a><p>高效率 QQ 机器人支持库</p></li><li><a href=https://github.com/timqian/chinese-independent-blogs>timqian/chinese-independent-blogs</a><p>中文独立博客列表</p></li><li><a href=https://github.com/Innei/tailwindcss3-naive-ui-reproduction>Innei/tailwindcss3-naive-ui-reproduction</a><p>tailwindcss 3 preflight override naive-ui 3 style.</p></li><li><a href=https://github.com/ftTony/learning-map>ftTony/learning-map</a><p>前端知识思维导图</p></li><li><a href=https://github.com/mx-space/docs>mx-space/docs</a><p>📄 Documentation for Mix Space</p></li></ul>
+<ul><li><a href=https://github.com/Innei/nest-http-boilerplate>Innei/nest-http-boilerplate</a><p>A template for NestJS Typegoose Vitest and more, fast and simple boilerplate.</p></li><li><a href=https://github.com/vulhub/vulhub>vulhub/vulhub</a><p>Pre-Built Vulnerable Environments Based on Docker-Compose</p></li><li><a href=https://github.com/78778443/QingScan>78778443/QingScan</a><p>一个漏洞扫描器粘合剂,添加目标后30款工具自动调用；支持 web扫描、系统扫描、子域名收集、目录扫描、主机扫描、主机发现、组件识别、URL爬虫、XRAY扫描、AWVS自动扫描、POC批量验证，SSH批量测试、vulmap。</p></li><li><a href=https://github.com/aqz236/hnzjdt>aqz236/hnzjdt</a><p>河南宗教理论知识竞赛自动答题程序脚本，自动提交，稳定95分以上。 可生成满分截图 [最近更新:2021-12-04]</p></li><li><a href=https://github.com/SilverCicada/AyanBot>SilverCicada/AyanBot</a><p>一个简洁高效， 易于使用的异步QQ机器人框架， 基于C++20标准。</p></li></ul>
 
 **捉迷藏**
 
@@ -30,4 +30,4 @@
 
 ------------
 Thanks，[@innei](https://innei.ren)
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/24/22, 11:09 PM<br>下一次刷新：5/25/22, 2:09 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/25/22, 2:12 AM<br>下一次刷新：5/25/22, 5:12 AM</p>
