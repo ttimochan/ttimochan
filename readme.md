@@ -22,7 +22,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/mx-space/kami>mx-space/kami</a><p>🍰 Kami is mx-space's web frontend theme. Cute and lovely.</p></li><li><a href=https://github.com/mx-space/api-client>mx-space/api-client</a><p>A HTTP Client for mx-space RESTful API.</p></li><li><a href=https://github.com/Innei/tailwindcss3-naive-ui-reproduction>Innei/tailwindcss3-naive-ui-reproduction</a><p>tailwindcss 3 preflight override naive-ui 3 style.</p></li><li><a href=https://github.com/Innei/nest-http-boilerplate>Innei/nest-http-boilerplate</a><p>A template for NestJS Typegoose Vitest and more, fast and simple boilerplate.</p></li><li><a href=https://github.com/labring/laf>labring/laf</a><p>laf 帮助开发者拥有自己的云开发平台，让写代码像写博客一样简单，支持云函数/云数据库/对象存储，让前端秒变全栈，节省60%研发成本，实现0运维！</p></li></ul>
+<ul><li><a href=https://github.com/aqz236/hnzjdt>aqz236/hnzjdt</a><p>河南宗教理论知识竞赛自动答题程序脚本，自动提交，稳定95分以上。 可生成满分截图 [最近更新:2021-12-04]</p></li><li><a href=https://github.com/mamoe/mirai>mamoe/mirai</a><p>高效率 QQ 机器人支持库</p></li><li><a href=https://github.com/ftTony/learning-map>ftTony/learning-map</a><p>前端知识思维导图</p></li><li><a href=https://github.com/Innei/nest-http-boilerplate>Innei/nest-http-boilerplate</a><p>A template for NestJS Typegoose Vitest and more, fast and simple boilerplate.</p></li><li><a href=https://github.com/labring/laf>labring/laf</a><p>laf 帮助开发者拥有自己的云开发平台，让写代码像写博客一样简单，支持云函数/云数据库/对象存储，让前端秒变全栈，节省60%研发成本，实现0运维！</p></li></ul>
 
 **捉迷藏**
 
@@ -30,4 +30,4 @@
 
 ------------
 Thanks，[@innei](https://innei.ren)
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/25/22, 2:11 PM<br>下一次刷新：5/25/22, 5:11 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/25/22, 5:11 PM<br>下一次刷新：5/25/22, 8:11 PM</p>
