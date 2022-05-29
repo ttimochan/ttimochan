@@ -18,11 +18,11 @@
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/Innei/Typecho-Theme-Paul>Innei/Typecho-Theme-Paul</a><p>🎈 一个适用于展示，写日记的 Typecho 博客主题。</p></li><li><a href=https://github.com/DrDonk/unlocker>DrDonk/unlocker</a><p>VMware macOS utilities</p></li><li><a href=https://github.com/go-gitea/gitea>go-gitea/gitea</a><p>Git with a cup of tea, painless self-hosted git service</p></li><li><a href=https://github.com/mikecao/umami>mikecao/umami</a><p>Umami is a simple, fast, privacy-focused alternative to Google Analytics.</p></li><li><a href=https://github.com/Innei/Innei>Innei/Innei</a></li></ul>
+<ul><li><a href=https://github.com/nx-space/nx-A-My>nx-space/nx-A-My</a><p>😇 Be self-centered, by rz.sb</p></li><li><a href=https://github.com/nx-space/core>nx-space/core</a><p>🥳 the RESTful API service for G Space, powered by @nestjs.</p></li><li><a href=https://github.com/Innei/Typecho-Theme-Paul>Innei/Typecho-Theme-Paul</a><p>🎈 一个适用于展示，写日记的 Typecho 博客主题。</p></li><li><a href=https://github.com/DrDonk/unlocker>DrDonk/unlocker</a><p>VMware macOS utilities</p></li><li><a href=https://github.com/go-gitea/gitea>go-gitea/gitea</a><p>Git with a cup of tea, painless self-hosted git service</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/SilverCicada/AyanBot>SilverCicada/AyanBot</a><p>一个简洁高效， 易于使用的异步QQ机器人框架， 基于C++20标准。</p></li><li><a href=https://github.com/Grasscutters/Grasscutter>Grasscutters/Grasscutter</a><p>A server software reimplementation for a certain anime game.</p></li><li><a href=https://github.com/dotnetcore/FastGithub>dotnetcore/FastGithub</a><p>github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题</p></li><li><a href=https://github.com/mx-space/api-client>mx-space/api-client</a><p>A HTTP Client for mx-space RESTful API.</p></li><li><a href=https://github.com/polishing-labs/patchup>polishing-labs/patchup</a><p>一个 pwn 手 配置 gilbc 库的小工具</p></li></ul>
+<ul><li><a href=https://github.com/mamoe/mirai>mamoe/mirai</a><p>高效率 QQ 机器人支持库</p></li><li><a href=https://github.com/polishing-labs/wp_blog>polishing-labs/wp_blog</a><p>这是楼上请让路*的WP存放地</p></li><li><a href=https://github.com/polishing-labs/patchup>polishing-labs/patchup</a><p>一个 pwn 手 配置 gilbc 库的小工具</p></li><li><a href=https://github.com/mikecao/umami>mikecao/umami</a><p>Umami is a simple, fast, privacy-focused alternative to Google Analytics.</p></li><li><a href=https://github.com/Rust-Boy/RustGame>Rust-Boy/RustGame</a><p>A game written using rust</p></li></ul>
 
 **捉迷藏**
 
@@ -30,4 +30,4 @@
 
 ------------
 Thanks，[@innei](https://innei.ren)
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/29/22, 11:08 PM<br>下一次刷新：5/30/22, 2:08 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/30/22, 2:10 AM<br>下一次刷新：5/30/22, 5:10 AM</p>
