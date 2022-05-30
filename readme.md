@@ -14,7 +14,7 @@
 
 **最近写了...**
 
-<ul><li><span>5/24/22 - <a href=https://www.timochan.cn/posts/jc/deploy_umami_for_analyze>umami install(安装)</a></span><p>一直想找一个不使用 cookie 追踪的统计网站，虽然大多数主流浏览器具备了这种 cookie 反追踪的能力，但是我依旧想使用这种脱敏的统计工具。</p></li><li><span>4/18/22 - <a href=https://www.timochan.cn/posts/any_pen/upload-labs_Pass_10_for_Linux>Upload-labs_Pass-10_for_Linux</a></span><p>我们不要用常见的思维来做，需要有新的突破</p></li><li><span>4/18/22 - <a href=https://www.timochan.cn/posts/any_pen/upload-labs>Upload-labs</a></span><p>文件上传的基础漏洞</p></li><li><span>4/18/22 - <a href=https://www.timochan.cn/posts/any_pen/java_note>初识 Java 的面向对象思想</a></span><p>Java 的面向对象思想如此美妙，如此神奇</p></li><li><span>3/6/22 - <a href=https://www.timochan.cn/posts/jc/gitea_drone>基于 Gitea + Drone 的 CI/CD 方案</a></span><p>Github 的 CI/CD 方案，对于公开项目来说，基本上是免费的，但是对于私有项目来说，是收费的，个人开发者无力承担过多的支出在这上面，相较于 Gitlab 的集成化的方案，Gitea + Drone 的方案资源占用更低。小提莫试了试 Gitlab ，也就自己的笔记本能承受 Gitlab 庞大的资源占用，但这有什么意义呢？</p></li></ul>
+<ul><li><span>5/30/22 - <a href=https://www.timochan.cn/posts/jc/installation_and_use_of_scoop>Scoop 的安装与使用</a></span><p>一直想找一个在 Windows 下好用的包管理器，chocolatey / winget 虽然满足的我对包管理器的一些预期，但是有些地方不够满足，例如 winget 不能自己配置环境变量，而且经常自己卡死；chocolatey 总是需要没必要的权限提升，而且安装和升级相对不是很满意。我想要的就是一种在 Mac 下使用 Homebrew 的感觉，scoop 进入我的视野。</p></li><li><span>5/24/22 - <a href=https://www.timochan.cn/posts/jc/deploy_umami_for_analyze>umami install(安装)</a></span><p>一直想找一个不使用 cookie 追踪的统计网站，虽然大多数主流浏览器具备了这种 cookie 反追踪的能力，但是我依旧想使用这种脱敏的统计工具。</p></li><li><span>4/18/22 - <a href=https://www.timochan.cn/posts/any_pen/upload-labs_Pass_10_for_Linux>Upload-labs_Pass-10_for_Linux</a></span><p>我们不要用常见的思维来做，需要有新的突破</p></li><li><span>4/18/22 - <a href=https://www.timochan.cn/posts/any_pen/upload-labs>Upload-labs</a></span><p>文件上传的基础漏洞</p></li><li><span>4/18/22 - <a href=https://www.timochan.cn/posts/any_pen/java_note>初识 Java 的面向对象思想</a></span><p>Java 的面向对象思想如此美妙，如此神奇</p></li></ul>
 
 **最近赞了...**
 
@@ -22,7 +22,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/timqian/chinese-independent-blogs>timqian/chinese-independent-blogs</a><p>中文独立博客列表</p></li><li><a href=https://github.com/RicheyJang/PaimengBot>RicheyJang/PaimengBot</a><p>派蒙Bot：一个使用Onebot协议、基于ZeroBot的QQ娱乐机器人，支持30余种功能，可以大大丰富你的QQ体验或群活跃度，欸嘿。支持多种数据库（包括SQLite、Postgresql、Mysql等）</p></li><li><a href=https://github.com/Kaiyiwing/qwerty-learner>Kaiyiwing/qwerty-learner</a><p>为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers</p></li><li><a href=https://github.com/gchq/CyberChef>gchq/CyberChef</a><p>The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis</p></li><li><a href=https://github.com/polishing-labs/patchup>polishing-labs/patchup</a><p>一个 pwn 手 配置 gilbc 库的小工具</p></li></ul>
+<ul><li><a href=https://github.com/mx-space/api-client>mx-space/api-client</a><p>A HTTP Client for mx-space RESTful API.</p></li><li><a href=https://github.com/Le-niao/Yunzai-Bot>Le-niao/Yunzai-Bot</a><p>原神QQ群机器人，通过米游社接口，查询原神游戏信息，快速生成图片返回</p></li><li><a href=https://github.com/Innei/tailwindcss3-naive-ui-reproduction>Innei/tailwindcss3-naive-ui-reproduction</a><p>tailwindcss 3 preflight override naive-ui 3 style.</p></li><li><a href=https://github.com/mamoe/mirai>mamoe/mirai</a><p>高效率 QQ 机器人支持库</p></li><li><a href=https://github.com/Kaiyiwing/qwerty-learner>Kaiyiwing/qwerty-learner</a><p>为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers</p></li></ul>
 
 **捉迷藏**
 
@@ -30,4 +30,4 @@
 
 ------------
 Thanks，[@innei](https://innei.ren)
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/30/22, 8:47 AM<br>下一次刷新：5/30/22, 11:47 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/30/22, 11:52 AM<br>下一次刷新：5/30/22, 2:52 PM</p>
