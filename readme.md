@@ -22,7 +22,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Kaiyiwing/qwerty-learner>Kaiyiwing/qwerty-learner</a><p>为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers</p></li><li><a href=https://github.com/78778443/QingScan>78778443/QingScan</a><p>一个漏洞扫描器粘合剂,添加目标后30款工具自动调用；支持 web扫描、系统扫描、子域名收集、目录扫描、主机扫描、主机发现、组件识别、URL爬虫、XRAY扫描、AWVS自动扫描、POC批量验证，SSH批量测试、vulmap。</p></li><li><a href=https://github.com/Rust-Boy/RustGame>Rust-Boy/RustGame</a><p>A game written using rust</p></li><li><a href=https://github.com/timqian/chinese-independent-blogs>timqian/chinese-independent-blogs</a><p>中文独立博客列表</p></li><li><a href=https://github.com/mamoe/mirai>mamoe/mirai</a><p>高效率 QQ 机器人支持库</p></li></ul>
+<ul><li><a href=https://github.com/crisprss/PrintSpoofer>crisprss/PrintSpoofer</a><p>PrintSpoofer的反射dll实现，结合Cobalt Strike使用</p></li><li><a href=https://github.com/gchq/CyberChef>gchq/CyberChef</a><p>The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis</p></li><li><a href=https://github.com/RicheyJang/PaimengBot>RicheyJang/PaimengBot</a><p>派蒙Bot：一个使用Onebot协议、基于ZeroBot的QQ娱乐机器人，支持30余种功能，可以大大丰富你的QQ体验或群活跃度，欸嘿。支持多种数据库（包括SQLite、Postgresql、Mysql等）</p></li><li><a href=https://github.com/xiaoZ-hc/redtool>xiaoZ-hc/redtool</a><p>日常积累的一些红队工具及自己写的脚本，更偏向于一些diy的好用的工具，并不是一些比较常用的msf/awvs/xray这种</p></li><li><a href=https://github.com/mx-space/docs>mx-space/docs</a><p>📄 Documentation for Mix Space</p></li></ul>
 
 **捉迷藏**
 
@@ -30,4 +30,4 @@
 
 ------------
 Thanks，[@innei](https://innei.ren)
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/10/22, 11:41 AM<br>下一次刷新：6/10/22, 2:41 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/10/22, 5:08 PM<br>下一次刷新：6/10/22, 8:08 PM</p>
