@@ -22,7 +22,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/crisprss/PrintSpoofer>crisprss/PrintSpoofer</a><p>PrintSpoofer的反射dll实现，结合Cobalt Strike使用</p></li><li><a href=https://github.com/mx-space/kami>mx-space/kami</a><p>🍰 Kami is mx-space's web frontend theme. Cute and lovely.</p></li><li><a href=https://github.com/mx-space/docs>mx-space/docs</a><p>📄 Documentation for Mix Space</p></li><li><a href=https://github.com/polishing-labs/patchup>polishing-labs/patchup</a><p>一个 pwn 手 配置 gilbc 库的小工具</p></li><li><a href=https://github.com/labring/laf>labring/laf</a><p>laf 是一个 serverless 框架，集成云函数，云数据库，对象存储等能力，是一个一站式开发平台，像写博客一样写代码！</p></li></ul>
+<ul><li><a href=https://github.com/Kaiyiwing/qwerty-learner>Kaiyiwing/qwerty-learner</a><p>为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers</p></li><li><a href=https://github.com/78778443/QingScan>78778443/QingScan</a><p>一个漏洞扫描器粘合剂,添加目标后30款工具自动调用；支持 web扫描、系统扫描、子域名收集、目录扫描、主机扫描、主机发现、组件识别、URL爬虫、XRAY扫描、AWVS自动扫描、POC批量验证，SSH批量测试、vulmap。</p></li><li><a href=https://github.com/Rust-Boy/RustGame>Rust-Boy/RustGame</a><p>A game written using rust</p></li><li><a href=https://github.com/timqian/chinese-independent-blogs>timqian/chinese-independent-blogs</a><p>中文独立博客列表</p></li><li><a href=https://github.com/mamoe/mirai>mamoe/mirai</a><p>高效率 QQ 机器人支持库</p></li></ul>
 
 **捉迷藏**
 
@@ -30,4 +30,4 @@
 
 ------------
 Thanks，[@innei](https://innei.ren)
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/10/22, 8:44 AM<br>下一次刷新：6/10/22, 11:44 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/10/22, 11:41 AM<br>下一次刷新：6/10/22, 2:41 PM</p>
