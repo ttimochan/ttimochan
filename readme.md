@@ -22,7 +22,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Kaiyiwing/qwerty-learner>Kaiyiwing/qwerty-learner</a><p>为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers</p></li><li><a href=https://github.com/Innei/Innei>Innei/Innei</a></li><li><a href=https://github.com/labring/laf>labring/laf</a><p>laf 是一个 serverless 框架，集成云函数，云数据库，对象存储等能力，是一个一站式开发平台，像写博客一样写代码！</p></li><li><a href=https://github.com/go-gitea/gitea>go-gitea/gitea</a><p>Git with a cup of tea, painless self-hosted git service</p></li><li><a href=https://github.com/mamoe/mirai>mamoe/mirai</a><p>高效率 QQ 机器人支持库</p></li></ul>
+<ul><li><a href=https://github.com/Grasscutters/Grasscutter>Grasscutters/Grasscutter</a><p>A server software reimplementation for a certain anime game.</p></li><li><a href=https://github.com/mx-space/kami>mx-space/kami</a><p>🍰 Kami is mx-space's web frontend theme. Cute and lovely.</p></li><li><a href=https://github.com/mamoe/mirai>mamoe/mirai</a><p>高效率 QQ 机器人支持库</p></li><li><a href=https://github.com/go-gitea/gitea>go-gitea/gitea</a><p>Git with a cup of tea, painless self-hosted git service</p></li><li><a href=https://github.com/SilverCicada/AyanBot>SilverCicada/AyanBot</a><p>一个简洁高效， 易于使用的异步QQ机器人框架， 基于C++20标准。</p></li></ul>
 
 **捉迷藏**
 
@@ -30,4 +30,4 @@
 
 ------------
 Thanks，[@innei](https://innei.ren)
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/14/22, 8:15 PM<br>下一次刷新：6/14/22, 11:15 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/14/22, 11:08 PM<br>下一次刷新：6/15/22, 2:08 AM</p>
