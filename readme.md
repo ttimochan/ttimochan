@@ -22,7 +22,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/mx-space/docs>mx-space/docs</a><p>📄 Documentation for Mix Space</p></li><li><a href=https://github.com/crisprss/PrintSpoofer>crisprss/PrintSpoofer</a><p>PrintSpoofer的反射dll实现，结合Cobalt Strike使用</p></li><li><a href=https://github.com/vulhub/vulhub>vulhub/vulhub</a><p>Pre-Built Vulnerable Environments Based on Docker-Compose</p></li><li><a href=https://github.com/SilverCicada/AyanBot>SilverCicada/AyanBot</a><p>一个简洁高效， 易于使用的异步QQ机器人框架， 基于C++20标准。</p></li><li><a href=https://github.com/Kaiyiwing/qwerty-learner>Kaiyiwing/qwerty-learner</a><p>为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers</p></li></ul>
+<ul><li><a href=https://github.com/crisprss/PrintSpoofer>crisprss/PrintSpoofer</a><p>PrintSpoofer的反射dll实现，结合Cobalt Strike使用</p></li><li><a href=https://github.com/labring/laf>labring/laf</a><p>laf 是一个 serverless 框架，集成云函数，云数据库，对象存储等能力，是一个一站式开发平台，像写博客一样写代码！</p></li><li><a href=https://github.com/Le-niao/Yunzai-Bot>Le-niao/Yunzai-Bot</a><p>原神QQ群机器人，通过米游社接口，查询原神游戏信息，快速生成图片返回</p></li><li><a href=https://github.com/Innei/Typecho-Theme-Paul>Innei/Typecho-Theme-Paul</a><p>🎈 一个适用于展示，写日记的 Typecho 博客主题。</p></li><li><a href=https://github.com/ehids/ecapture>ehids/ecapture</a><p>capture SSL/TLS text content without CA cert using eBPF. supports Linux x86_64/Aarch64, Android(GKI) Aarch64.</p></li></ul>
 
 **捉迷藏**
 
@@ -30,4 +30,4 @@
 
 ------------
 Thanks，[@innei](https://innei.ren)
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/21/22, 8:43 AM<br>下一次刷新：6/21/22, 11:43 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/21/22, 11:53 AM<br>下一次刷新：6/21/22, 2:53 PM</p>
