@@ -14,7 +14,7 @@
 
 **最近写了...**
 
-<ul><li><span>5/30/22 - <a href=https://www.timochan.cn/posts/jc/fluent_terminal_and_oh-my-posh>Fluent Terminal 美化</a></span><p>眼馋 Linux 终端的美化效果很久了，个人在 Windows 上也比较依赖终端，正好因为重装系统，顺手搞定~</p></li><li><span>5/30/22 - <a href=https://www.timochan.cn/posts/jc/installation_and_use_of_scoop>Scoop 的安装与使用</a></span><p>一直想找一个在 Windows 下好用的包管理器，chocolatey / winget 虽然满足的我对包管理器的一些预期，但是有些地方不够满足，例如 winget 不能自己配置环境变量，而且经常自己卡死；chocolatey 总是需要没必要的权限提升，而且安装和升级相对不是很满意。我想要的就是一种在 Mac 下使用 Homebrew 的感觉，scoop 进入我的视野。</p></li><li><span>5/24/22 - <a href=https://www.timochan.cn/posts/jc/deploy_umami_for_analyze>umami install(安装)</a></span><p>一直想找一个不使用 cookie 追踪的统计网站，虽然大多数主流浏览器具备了这种 cookie 反追踪的能力，但是我依旧想使用这种脱敏的统计工具。</p></li><li><span>4/18/22 - <a href=https://www.timochan.cn/posts/any_pen/upload-labs_Pass_10_for_Linux>Upload-labs_Pass-10_for_Linux</a></span><p>我们不要用常见的思维来做，需要有新的突破</p></li><li><span>4/18/22 - <a href=https://www.timochan.cn/posts/any_pen/upload-labs>Upload-labs</a></span><p>文件上传的基础漏洞</p></li></ul>
+<ul><li><span>6/22/22 - <a href=https://www.timochan.cn/posts/any_pen/information_safety_for_2022>都 2022 年了，信息安全怎么样？</a></span><p>都 2022 年了，信息安全怎么样？安全自在人心。</p></li><li><span>5/30/22 - <a href=https://www.timochan.cn/posts/jc/fluent_terminal_and_oh-my-posh>Fluent Terminal 美化</a></span><p>眼馋 Linux 终端的美化效果很久了，个人在 Windows 上也比较依赖终端，正好因为重装系统，顺手搞定~</p></li><li><span>5/30/22 - <a href=https://www.timochan.cn/posts/jc/installation_and_use_of_scoop>Scoop 的安装与使用</a></span><p>一直想找一个在 Windows 下好用的包管理器，chocolatey / winget 虽然满足的我对包管理器的一些预期，但是有些地方不够满足，例如 winget 不能自己配置环境变量，而且经常自己卡死；chocolatey 总是需要没必要的权限提升，而且安装和升级相对不是很满意。我想要的就是一种在 Mac 下使用 Homebrew 的感觉，scoop 进入我的视野。</p></li><li><span>5/24/22 - <a href=https://www.timochan.cn/posts/jc/deploy_umami_for_analyze>umami install(安装)</a></span><p>一直想找一个不使用 cookie 追踪的统计网站，虽然大多数主流浏览器具备了这种 cookie 反追踪的能力，但是我依旧想使用这种脱敏的统计工具。</p></li><li><span>4/18/22 - <a href=https://www.timochan.cn/posts/any_pen/upload-labs_Pass_10_for_Linux>Upload-labs_Pass-10_for_Linux</a></span><p>我们不要用常见的思维来做，需要有新的突破</p></li></ul>
 
 **最近赞了...**
 
@@ -22,7 +22,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/polishing-labs/patchup>polishing-labs/patchup</a><p>一个 pwn 手 配置 gilbc 库的小工具</p></li><li><a href=https://github.com/mx-space/docs>mx-space/docs</a><p>📄 Documentation for Mix Space</p></li><li><a href=https://github.com/nx-space/core>nx-space/core</a><p>🥳 the RESTful API service for NEXT Space, more features, powered by @nestjs.</p></li><li><a href=https://github.com/DrDonk/unlocker>DrDonk/unlocker</a><p>VMware macOS utilities</p></li><li><a href=https://github.com/mx-space/kami>mx-space/kami</a><p>🍰 Kami is mx-space's web frontend theme. Cute and lovely.</p></li></ul>
+<ul><li><a href=https://github.com/labring/laf>labring/laf</a><p>laf 是一个 serverless 框架，集成云函数，云数据库，对象存储等能力，是一个一站式开发平台，像写博客一样写代码！</p></li><li><a href=https://github.com/Rust-Boy/RustGame>Rust-Boy/RustGame</a><p>A game written using rust</p></li><li><a href=https://github.com/Innei/nest-http-boilerplate>Innei/nest-http-boilerplate</a><p>A template for NestJS Typegoose Vitest and more, fast and simple boilerplate.</p></li><li><a href=https://github.com/ehids/ecapture>ehids/ecapture</a><p>capture SSL/TLS text content without CA cert using eBPF. supports Linux x86_64/Aarch64, Android(GKI) Aarch64.</p></li><li><a href=https://github.com/nx-space/core>nx-space/core</a><p>🥳 the RESTful API service for NEXT Space, more features, powered by @nestjs.</p></li></ul>
 
 **捉迷藏**
 
@@ -30,4 +30,4 @@
 
 ------------
 Thanks，[@innei](https://innei.ren)
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/22/22, 5:08 PM<br>下一次刷新：6/22/22, 8:08 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/22/22, 8:16 PM<br>下一次刷新：6/22/22, 11:16 PM</p>
