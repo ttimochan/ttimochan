@@ -2,7 +2,7 @@ lockfileVersion: 5.3
 
 specifiers:
   '@types/html-minifier': 4.0.2
-  '@types/node': 16.10.3
+  '@types/node': 16.11.41
   axios: 0.22.0
   dayjs: 1.10.7
   html-minifier: 4.0.0
@@ -13,13 +13,13 @@ specifiers:
 
 dependencies:
   '@types/html-minifier': 4.0.2
-  '@types/node': 16.10.3
+  '@types/node': 16.11.41
   axios: 0.22.0
   dayjs: 1.10.7
   html-minifier: 4.0.0
   lodash: 4.17.21
   retry-axios: 2.6.0_axios@0.22.0
-  ts-node: 10.3.0_8304ecd715830f7c190b4d1dea90b100
+  ts-node: 10.3.0_8eef3c752db62f76bf334de6ca042462
   typescript: 4.4.3
 
 packages:
@@ -55,7 +55,7 @@ packages:
   /@types/clean-css/4.2.5:
     resolution: {integrity: sha512-NEzjkGGpbs9S9fgC4abuBvTpVwE3i+Acu9BBod3PUyjDVZcNsGx61b8r2PphR61QGPnn0JHVs5ey6/I4eTrkxw==}
     dependencies:
-      '@types/node': 16.10.3
+      '@types/node': 16.11.41
       source-map: 0.6.1
     dev: false
 
@@ -67,8 +67,8 @@ packages:
       '@types/uglify-js': 3.13.1
     dev: false
 
-  /@types/node/16.10.3:
-    resolution: {integrity: sha512-ho3Ruq+fFnBrZhUYI46n/bV2GjwzSkwuT4dTf0GkuNFmnb8nq4ny2z9JEVemFi6bdEJanHLlYfy9c6FN9B9McQ==}
+  /@types/node/16.11.41:
+    resolution: {integrity: sha512-mqoYK2TnVjdkGk8qXAVGc/x9nSaTpSrFaGFm43BUH3IdoBV0nta6hYaGmdOvIMlbHJbUEVen3gvwpwovAZKNdQ==}
     dev: false
 
   /@types/relateurl/0.2.29:
@@ -207,7 +207,7 @@ packages:
     engines: {node: '>=0.10.0'}
     dev: false
 
-  /ts-node/10.3.0_8304ecd715830f7c190b4d1dea90b100:
+  /ts-node/10.3.0_8eef3c752db62f76bf334de6ca042462:
     resolution: {integrity: sha512-RYIy3i8IgpFH45AX4fQHExrT8BxDeKTdC83QFJkNzkvt8uFB6QJ8XMyhynYiKMLxt9a7yuXaDBZNOYS3XjDcYw==}
     hasBin: true
     peerDependencies:
@@ -226,7 +226,7 @@ packages:
       '@tsconfig/node12': 1.0.9
       '@tsconfig/node14': 1.0.1
       '@tsconfig/node16': 1.0.2
-      '@types/node': 16.10.3
+      '@types/node': 16.11.41
       acorn: 8.5.0
       acorn-walk: 8.2.0
       arg: 4.1.3
