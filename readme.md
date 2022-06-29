@@ -22,7 +22,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/SilverCicada/AyanBot>SilverCicada/AyanBot</a><p>一个简洁高效， 易于使用的异步QQ机器人框架， 基于C++20标准。</p></li><li><a href=https://github.com/Innei/Typecho-Theme-Paul>Innei/Typecho-Theme-Paul</a><p>🎈 一个适用于展示，写日记的 Typecho 博客主题。</p></li><li><a href=https://github.com/Innei/Innei>Innei/Innei</a></li><li><a href=https://github.com/umami-software/umami>umami-software/umami</a><p>Umami is a simple, fast, privacy-focused alternative to Google Analytics.</p></li><li><a href=https://github.com/xiaoZ-hc/redtool>xiaoZ-hc/redtool</a><p>日常积累的一些红队工具及自己写的脚本，更偏向于一些diy的好用的工具，并不是一些比较常用的msf/awvs/xray这种</p></li></ul>
+<ul><li><a href=https://github.com/go-gitea/gitea>go-gitea/gitea</a><p>Git with a cup of tea, painless self-hosted git service</p></li><li><a href=https://github.com/Rust-Boy/RustGame>Rust-Boy/RustGame</a><p>A game written using rust</p></li><li><a href=https://github.com/nx-space/nx-A-My>nx-space/nx-A-My</a><p>😇 Be self-centered, by rz.sb</p></li><li><a href=https://github.com/SilverCicada/AyanBot>SilverCicada/AyanBot</a><p>一个简洁高效， 易于使用的异步QQ机器人框架， 基于C++20标准。</p></li><li><a href=https://github.com/DrDonk/unlocker>DrDonk/unlocker</a><p>VMware macOS utilities</p></li></ul>
 
 **捉迷藏**
 
@@ -30,4 +30,4 @@
 
 ------------
 Thanks，[@innei](https://innei.ren)
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/29/22, 4:16 PM<br>下一次刷新：6/29/22, 7:16 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/29/22, 5:08 PM<br>下一次刷新：6/29/22, 8:08 PM</p>
