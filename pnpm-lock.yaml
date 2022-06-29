@@ -1,7 +1,7 @@
 lockfileVersion: 5.3
 
 specifiers:
-  '@types/html-minifier': 4.0.1
+  '@types/html-minifier': 4.0.2
   '@types/node': 16.10.3
   axios: 0.22.0
   dayjs: 1.10.7
@@ -12,7 +12,7 @@ specifiers:
   typescript: 4.4.3
 
 dependencies:
-  '@types/html-minifier': 4.0.1
+  '@types/html-minifier': 4.0.2
   '@types/node': 16.10.3
   axios: 0.22.0
   dayjs: 1.10.7
@@ -59,8 +59,8 @@ packages:
       source-map: 0.6.1
     dev: false
 
-  /@types/html-minifier/4.0.1:
-    resolution: {integrity: sha512-6u58FWQbWP45bsxVeMJo0yk2LEsjjZsCwn0JDe/i5Edk3L+b9TR5eZ2FGaMCrLdtGYpME5AGxUqv8o+3hWKogw==}
+  /@types/html-minifier/4.0.2:
+    resolution: {integrity: sha512-4IkmkXJP/25R2fZsCHDX2abztXuQRzUAZq39PfCMz2loLFj8vS9y7aF6vDl58koXSTpsF+eL4Lc5Y4Aww/GCTQ==}
     dependencies:
       '@types/clean-css': 4.2.5
       '@types/relateurl': 0.2.29
