@@ -4,7 +4,7 @@ specifiers:
   '@types/html-minifier': 4.0.2
   '@types/node': 16.11.41
   axios: 0.27.2
-  dayjs: 1.10.7
+  dayjs: 1.11.3
   html-minifier: 4.0.0
   lodash: 4.17.21
   retry-axios: 2.6.0
@@ -15,7 +15,7 @@ dependencies:
   '@types/html-minifier': 4.0.2
   '@types/node': 16.11.41
   axios: 0.27.2
-  dayjs: 1.10.7
+  dayjs: 1.11.3
   html-minifier: 4.0.0
   lodash: 4.17.21
   retry-axios: 2.6.0_axios@0.27.2
@@ -138,8 +138,8 @@ packages:
     resolution: {integrity: sha512-dcKFX3jn0MpIaXjisoRvexIJVEKzaq7z2rZKxf+MSr9TkdmHmsU4m2lcLojrj/FHl8mk5VxMmYA+ftRkP/3oKQ==}
     dev: false
 
-  /dayjs/1.10.7:
-    resolution: {integrity: sha512-P6twpd70BcPK34K26uJ1KT3wlhpuOAPoMwJzpsIWUxHZ7wpmbdZL/hQqBDfz7hGurYSa5PhzdhDHtt319hL3ig==}
+  /dayjs/1.11.3:
+    resolution: {integrity: sha512-xxwlswWOlGhzgQ4TKzASQkUhqERI3egRNqgV4ScR8wlANA/A9tZ7miXa44vTTKEq5l7vWoL5G57bG3zA+Kow0A==}
     dev: false
 
   /delayed-stream/1.0.0:
