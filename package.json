@@ -20,7 +20,7 @@
   "homepage": "https://github.com/Innei/Innei#readme",
   "dependencies": {
     "@types/html-minifier": "4.0.2",
-    "@types/node": "16.11.42",
+    "@types/node": "16.11.43",
     "axios": "0.27.2",
     "dayjs": "1.11.3",
     "html-minifier": "4.0.0",
