@@ -8,7 +8,7 @@ specifiers:
   html-minifier: 4.0.0
   lodash: 4.17.21
   retry-axios: 2.6.0
-  ts-node: 10.8.1
+  ts-node: 10.9.1
   typescript: 4.7.4
 
 dependencies:
@@ -19,7 +19,7 @@ dependencies:
   html-minifier: 4.0.0
   lodash: 4.17.21
   retry-axios: 2.6.0_axios@0.27.2
-  ts-node: 10.8.1_3528933437895c7867d23ad9eb8dea8b
+  ts-node: 10.9.1_3528933437895c7867d23ad9eb8dea8b
   typescript: 4.7.4
 
 packages:
@@ -256,8 +256,8 @@ packages:
     engines: {node: '>=0.10.0'}
     dev: false
 
-  /ts-node/10.8.1_3528933437895c7867d23ad9eb8dea8b:
-    resolution: {integrity: sha512-Wwsnao4DQoJsN034wePSg5nZiw4YKXf56mPIAeD6wVmiv+RytNSWqc2f3fKvcUoV+Yn2+yocD71VOfQHbmVX4g==}
+  /ts-node/10.9.1_3528933437895c7867d23ad9eb8dea8b:
+    resolution: {integrity: sha512-NtVysVPkxxrwFGUUxGYhfux8k78pQB3JqYBXlLRZgdGUqTO5wU/UyHop5p70iEbGhB7q5KmiZiU0Y3KlJrScEw==}
     hasBin: true
     peerDependencies:
       '@swc/core': '>=1.2.50'
