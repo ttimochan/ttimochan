@@ -12,10 +12,6 @@
 
 <!-- opensource_dashboard:active -->
 
-**最近写了...**
-
-<!-- recent_posts_inject -->
-
 **最近赞了...**
 
 <!-- recent_star_inject -->
