@@ -1,16 +1,22 @@
 export const opensource = {
   active: [
-    'mx-space/docs'
+    "mx-space/docs"
   ],
-}
-export const motto = `<p align=center><strong>お可愛いこと。</strong></p>`
+  toys: {
+    limit: 0,
+    random: false,
+    repos: [
+    ],
+  },
+};
+export const motto = `<p align=center><strong>お可愛いこと。</strong></p>`;
 export const github = {
-  name: 'ttimochan',
-}
+  name: "Ittimochan",
+};
 
 export const mxSpace = {
-  url: 'https://www.timochan.cn',
-  api: 'https://api.timochan.cn/apc',
-}
+  url: "https://www.timochan.cn",
+  api: "https://api.timochan.cn/apc",
+};
 
-export const timeZone = 'Asia/Shanghai'
+export const timeZone = "Asia/Shanghai";
