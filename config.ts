@@ -11,7 +11,7 @@ export const opensource = {
 };
 export const motto = `<p align=center><strong>お可愛いこと。</strong></p>`;
 export const github = {
-  name: "Ittimochan",
+  name: "ttimochan",
 };
 
 export const mxSpace = {
