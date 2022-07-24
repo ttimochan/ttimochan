@@ -1,7 +1,9 @@
 export const opensource = {
-  active: ['mx-space/docs'],
+  active: [
+    'mx-space/docs'
+  ],
 }
-
+export const motto = `<p align=center><strong>お可愛いこと。</strong></p>`
 export const github = {
   name: 'ttimochan',
 }
