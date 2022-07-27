@@ -29,7 +29,7 @@
 
 **最近写了...**
 
-<ul><li><span>7/19/22 - <a href=https://www.timochan.cn/notes/35>生人宰一半，熟人大满贯</a></span></li><li><span>6/22/22 - <a href=https://www.timochan.cn/posts/any_pen/information_safety_for_2022>都 2022 年了，信息安全怎么样？</a></span></li><li><span>6/18/22 - <a href=https://www.timochan.cn/notes/34>XiaoXin Pro 16 更换硅脂</a></span></li><li><span>5/30/22 - <a href=https://www.timochan.cn/posts/jc/fluent_terminal_and_oh-my-posh>Fluent Terminal 美化</a></span></li><li><span>5/30/22 - <a href=https://www.timochan.cn/posts/jc/installation_and_use_of_scoop>Scoop 的安装与使用</a></span></li></ul>
+<ul><li><span>7/26/22 - <a href=https://www.timochan.cn/posts/jc/drone_workflows>Drone 工作流编写</a></span></li><li><span>7/19/22 - <a href=https://www.timochan.cn/notes/35>生人宰一半，熟人大满贯</a></span></li><li><span>6/22/22 - <a href=https://www.timochan.cn/posts/any_pen/information_safety_for_2022>都 2022 年了，信息安全怎么样？</a></span></li><li><span>6/18/22 - <a href=https://www.timochan.cn/notes/34>XiaoXin Pro 16 更换硅脂</a></span></li><li><span>5/30/22 - <a href=https://www.timochan.cn/posts/jc/fluent_terminal_and_oh-my-posh>Fluent Terminal 美化</a></span></li></ul>
 
 **最近赞了...**
 
@@ -37,7 +37,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Innei/Innei>Innei/Innei</a></li><li><a href=https://github.com/polishing-labs/wp_blog>polishing-labs/wp_blog</a><p>这是楼上请让路*的WP存放地</p></li><li><a href=https://github.com/nx-space/core>nx-space/core</a><p>🥳 the RESTful API service for NEXT Space, more features, powered by @nestjs.</p></li><li><a href=https://github.com/vulhub/vulhub>vulhub/vulhub</a><p>Pre-Built Vulnerable Environments Based on Docker-Compose</p></li><li><a href=https://github.com/crisprss/PrintSpoofer>crisprss/PrintSpoofer</a><p>PrintSpoofer的反射dll实现，结合Cobalt Strike使用</p></li></ul>
+<ul><li><a href=https://github.com/xiaoZ-hc/redtool>xiaoZ-hc/redtool</a><p>日常积累的一些红队工具及自己写的脚本，更偏向于一些diy的好用的工具，并不是一些比较常用的msf/awvs/xray这种</p></li><li><a href=https://github.com/Grasscutters/Grasscutter>Grasscutters/Grasscutter</a><p>A server software reimplementation for a certain anime game.</p></li><li><a href=https://github.com/Innei/naive-ui-dashboard-template>Innei/naive-ui-dashboard-template</a><p>Naive UI Dashboard Template with TypeScript, WindiCSS.</p></li><li><a href=https://github.com/zh-blogs/blog-daohang>zh-blogs/blog-daohang</a><p>中文博客网站列表导航v2</p></li><li><a href=https://github.com/go-gitea/gitea>go-gitea/gitea</a><p>Git with a cup of tea, painless self-hosted git service</p></li></ul>
 
 **你能找到我吗**
 
@@ -48,4 +48,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：7/26/22, 8:35 AM<br>下一次刷新：7/27/22, 8:35 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：7/27/22, 8:36 AM<br>下一次刷新：7/28/22, 8:36 AM</p>
