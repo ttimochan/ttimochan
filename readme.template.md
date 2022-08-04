@@ -8,10 +8,10 @@
 
 <p>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="github actions"
-    src="https://img.shields.io/badge/-Drone-2088FF?style=flat-square&logo=Drone&logoColor=white" />
+  <img alt="github actions"src="https://img.shields.io/badge/-Drone-2088FF?style=flat-square&logo=Drone&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Debian" src="https://img.shields.io/badge/-Debian-FF0033?style=flat-square&logo=Debian&logoColor=white" />
+  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-DB652A?style=flat-square&logo=ubuntu&logoColor=white" />
 </p>
 
 **Environment**
