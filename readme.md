@@ -29,15 +29,15 @@
 
 **最近写了...**
 
-<ul><li><span>7/26/22 - <a href=https://www.timochan.cn/posts/jc/drone_workflows>Drone 工作流编写</a></span></li><li><span>7/19/22 - <a href=https://www.timochan.cn/notes/35>生人宰一半，熟人大满贯</a></span></li><li><span>6/22/22 - <a href=https://www.timochan.cn/posts/any_pen/information_safety_for_2022>都 2022 年了，信息安全怎么样？</a></span></li><li><span>6/18/22 - <a href=https://www.timochan.cn/notes/34>XiaoXin Pro 16 更换硅脂</a></span></li><li><span>5/30/22 - <a href=https://www.timochan.cn/posts/jc/fluent_terminal_and_oh-my-posh>Fluent Terminal 美化</a></span></li></ul>
+<ul><li><span>8/3/22 - <a href=https://www.timochan.cn/posts/jc/deploy_own_password-manager_server>让我们部署自己的密码管理服务器-Bitwarden</a></span></li><li><span>7/26/22 - <a href=https://www.timochan.cn/posts/jc/drone_workflows>Drone 工作流编写</a></span></li><li><span>7/19/22 - <a href=https://www.timochan.cn/notes/35>生人宰一半，熟人大满贯</a></span></li><li><span>6/22/22 - <a href=https://www.timochan.cn/posts/any_pen/information_safety_for_2022>都 2022 年了，信息安全怎么样？</a></span></li><li><span>6/18/22 - <a href=https://www.timochan.cn/notes/34>XiaoXin Pro 16 更换硅脂</a></span></li></ul>
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/harness/drone>harness/drone</a><p>Drone is a Container-Native, Continuous Delivery Platform</p></li><li><a href=https://github.com/reactify-component/react-shortcut-guide>reactify-component/react-shortcut-guide</a><p>Long-press `⌘` key or press `?` to present a shortcut guide for your Web application.</p></li><li><a href=https://github.com/Binaryify/NeteaseCloudMusicApi>Binaryify/NeteaseCloudMusicApi</a><p>网易云音乐 Node.js API service</p></li><li><a href=https://github.com/veo/wsMemShell>veo/wsMemShell</a><p>WebSocket 内存马，一种新型内存马技术</p></li><li><a href=https://github.com/midoks/mdserver-web>midoks/mdserver-web</a><p>Simple Linux Panel</p></li></ul>
+<ul><li><a href=https://github.com/dani-garcia/vaultwarden>dani-garcia/vaultwarden</a><p>Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs</p></li><li><a href=https://github.com/Clansty/Q2TG>Clansty/Q2TG</a><p>QQ 与 Telegram 群相互转发的 bot</p></li><li><a href=https://github.com/harness/drone>harness/drone</a><p>Drone is a Container-Native, Continuous Delivery Platform</p></li><li><a href=https://github.com/reactify-component/react-shortcut-guide>reactify-component/react-shortcut-guide</a><p>Long-press `⌘` key or press `?` to present a shortcut guide for your Web application.</p></li><li><a href=https://github.com/Binaryify/NeteaseCloudMusicApi>Binaryify/NeteaseCloudMusicApi</a><p>网易云音乐 Node.js API service</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/vulhub/vulhub>vulhub/vulhub</a><p>Pre-Built Vulnerable Environments Based on Docker-Compose</p></li><li><a href=https://github.com/mx-space/docs>mx-space/docs</a><p>📄 Documentation for Mix Space</p></li><li><a href=https://github.com/Rust-Boy/RustGame>Rust-Boy/RustGame</a><p>A game written using rust</p></li><li><a href=https://github.com/DrDonk/unlocker>DrDonk/unlocker</a><p>VMware macOS utilities</p></li><li><a href=https://github.com/nx-space/nx-A-My>nx-space/nx-A-My</a><p>😇 Be self-centered, by rz.sb</p></li></ul>
+<ul><li><a href=https://github.com/Innei/Typecho-Theme-Paul>Innei/Typecho-Theme-Paul</a><p>🎈 一个适用于展示，写日记的 Typecho 博客主题。</p></li><li><a href=https://github.com/nx-space/nx-A-My>nx-space/nx-A-My</a><p>😇 Be self-centered, by rz.sb</p></li><li><a href=https://github.com/polishing-labs/wp_blog>polishing-labs/wp_blog</a><p>这是楼上请让路*的WP存放地</p></li><li><a href=https://github.com/timqian/chinese-independent-blogs>timqian/chinese-independent-blogs</a><p>中文独立博客列表</p></li><li><a href=https://github.com/nx-space/core>nx-space/core</a><p>🥳 the RESTful API service for NEXT Space, more features, powered by @nestjs.</p></li></ul>
 
 **你能找到我吗**
 
@@ -48,4 +48,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：8/3/22, 8:38 AM<br>下一次刷新：8/4/22, 8:38 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：8/4/22, 8:37 AM<br>下一次刷新：8/5/22, 8:37 AM</p>
