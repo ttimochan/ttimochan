@@ -8,10 +8,10 @@
 
 <p>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="github actions"
-    src="https://img.shields.io/badge/-Drone-2088FF?style=flat-square&logo=Drone&logoColor=white" />
+  <img alt="github actions"src="https://img.shields.io/badge/-Drone-2088FF?style=flat-square&logo=Drone&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Debian" src="https://img.shields.io/badge/-Debian-FF0033?style=flat-square&logo=Debian&logoColor=white" />
+  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-DB652A?style=flat-square&logo=ubuntu&logoColor=white" />
 </p>
 
 **Environment**
@@ -33,11 +33,11 @@
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/dani-garcia/vaultwarden>dani-garcia/vaultwarden</a><p>Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs</p></li><li><a href=https://github.com/Clansty/Q2TG>Clansty/Q2TG</a><p>QQ 与 Telegram 群相互转发的 bot</p></li><li><a href=https://github.com/harness/drone>harness/drone</a><p>Drone is a Container-Native, Continuous Delivery Platform</p></li><li><a href=https://github.com/reactify-component/react-shortcut-guide>reactify-component/react-shortcut-guide</a><p>Long-press `⌘` key or press `?` to present a shortcut guide for your Web application.</p></li><li><a href=https://github.com/Binaryify/NeteaseCloudMusicApi>Binaryify/NeteaseCloudMusicApi</a><p>网易云音乐 Node.js API service</p></li></ul>
+<ul><li><a href=https://github.com/openresty/headers-more-nginx-module>openresty/headers-more-nginx-module</a><p>Set, add, and clear arbitrary output headers in NGINX http servers</p></li><li><a href=https://github.com/dani-garcia/vaultwarden>dani-garcia/vaultwarden</a><p>Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs</p></li><li><a href=https://github.com/Clansty/Q2TG>Clansty/Q2TG</a><p>QQ 与 Telegram 群相互转发的 bot</p></li><li><a href=https://github.com/harness/drone>harness/drone</a><p>Drone is a Container-Native, Continuous Delivery Platform</p></li><li><a href=https://github.com/reactify-component/react-shortcut-guide>reactify-component/react-shortcut-guide</a><p>Long-press `⌘` key or press `?` to present a shortcut guide for your Web application.</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Innei/Typecho-Theme-Paul>Innei/Typecho-Theme-Paul</a><p>🎈 一个适用于展示，写日记的 Typecho 博客主题。</p></li><li><a href=https://github.com/nx-space/nx-A-My>nx-space/nx-A-My</a><p>😇 Be self-centered, by rz.sb</p></li><li><a href=https://github.com/polishing-labs/wp_blog>polishing-labs/wp_blog</a><p>这是楼上请让路*的WP存放地</p></li><li><a href=https://github.com/timqian/chinese-independent-blogs>timqian/chinese-independent-blogs</a><p>中文独立博客列表</p></li><li><a href=https://github.com/nx-space/core>nx-space/core</a><p>🥳 the RESTful API service for NEXT Space, more features, powered by @nestjs.</p></li></ul>
+<ul><li><a href=https://github.com/nx-space/core>nx-space/core</a><p>🥳 the RESTful API service for NEXT Space, more features, powered by @nestjs.</p></li><li><a href=https://github.com/Innei/naive-ui-dashboard-template>Innei/naive-ui-dashboard-template</a><p>Naive UI Dashboard Template with TypeScript, WindiCSS.</p></li><li><a href=https://github.com/umami-software/umami>umami-software/umami</a><p>Umami is a simple, fast, privacy-focused alternative to Google Analytics.</p></li><li><a href=https://github.com/RoderickChan/pwncli>RoderickChan/pwncli</a><p>Do pwn by cli</p></li><li><a href=https://github.com/RicheyJang/PaimengBot>RicheyJang/PaimengBot</a><p>派蒙Bot：一个使用Onebot协议、基于ZeroBot的QQ娱乐机器人，支持30余种功能，可以大大丰富你的QQ体验或群活跃度，欸嘿。支持多种数据库（包括SQLite、Postgresql、Mysql等）</p></li></ul>
 
 **你能找到我吗**
 
@@ -48,4 +48,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：8/4/22, 8:37 AM<br>下一次刷新：8/5/22, 8:37 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：8/4/22, 9:59 PM<br>下一次刷新：8/5/22, 9:59 PM</p>
