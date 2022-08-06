@@ -38,7 +38,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/xiaoZ-hc/redtool>xiaoZ-hc/redtool</a><p>日常积累的一些红队工具及自己写的脚本，更偏向于一些diy的好用的工具，并不是一些比较常用的msf/awvs/xray这种</p></li><li><a href=https://github.com/polishing-labs/patchup>polishing-labs/patchup</a><p>一个 pwn 手 配置 gilbc 库的小工具</p></li><li><a href=https://github.com/Grasscutters/Grasscutter>Grasscutters/Grasscutter</a><p>A server software reimplementation for a certain anime game.</p></li><li><a href=https://github.com/DrDonk/unlocker>DrDonk/unlocker</a><p>VMware macOS utilities</p></li><li><a href=https://github.com/nx-space/nx-A-My>nx-space/nx-A-My</a><p>😇 Be self-centered, by rz.sb</p></li></ul>
+<ul><li><a href=https://github.com/DrDonk/unlocker>DrDonk/unlocker</a><p>VMware macOS utilities</p></li><li><a href=https://github.com/ventoy/Ventoy>ventoy/Ventoy</a><p>A new bootable USB solution.</p></li><li><a href=https://github.com/Binaryify/NeteaseCloudMusicApi>Binaryify/NeteaseCloudMusicApi</a><p>网易云音乐 Node.js API service</p></li><li><a href=https://github.com/RoderickChan/pwncli>RoderickChan/pwncli</a><p>Do pwn by cli</p></li><li><a href=https://github.com/umami-software/umami>umami-software/umami</a><p>Umami is a simple, fast, privacy-focused alternative to Google Analytics.</p></li></ul>
 
 **你能找到我吗**
 
@@ -49,4 +49,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：8/5/22, 8:39 AM<br>下一次刷新：8/6/22, 8:39 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：8/6/22, 8:32 AM<br>下一次刷新：8/7/22, 8:32 AM</p>
