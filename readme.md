@@ -30,7 +30,7 @@
 
 **最近写了...**
 
-<ul><li><span>8/3/22 - <a href=https://www.timochan.cn/posts/jc/deploy_own_password-manager_server>让我们部署自己的密码管理服务器-Bitwarden</a></span></li><li><span>7/26/22 - <a href=https://www.timochan.cn/posts/jc/drone_workflows>Drone 工作流编写</a></span></li><li><span>7/19/22 - <a href=https://www.timochan.cn/notes/35>生人宰一半，熟人大满贯</a></span></li><li><span>6/22/22 - <a href=https://www.timochan.cn/posts/any_pen/information_safety_for_2022>都 2022 年了，信息安全怎么样？</a></span></li><li><span>6/18/22 - <a href=https://www.timochan.cn/notes/34>XiaoXin Pro 16 更换硅脂</a></span></li></ul>
+<ul><li><span>8/3/22 - <a href=https://www.timochan.cn/posts/jc/deploy_own_password-manager_server>让我们部署自己的密码管理服务器吧 - Bitwarden</a></span></li><li><span>7/26/22 - <a href=https://www.timochan.cn/posts/jc/drone_workflows>Drone 工作流编写</a></span></li><li><span>7/19/22 - <a href=https://www.timochan.cn/notes/35>生人宰一半，熟人大满贯</a></span></li><li><span>6/22/22 - <a href=https://www.timochan.cn/posts/any_pen/information_safety_for_2022>都 2022 年了，信息安全怎么样？</a></span></li><li><span>6/18/22 - <a href=https://www.timochan.cn/notes/34>XiaoXin Pro 16 更换硅脂</a></span></li></ul>
 
 **最近赞了...**
 
@@ -38,7 +38,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/DrDonk/unlocker>DrDonk/unlocker</a><p>VMware macOS utilities</p></li><li><a href=https://github.com/ventoy/Ventoy>ventoy/Ventoy</a><p>A new bootable USB solution.</p></li><li><a href=https://github.com/Binaryify/NeteaseCloudMusicApi>Binaryify/NeteaseCloudMusicApi</a><p>网易云音乐 Node.js API service</p></li><li><a href=https://github.com/RoderickChan/pwncli>RoderickChan/pwncli</a><p>Do pwn by cli</p></li><li><a href=https://github.com/umami-software/umami>umami-software/umami</a><p>Umami is a simple, fast, privacy-focused alternative to Google Analytics.</p></li></ul>
+<ul><li><a href=https://github.com/midoks/mdserver-web>midoks/mdserver-web</a><p>Simple Linux Panel</p></li><li><a href=https://github.com/Le-niao/Yunzai-Bot>Le-niao/Yunzai-Bot</a><p>原神QQ群机器人，通过米游社接口，查询原神游戏信息，快速生成图片返回</p></li><li><a href=https://github.com/umami-software/umami>umami-software/umami</a><p>Umami is a simple, fast, privacy-focused alternative to Google Analytics.</p></li><li><a href=https://github.com/SilverCicada/AyanBot>SilverCicada/AyanBot</a><p>一个简洁高效， 易于使用的异步QQ机器人框架， 基于C++20标准。</p></li><li><a href=https://github.com/Innei/naive-ui-dashboard-template>Innei/naive-ui-dashboard-template</a><p>Naive UI Dashboard Template with TypeScript, WindiCSS.</p></li></ul>
 
 **你能找到我吗**
 
@@ -49,4 +49,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：8/6/22, 8:32 AM<br>下一次刷新：8/7/22, 8:32 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：8/7/22, 8:37 AM<br>下一次刷新：8/8/22, 8:37 AM</p>
