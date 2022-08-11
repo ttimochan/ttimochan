@@ -30,15 +30,15 @@
 
 **最近写了...**
 
-<ul><li><span>8/3/22 - <a href=https://www.timochan.cn/posts/jc/deploy_own_password-manager_server>让我们部署自己的密码管理服务器吧 - Bitwarden</a></span></li><li><span>7/26/22 - <a href=https://www.timochan.cn/posts/jc/drone_workflows>Drone 工作流编写</a></span></li><li><span>7/19/22 - <a href=https://www.timochan.cn/notes/35>生人宰一半，熟人大满贯</a></span></li><li><span>6/22/22 - <a href=https://www.timochan.cn/posts/any_pen/information_safety_for_2022>都 2022 年了，信息安全怎么样？</a></span></li><li><span>6/18/22 - <a href=https://www.timochan.cn/notes/34>XiaoXin Pro 16 更换硅脂</a></span></li></ul>
+<ul><li><span>8/10/22 - <a href=https://www.timochan.cn/posts/jc/waf_modsecurity_for_nginx>让我们部署自己的 WAF - ModSecurity</a></span></li><li><span>8/3/22 - <a href=https://www.timochan.cn/posts/jc/deploy_own_password-manager_server>让我们部署自己的密码管理服务器吧 - Bitwarden</a></span></li><li><span>7/26/22 - <a href=https://www.timochan.cn/posts/jc/drone_workflows>Drone 工作流编写</a></span></li><li><span>7/19/22 - <a href=https://www.timochan.cn/notes/35>生人宰一半，熟人大满贯</a></span></li><li><span>6/22/22 - <a href=https://www.timochan.cn/posts/any_pen/information_safety_for_2022>都 2022 年了，信息安全怎么样？</a></span></li></ul>
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/openresty/headers-more-nginx-module>openresty/headers-more-nginx-module</a><p>Set, add, and clear arbitrary output headers in NGINX http servers</p></li><li><a href=https://github.com/dani-garcia/vaultwarden>dani-garcia/vaultwarden</a><p>Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs</p></li><li><a href=https://github.com/Clansty/Q2TG>Clansty/Q2TG</a><p>QQ 与 Telegram 群相互转发的 bot</p></li><li><a href=https://github.com/harness/drone>harness/drone</a><p>Drone is a Container-Native, Continuous Delivery Platform</p></li><li><a href=https://github.com/reactify-component/react-shortcut-guide>reactify-component/react-shortcut-guide</a><p>Long-press `⌘` key or press `?` to present a shortcut guide for your Web application.</p></li></ul>
+<ul><li><a href=https://github.com/coreruleset/coreruleset>coreruleset/coreruleset</a><p>OWASP ModSecurity Core Rule Set (Official Repository)</p></li><li><a href=https://github.com/openresty/headers-more-nginx-module>openresty/headers-more-nginx-module</a><p>Set, add, and clear arbitrary output headers in NGINX http servers</p></li><li><a href=https://github.com/dani-garcia/vaultwarden>dani-garcia/vaultwarden</a><p>Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs</p></li><li><a href=https://github.com/Clansty/Q2TG>Clansty/Q2TG</a><p>QQ 与 Telegram 群相互转发的 bot</p></li><li><a href=https://github.com/harness/drone>harness/drone</a><p>Drone is a Container-Native, Continuous Delivery Platform</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/RicheyJang/PaimengBot>RicheyJang/PaimengBot</a><p>派蒙Bot：一个使用Onebot协议、基于ZeroBot的QQ娱乐机器人，支持30余种功能，可以大大丰富你的QQ体验或群活跃度，欸嘿。支持多种数据库（包括SQLite、Postgresql、Mysql等）</p></li><li><a href=https://github.com/Innei/Typecho-Theme-Paul>Innei/Typecho-Theme-Paul</a><p>🎈 一个适用于展示，写日记的 Typecho 博客主题。</p></li><li><a href=https://github.com/midoks/mdserver-web>midoks/mdserver-web</a><p>Simple Linux Panel</p></li><li><a href=https://github.com/polishing-labs/patchup>polishing-labs/patchup</a><p>一个 pwn 手 配置 gilbc 库的小工具</p></li><li><a href=https://github.com/RoderickChan/pwncli>RoderickChan/pwncli</a><p>Do pwn by cli</p></li></ul>
+<ul><li><a href=https://github.com/Innei/Innei>Innei/Innei</a></li><li><a href=https://github.com/umami-software/umami>umami-software/umami</a><p>Umami is a simple, fast, privacy-focused alternative to Google Analytics.</p></li><li><a href=https://github.com/Binaryify/NeteaseCloudMusicApi>Binaryify/NeteaseCloudMusicApi</a><p>网易云音乐 Node.js API service</p></li><li><a href=https://github.com/Innei/Typecho-Theme-Paul>Innei/Typecho-Theme-Paul</a><p>🎈 一个适用于展示，写日记的 Typecho 博客主题。</p></li><li><a href=https://github.com/veo/wsMemShell>veo/wsMemShell</a><p>WebSocket 内存马，一种新型内存马技术</p></li></ul>
 
 **你能找到我吗**
 
@@ -49,4 +49,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：8/10/22, 8:32 AM<br>下一次刷新：8/11/22, 8:32 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：8/11/22, 8:34 AM<br>下一次刷新：8/12/22, 8:34 AM</p>
