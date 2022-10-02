@@ -19,7 +19,7 @@
 <p>
   <img alt="Windows" src="https://img.shields.io/badge/-Windows-333?style=flat-square&logo=windows&logoColor=white" />
   <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
-  <img alt="Windows" src="https://img.shields.io/badge/-Arch%20Linux-2E9AFE?style=flat-square&logo=Arch%20Linux&logoColor=ffffff" />
+  <img alt="Manjaro Linux" src="https://img.shields.io/badge/-Manjaro%20Linux-1B490B?style=flat-square&logo=Manjaro%20Linux&logoColor=1B490B" />
 </p>
 
 
