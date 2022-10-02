@@ -1,4 +1,4 @@
-# ttimochan 🧑🏻‍💻 ![](https://visitor-badge.laobi.icu/badge?page_id=timochan-cn.readme) 
+# ttimochan ![](https://visitor-badge.laobi.icu/badge?page_id=timochan-cn.readme) 
 
 
 
