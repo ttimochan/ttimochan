@@ -38,7 +38,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Innei/Typecho-Theme-Paul>Innei/Typecho-Theme-Paul</a><p>🎈 一个适用于展示，写日记的 Typecho 博客主题。</p></li><li><a href=https://github.com/openresty/headers-more-nginx-module>openresty/headers-more-nginx-module</a><p>Set, add, and clear arbitrary output headers in NGINX http servers</p></li><li><a href=https://github.com/go-gitea/gitea>go-gitea/gitea</a><p>Git with a cup of tea, painless self-hosted git service</p></li><li><a href=https://github.com/zh-blogs/blog-daohang>zh-blogs/blog-daohang</a><p>中文博客网站列表导航v2</p></li><li><a href=https://github.com/midoks/mdserver-web>midoks/mdserver-web</a><p>Simple Linux Panel</p></li></ul>
+<ul><li><a href=https://github.com/daidr/cert-monitor>daidr/cert-monitor</a></li><li><a href=https://github.com/veo/wsMemShell>veo/wsMemShell</a><p>WebSocket 内存马/Webshell，一种新型内存马/WebShell技术</p></li><li><a href=https://github.com/RoderickChan/pwncli>RoderickChan/pwncli</a><p>Do pwn by cli</p></li><li><a href=https://github.com/Innei/naive-ui-dashboard-template>Innei/naive-ui-dashboard-template</a><p>Naive UI Dashboard Template with TypeScript, WindiCSS.</p></li><li><a href=https://github.com/zh-blogs/blog-daohang>zh-blogs/blog-daohang</a><p>中文博客网站列表导航v2</p></li></ul>
 
 **你能找到我吗**
 
@@ -49,4 +49,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：10/7/22, 8:55 AM<br>下一次刷新：10/8/22, 8:55 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：10/8/22, 8:39 AM<br>下一次刷新：10/9/22, 8:39 AM</p>
