@@ -34,11 +34,11 @@
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/ADD-SP/ngx_waf>ADD-SP/ngx_waf</a><p>Handy, High performance, ModSecurity compatible Nginx firewall module & 方便、高性能、兼容 ModSecurity 的 Nginx 防火墙模块</p></li><li><a href=https://github.com/utmapp/UTM>utmapp/UTM</a><p>Virtual machines for iOS and macOS</p></li><li><a href=https://github.com/Innei/bump-version>Innei/bump-version</a><p>A simple bump version cli.</p></li><li><a href=https://github.com/antfu/case-police>antfu/case-police</a><p>🚨 Make the case correct, PLEASE!</p></li><li><a href=https://github.com/walinejs/waline>walinejs/waline</a><p>💬 A Simple, Safe Comment System</p></li></ul>
+<ul><li><a href=https://github.com/wibus-wee/koishi-plugin-novel-ai-api>wibus-wee/koishi-plugin-novel-ai-api</a><p>Speical novel ai api version | NovelAI 画图接口特殊版本</p></li><li><a href=https://github.com/ADD-SP/ngx_waf>ADD-SP/ngx_waf</a><p>Handy, High performance, ModSecurity compatible Nginx firewall module & 方便、高性能、兼容 ModSecurity 的 Nginx 防火墙模块</p></li><li><a href=https://github.com/utmapp/UTM>utmapp/UTM</a><p>Virtual machines for iOS and macOS</p></li><li><a href=https://github.com/Innei/bump-version>Innei/bump-version</a><p>A simple bump version cli.</p></li><li><a href=https://github.com/antfu/case-police>antfu/case-police</a><p>🚨 Make the case correct, PLEASE!</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Innei/Innei>Innei/Innei</a></li><li><a href=https://github.com/umami-software/umami>umami-software/umami</a><p>Umami is a simple, fast, privacy-focused alternative to Google Analytics.</p></li><li><a href=https://github.com/midoks/mdserver-web>midoks/mdserver-web</a><p>Simple Linux Panel</p></li><li><a href=https://github.com/dani-garcia/vaultwarden>dani-garcia/vaultwarden</a><p>Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs</p></li><li><a href=https://github.com/veo/wsMemShell>veo/wsMemShell</a><p>WebSocket 内存马/Webshell，一种新型内存马/WebShell技术</p></li></ul>
+<ul><li><a href=https://github.com/openresty/headers-more-nginx-module>openresty/headers-more-nginx-module</a><p>Set, add, and clear arbitrary output headers in NGINX http servers</p></li><li><a href=https://github.com/yoimiya-kokomi/Yunzai-Bot>yoimiya-kokomi/Yunzai-Bot</a><p>原神QQ群机器人，通过米游社接口，查询原神游戏信息，快速生成图片返回</p></li><li><a href=https://github.com/go-gitea/gitea>go-gitea/gitea</a><p>Git with a cup of tea, painless self-hosted git service</p></li><li><a href=https://github.com/ventoy/Ventoy>ventoy/Ventoy</a><p>A new bootable USB solution.</p></li><li><a href=https://github.com/midoks/mdserver-web>midoks/mdserver-web</a><p>Simple Linux Panel</p></li></ul>
 
 **你能找到我吗**
 
@@ -49,4 +49,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：10/16/22, 8:47 AM<br>下一次刷新：10/17/22, 8:47 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：10/17/22, 8:51 AM<br>下一次刷新：10/18/22, 8:51 AM</p>
