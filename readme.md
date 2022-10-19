@@ -30,7 +30,7 @@
 
 **最近写了...**
 
-<ul><li><span>9/22/22 - <a href=https://www.timochan.cn/notes/37>华硕，“奸”如磐石</a></span></li><li><span>8/10/22 - <a href=https://www.timochan.cn/posts/jc/waf_modsecurity_for_nginx>让我们部署自己的 WAF - ModSecurity</a></span></li><li><span>8/3/22 - <a href=https://www.timochan.cn/posts/jc/deploy_own_password-manager_server>让我们部署自己的密码管理服务器吧 - Bitwarden</a></span></li><li><span>7/26/22 - <a href=https://www.timochan.cn/posts/jc/drone_workflows>Drone 工作流编写</a></span></li><li><span>7/19/22 - <a href=https://www.timochan.cn/notes/35>生人宰一半，熟人大满贯</a></span></li></ul>
+<ul><li><span>10/18/22 - <a href=https://www.timochan.cn/notes/38>最后还是选择了 Manjaro</a></span></li><li><span>9/22/22 - <a href=https://www.timochan.cn/notes/37>华硕，“奸”如磐石</a></span></li><li><span>8/10/22 - <a href=https://www.timochan.cn/posts/jc/waf_modsecurity_for_nginx>让我们部署自己的 WAF - ModSecurity</a></span></li><li><span>8/3/22 - <a href=https://www.timochan.cn/posts/jc/deploy_own_password-manager_server>让我们部署自己的密码管理服务器吧 - Bitwarden</a></span></li><li><span>7/26/22 - <a href=https://www.timochan.cn/posts/jc/drone_workflows>Drone 工作流编写</a></span></li></ul>
 
 **最近赞了...**
 
@@ -38,7 +38,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Clansty/Q2TG>Clansty/Q2TG</a><p>QQ 与 Telegram 群相互转发的 bot</p></li><li><a href=https://github.com/Le-niao/Yunzai-Bot>Le-niao/Yunzai-Bot</a><p>原神QQ群机器人，通过米游社接口，查询原神游戏信息，快速生成图片返回</p></li><li><a href=https://github.com/daidr/cert-monitor>daidr/cert-monitor</a></li><li><a href=https://github.com/veo/wsMemShell>veo/wsMemShell</a><p>WebSocket 内存马/Webshell，一种新型内存马/WebShell技术</p></li><li><a href=https://github.com/js-org/js.org>js-org/js.org</a><p>Dedicated to JavaScript and its awesome community since 2015</p></li></ul>
+<ul><li><a href=https://github.com/RoderickChan/pwncli>RoderickChan/pwncli</a><p>Do pwn by cli</p></li><li><a href=https://github.com/DrDonk/unlocker>DrDonk/unlocker</a><p>VMware macOS utilities</p></li><li><a href=https://github.com/midoks/mdserver-web>midoks/mdserver-web</a><p>Simple Linux Panel</p></li><li><a href=https://github.com/coreruleset/coreruleset>coreruleset/coreruleset</a><p>OWASP ModSecurity Core Rule Set (Official Repository)</p></li><li><a href=https://github.com/reactify-component/react-shortcut-guide>reactify-component/react-shortcut-guide</a><p>Long-press `⌘` key or press `?` to present a shortcut guide for your Web application.</p></li></ul>
 
 **你能找到我吗**
 
@@ -49,4 +49,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：10/18/22, 8:46 AM<br>下一次刷新：10/19/22, 8:46 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：10/19/22, 8:48 AM<br>下一次刷新：10/20/22, 8:48 AM</p>
