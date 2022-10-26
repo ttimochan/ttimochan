@@ -38,7 +38,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/walinejs/waline>walinejs/waline</a><p>💬 A Simple, Safe Comment System</p></li><li><a href=https://github.com/Binaryify/NeteaseCloudMusicApi>Binaryify/NeteaseCloudMusicApi</a><p>网易云音乐 Node.js API service</p></li><li><a href=https://github.com/openresty/headers-more-nginx-module>openresty/headers-more-nginx-module</a><p>Set, add, and clear arbitrary output headers in NGINX http servers</p></li><li><a href=https://github.com/RoderickChan/pwncli>RoderickChan/pwncli</a><p>Do pwn by cli</p></li><li><a href=https://github.com/ventoy/Ventoy>ventoy/Ventoy</a><p>A new bootable USB solution.</p></li></ul>
+<ul><li><a href=https://github.com/go-gitea/gitea>go-gitea/gitea</a><p>Git with a cup of tea, painless self-hosted git service</p></li><li><a href=https://github.com/daidr/cert-monitor>daidr/cert-monitor</a></li><li><a href=https://github.com/openresty/headers-more-nginx-module>openresty/headers-more-nginx-module</a><p>Set, add, and clear arbitrary output headers in NGINX http servers</p></li><li><a href=https://github.com/ventoy/Ventoy>ventoy/Ventoy</a><p>A new bootable USB solution.</p></li><li><a href=https://github.com/coreruleset/coreruleset>coreruleset/coreruleset</a><p>OWASP ModSecurity Core Rule Set (Official Repository)</p></li></ul>
 
 **你能找到我吗**
 
@@ -49,4 +49,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：10/25/22, 8:50 AM<br>下一次刷新：10/26/22, 8:50 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：10/26/22, 8:37 AM<br>下一次刷新：10/27/22, 8:37 AM</p>
