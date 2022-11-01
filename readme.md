@@ -30,15 +30,15 @@
 
 **最近写了...**
 
-<ul><li><span>10/18/22 - <a href=https://www.timochan.cn/notes/38>最后还是选择了 Manjaro</a></span></li><li><span>9/22/22 - <a href=https://www.timochan.cn/notes/37>华硕，“奸”如磐石</a></span></li><li><span>8/10/22 - <a href=https://www.timochan.cn/posts/jc/waf_modsecurity_for_nginx>让我们部署自己的 WAF - ModSecurity</a></span></li><li><span>8/3/22 - <a href=https://www.timochan.cn/posts/jc/deploy_own_password-manager_server>让我们部署自己的密码管理服务器吧 - Bitwarden</a></span></li><li><span>7/26/22 - <a href=https://www.timochan.cn/posts/jc/drone_workflows>Drone 工作流编写</a></span></li></ul>
+<ul><li><span>10/31/22 - <a href=https://www.timochan.cn/notes/39>我为什么拥抱 Linux</a></span></li><li><span>10/18/22 - <a href=https://www.timochan.cn/notes/38>最后还是选择了 Manjaro</a></span></li><li><span>9/22/22 - <a href=https://www.timochan.cn/notes/37>华硕，“奸”如磐石</a></span></li><li><span>8/10/22 - <a href=https://www.timochan.cn/posts/jc/waf_modsecurity_for_nginx>让我们部署自己的 WAF - ModSecurity</a></span></li><li><span>8/3/22 - <a href=https://www.timochan.cn/posts/jc/deploy_own_password-manager_server>让我们部署自己的密码管理服务器吧 - Bitwarden</a></span></li></ul>
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/apachecn/apachecn-linux-zh>apachecn/apachecn-linux-zh</a><p>:books: [译] ApacheCN Linux 译文集</p></li><li><a href=https://github.com/ttimochan/hub-mirror>ttimochan/hub-mirror</a><p>🚀 gcr.io、k8s.gcr.io、quay.io、ghcr.io 等国外镜像加速下载服务</p></li><li><a href=https://github.com/neovim/neovim>neovim/neovim</a><p>Vim-fork focused on extensibility and usability</p></li><li><a href=https://github.com/wibus-wee/koishi-plugin-novel-ai-api>wibus-wee/koishi-plugin-novel-ai-api</a><p>Speical novel ai api version | NovelAI 画图接口特殊版本</p></li><li><a href=https://github.com/ADD-SP/ngx_waf>ADD-SP/ngx_waf</a><p>Handy, High performance, ModSecurity compatible Nginx firewall module & 方便、高性能、兼容 ModSecurity 的 Nginx 防火墙模块</p></li></ul>
+<ul><li><a href=https://github.com/davedoesdev/python-jwt>davedoesdev/python-jwt</a><p>Python module for generating and verifying JSON Web Tokens</p></li><li><a href=https://github.com/apachecn/apachecn-linux-zh>apachecn/apachecn-linux-zh</a><p>:books: [译] ApacheCN Linux 译文集</p></li><li><a href=https://github.com/ttimochan/hub-mirror>ttimochan/hub-mirror</a><p>🚀 gcr.io、k8s.gcr.io、quay.io、ghcr.io 等国外镜像加速下载服务</p></li><li><a href=https://github.com/neovim/neovim>neovim/neovim</a><p>Vim-fork focused on extensibility and usability</p></li><li><a href=https://github.com/wibus-wee/koishi-plugin-novel-ai-api>wibus-wee/koishi-plugin-novel-ai-api</a><p>Speical novel ai api version | NovelAI 画图接口特殊版本</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/mogland/mog-A-My>mogland/mog-A-My</a><p>😇 Be self-centered, by rz.sb</p></li><li><a href=https://github.com/coreruleset/coreruleset>coreruleset/coreruleset</a><p>OWASP ModSecurity Core Rule Set (Official Repository)</p></li><li><a href=https://github.com/yoimiya-kokomi/Yunzai-Bot>yoimiya-kokomi/Yunzai-Bot</a><p>原神QQ群机器人，通过米游社接口，查询原神游戏信息，快速生成图片返回</p></li><li><a href=https://github.com/mogland/core>mogland/core</a><p>🏝 /mɑːɡ/ 一款弹性的模块化 CMS 博客系统</p></li><li><a href=https://github.com/ventoy/Ventoy>ventoy/Ventoy</a><p>A new bootable USB solution.</p></li></ul>
+<ul><li><a href=https://github.com/yoimiya-kokomi/Yunzai-Bot>yoimiya-kokomi/Yunzai-Bot</a><p>原神QQ群机器人，通过米游社接口，查询原神游戏信息，快速生成图片返回</p></li><li><a href=https://github.com/Clansty/Q2TG>Clansty/Q2TG</a><p>QQ 与 Telegram 群相互转发的 bot</p></li><li><a href=https://github.com/veo/wsMemShell>veo/wsMemShell</a><p>WebSocket 内存马/Webshell，一种新型内存马/WebShell技术</p></li><li><a href=https://github.com/Innei/naive-ui-dashboard-template>Innei/naive-ui-dashboard-template</a><p>Naive UI Dashboard Template with TypeScript, WindiCSS.</p></li><li><a href=https://github.com/go-gitea/gitea>go-gitea/gitea</a><p>Git with a cup of tea, painless self-hosted git service</p></li></ul>
 
 **你能找到我吗**
 
@@ -49,4 +49,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：10/31/22, 8:42 AM<br>下一次刷新：11/1/22, 8:42 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/1/22, 8:44 AM<br>下一次刷新：11/2/22, 8:44 AM</p>
