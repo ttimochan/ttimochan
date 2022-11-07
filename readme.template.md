@@ -1,6 +1,6 @@
 # ttimochan ![](https://visitor-badge.laobi.icu/badge?page_id=timochan-cn.readme) 
 
-
+![:akarachen](https://count.getloli.com/get/@akarachen)
 
 
 
