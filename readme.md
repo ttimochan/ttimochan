@@ -32,11 +32,11 @@
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/davedoesdev/python-jwt>davedoesdev/python-jwt</a><p>Python module for generating and verifying JSON Web Tokens</p></li><li><a href=https://github.com/apachecn/apachecn-linux-zh>apachecn/apachecn-linux-zh</a><p>:books: [译] ApacheCN Linux 译文集</p></li><li><a href=https://github.com/ttimochan/hub-mirror>ttimochan/hub-mirror</a><p>🚀 gcr.io、k8s.gcr.io、quay.io、ghcr.io 等国外镜像加速下载服务</p></li><li><a href=https://github.com/neovim/neovim>neovim/neovim</a><p>Vim-fork focused on extensibility and usability</p></li><li><a href=https://github.com/wibus-wee/koishi-plugin-novel-ai-api>wibus-wee/koishi-plugin-novel-ai-api</a><p>Speical novel ai api version | NovelAI 画图接口特殊版本</p></li></ul>
+<ul><li><a href=https://github.com/AkaraChen/nashi>AkaraChen/nashi</a><p>🍐 The modern jQuery alternative</p></li><li><a href=https://github.com/davedoesdev/python-jwt>davedoesdev/python-jwt</a><p>Python module for generating and verifying JSON Web Tokens</p></li><li><a href=https://github.com/apachecn/apachecn-linux-zh>apachecn/apachecn-linux-zh</a><p>:books: [译] ApacheCN Linux 译文集</p></li><li><a href=https://github.com/ttimochan/hub-mirror>ttimochan/hub-mirror</a><p>🚀 gcr.io、k8s.gcr.io、quay.io、ghcr.io 等国外镜像加速下载服务</p></li><li><a href=https://github.com/neovim/neovim>neovim/neovim</a><p>Vim-fork focused on extensibility and usability</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/coreruleset/coreruleset>coreruleset/coreruleset</a><p>OWASP ModSecurity Core Rule Set (Official Repository)</p></li><li><a href=https://github.com/Binaryify/NeteaseCloudMusicApi>Binaryify/NeteaseCloudMusicApi</a><p>网易云音乐 Node.js API service</p></li><li><a href=https://github.com/Innei/Typecho-Theme-Paul>Innei/Typecho-Theme-Paul</a><p>🎈 一个适用于展示，写日记的 Typecho 博客主题。</p></li><li><a href=https://github.com/openresty/headers-more-nginx-module>openresty/headers-more-nginx-module</a><p>Set, add, and clear arbitrary output headers in NGINX http servers</p></li><li><a href=https://github.com/Innei/naive-ui-dashboard-template>Innei/naive-ui-dashboard-template</a><p>Naive UI Dashboard Template with TypeScript, WindiCSS.</p></li></ul>
+<ul><li><a href=https://github.com/mogland/core>mogland/core</a><p>🏝 /mɑːɡ/ 一款弹性的模块化 CMS 博客系统</p></li><li><a href=https://github.com/antfu/case-police>antfu/case-police</a><p>🚨 Make the case correct, PLEASE!</p></li><li><a href=https://github.com/wibus-wee/koishi-plugin-novel-ai-api>wibus-wee/koishi-plugin-novel-ai-api</a><p>Speical novel ai api version | NovelAI 画图接口特殊版本</p></li><li><a href=https://github.com/Innei/naive-ui-dashboard-template>Innei/naive-ui-dashboard-template</a><p>Naive UI Dashboard Template with TypeScript, WindiCSS.</p></li><li><a href=https://github.com/Clansty/Q2TG>Clansty/Q2TG</a><p>QQ 与 Telegram 群相互转发的 bot</p></li></ul>
 
 **你能找到我吗**
 
@@ -49,4 +49,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/9/22, 8:35 AM<br>下一次刷新：11/10/22, 8:35 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/10/22, 8:35 AM<br>下一次刷新：11/11/22, 8:35 AM</p>
