@@ -36,7 +36,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/harness/drone>harness/drone</a><p>Drone is a Container-Native, Continuous Delivery Platform</p></li><li><a href=https://github.com/Innei/bump-version>Innei/bump-version</a><p>A simple bump version cli.</p></li><li><a href=https://github.com/Binaryify/NeteaseCloudMusicApi>Binaryify/NeteaseCloudMusicApi</a><p>网易云音乐 Node.js API service</p></li><li><a href=https://github.com/mogland/mog-A-My>mogland/mog-A-My</a><p>😇 Be self-centered, by rz.sb</p></li><li><a href=https://github.com/utmapp/UTM>utmapp/UTM</a><p>Virtual machines for iOS and macOS</p></li></ul>
+<ul><li><a href=https://github.com/harness/drone>harness/drone</a><p>Drone is a Container-Native, Continuous Delivery Platform</p></li><li><a href=https://github.com/mogland/mog-A-My>mogland/mog-A-My</a><p>😇 Be self-centered, by rz.sb</p></li><li><a href=https://github.com/dani-garcia/vaultwarden>dani-garcia/vaultwarden</a><p>Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs</p></li><li><a href=https://github.com/ventoy/Ventoy>ventoy/Ventoy</a><p>A new bootable USB solution.</p></li><li><a href=https://github.com/Innei/naive-ui-dashboard-template>Innei/naive-ui-dashboard-template</a><p>Naive UI Dashboard Template with TypeScript, WindiCSS.</p></li></ul>
 
 **你能找到我吗**
 
@@ -49,4 +49,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/24/22, 8:35 AM<br>下一次刷新：11/25/22, 8:35 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/25/22, 8:31 AM<br>下一次刷新：11/26/22, 8:31 AM</p>
