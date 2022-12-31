@@ -36,7 +36,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/antfu/case-police>antfu/case-police</a><p>🚨 Make the case correct, PLEASE!</p></li><li><a href=https://github.com/Innei/bump-version>Innei/bump-version</a><p>A simple bump version cli.</p></li><li><a href=https://github.com/wibus-wee/koishi-plugin-novel-ai-api>wibus-wee/koishi-plugin-novel-ai-api</a><p>Speical novel ai api version | NovelAI 画图接口特殊版本</p></li><li><a href=https://github.com/openresty/headers-more-nginx-module>openresty/headers-more-nginx-module</a><p>Set, add, and clear arbitrary output headers in NGINX http servers</p></li><li><a href=https://github.com/veo/wsMemShell>veo/wsMemShell</a><p>WebSocket 内存马/Webshell，一种新型内存马/WebShell技术</p></li></ul>
+<ul><li><a href=https://github.com/midoks/mdserver-web>midoks/mdserver-web</a><p>Simple Linux Panel</p></li><li><a href=https://github.com/mogland/mog-A-My>mogland/mog-A-My</a><p>😇 Be self-centered, by rz.sb</p></li><li><a href=https://github.com/wibus-wee/koishi-plugin-novel-ai-api>wibus-wee/koishi-plugin-novel-ai-api</a><p>Speical novel ai api version | NovelAI 画图接口特殊版本</p></li><li><a href=https://github.com/coreruleset/coreruleset>coreruleset/coreruleset</a><p>OWASP ModSecurity Core Rule Set (Official Repository)</p></li><li><a href=https://github.com/Binaryify/NeteaseCloudMusicApi>Binaryify/NeteaseCloudMusicApi</a><p>网易云音乐 Node.js API service</p></li></ul>
 
 **你能找到我吗**
 
@@ -49,4 +49,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：12/30/22, 8:29 AM<br>下一次刷新：12/31/22, 8:29 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：12/31/22, 8:28 AM<br>下一次刷新：1/1/23, 8:28 AM</p>
