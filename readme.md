@@ -36,7 +36,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/walinejs/waline>walinejs/waline</a><p>💬 A Simple, Safe Comment System</p></li><li><a href=https://github.com/Binaryify/NeteaseCloudMusicApi>Binaryify/NeteaseCloudMusicApi</a><p>网易云音乐 Node.js API service</p></li><li><a href=https://github.com/Tikam02/DevOps-Guide>Tikam02/DevOps-Guide</a><p>DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.</p></li><li><a href=https://github.com/Innei/bump-version>Innei/bump-version</a><p>A more useful and easy-to-use bump version cli.</p></li><li><a href=https://github.com/harness/drone>harness/drone</a><p>Drone is a Container-Native, Continuous Delivery Platform</p></li></ul>
+<ul><li><a href=https://github.com/apachecn/apachecn-linux-zh>apachecn/apachecn-linux-zh</a><p>:books: [译] ApacheCN Linux 译文集</p></li><li><a href=https://github.com/neovim/neovim>neovim/neovim</a><p>Vim-fork focused on extensibility and usability</p></li><li><a href=https://github.com/coreruleset/coreruleset>coreruleset/coreruleset</a><p>OWASP ModSecurity Core Rule Set (Official Repository)</p></li><li><a href=https://github.com/reactify-component/react-shortcut-guide>reactify-component/react-shortcut-guide</a><p>Long-press `⌘` key or press `?` to present a shortcut guide for your Web application.</p></li><li><a href=https://github.com/Binaryify/NeteaseCloudMusicApi>Binaryify/NeteaseCloudMusicApi</a><p>网易云音乐 Node.js API service</p></li></ul>
 
 **你能找到我吗**
 
@@ -49,4 +49,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：2/5/23, 8:33 AM<br>下一次刷新：2/6/23, 8:33 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：2/6/23, 8:28 AM<br>下一次刷新：2/7/23, 8:28 AM</p>
