@@ -36,7 +36,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/wibus-wee/koishi-plugin-novel-ai-api>wibus-wee/koishi-plugin-novel-ai-api</a><p>Speical novel ai api version | NovelAI 画图接口特殊版本</p></li><li><a href=https://github.com/utmapp/UTM>utmapp/UTM</a><p>Virtual machines for iOS and macOS</p></li><li><a href=https://github.com/yoimiya-kokomi/Yunzai-Bot>yoimiya-kokomi/Yunzai-Bot</a><p>原神QQ群机器人，通过米游社接口，查询原神游戏信息，快速生成图片返回</p></li><li><a href=https://github.com/ttimochan/hub-mirror>ttimochan/hub-mirror</a><p>🚀 gcr.io、k8s.gcr.io、quay.io、ghcr.io 等国外镜像加速下载服务</p></li><li><a href=https://github.com/apachecn/apachecn-linux-zh>apachecn/apachecn-linux-zh</a><p>:books: [译] ApacheCN Linux 译文集</p></li></ul>
+<ul><li><a href=https://github.com/openresty/headers-more-nginx-module>openresty/headers-more-nginx-module</a><p>Set, add, and clear arbitrary output headers in NGINX http servers</p></li><li><a href=https://github.com/ttimochan/hub-mirror>ttimochan/hub-mirror</a><p>🚀 gcr.io、k8s.gcr.io、quay.io、ghcr.io 等国外镜像加速下载服务</p></li><li><a href=https://github.com/ADD-SP/ngx_waf>ADD-SP/ngx_waf</a><p>Handy, High performance, ModSecurity compatible Nginx firewall module & 方便、高性能、兼容 ModSecurity 的 Nginx 防火墙模块</p></li><li><a href=https://github.com/miru-project/miru>miru-project/miru</a><p>Miru 一个支持扩展视频源的在线影视播放器</p></li><li><a href=https://github.com/v2rayA/v2rayA>v2rayA/v2rayA</a><p>A web GUI client of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel 🚀</p></li></ul>
 
 **你能找到我吗**
 
@@ -49,4 +49,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：2/23/23, 8:30 AM<br>下一次刷新：2/24/23, 8:30 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：2/25/23, 8:31 AM<br>下一次刷新：2/26/23, 8:31 AM</p>
