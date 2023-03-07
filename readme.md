@@ -28,7 +28,7 @@
 
 **最近写了...**
 
-<ul><li><span>2/15/23 - <a href=https://www.timochan.cn/notes/40>你的下一个 Arch 何必是 Arch</a></span></li><li><span>12/15/22 - <a href=https://www.timochan.cn/posts/any_pen/stupid_modern_standby>愚蠢的 S0 睡眠 - 现代待机</a></span></li><li><span>10/31/22 - <a href=https://www.timochan.cn/notes/39>我为什么拥抱 Linux</a></span></li><li><span>10/18/22 - <a href=https://www.timochan.cn/notes/38>最后还是选择了 Manjaro</a></span></li><li><span>9/22/22 - <a href=https://www.timochan.cn/notes/37>华硕，“奸”如磐石</a></span></li></ul>
+<ul><li><span>3/6/23 - <a href=https://www.timochan.cn/posts/any_pen/adguard_home_for_me>使用 AdGuard Home 来守护自己的 DNS 查询</a></span></li><li><span>2/15/23 - <a href=https://www.timochan.cn/notes/40>你的下一个 Arch 何必是 Arch</a></span></li><li><span>12/15/22 - <a href=https://www.timochan.cn/posts/any_pen/stupid_modern_standby>愚蠢的 S0 睡眠 - 现代待机</a></span></li><li><span>10/31/22 - <a href=https://www.timochan.cn/notes/39>我为什么拥抱 Linux</a></span></li><li><span>10/18/22 - <a href=https://www.timochan.cn/notes/38>最后还是选择了 Manjaro</a></span></li></ul>
 
 **最近赞了...**
 
@@ -36,7 +36,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Tikam02/DevOps-Guide>Tikam02/DevOps-Guide</a><p>DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.</p></li><li><a href=https://github.com/wibus-wee/wlint>wibus-wee/wlint</a><p>🗜️ A Wonderful Linter Config Manager | Just `wlint`, configure completed</p></li><li><a href=https://github.com/utmapp/UTM>utmapp/UTM</a><p>Virtual machines for iOS and macOS</p></li><li><a href=https://github.com/v2rayA/v2rayA>v2rayA/v2rayA</a><p>A web GUI client of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel 🚀</p></li><li><a href=https://github.com/AkaraChen/twitter-ban-extend>AkaraChen/twitter-ban-extend</a><p>Hide people with certain emoji in their twitter id.</p></li></ul>
+<ul><li><a href=https://github.com/ADD-SP/ngx_waf>ADD-SP/ngx_waf</a><p>Handy, High performance, ModSecurity compatible Nginx firewall module & 方便、高性能、兼容 ModSecurity 的 Nginx 防火墙模块</p></li><li><a href=https://github.com/qier222/YesPlayMusic>qier222/YesPlayMusic</a><p>高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:</p></li><li><a href=https://github.com/AkaraChen/twitter-ban-extend>AkaraChen/twitter-ban-extend</a><p>Hide people with certain emoji in their twitter id.</p></li><li><a href=https://github.com/v2rayA/v2rayA>v2rayA/v2rayA</a><p>A web GUI client of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel 🚀</p></li><li><a href=https://github.com/wibus-wee/koishi-plugin-novel-ai-api>wibus-wee/koishi-plugin-novel-ai-api</a><p>Speical novel ai api version | NovelAI 画图接口特殊版本</p></li></ul>
 
 **你能找到我吗**
 
@@ -49,4 +49,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：3/6/23, 8:32 AM<br>下一次刷新：3/7/23, 8:32 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：3/7/23, 8:34 AM<br>下一次刷新：3/8/23, 8:34 AM</p>
