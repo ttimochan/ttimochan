@@ -36,7 +36,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/ttimochan/hub-mirror>ttimochan/hub-mirror</a><p>🚀 gcr.io、k8s.gcr.io、quay.io、ghcr.io 等国外镜像加速下载服务</p></li><li><a href=https://github.com/davedoesdev/python-jwt>davedoesdev/python-jwt</a><p>Python module for generating and verifying JSON Web Tokens</p></li><li><a href=https://github.com/ADD-SP/ngx_waf>ADD-SP/ngx_waf</a><p>Handy, High performance, ModSecurity compatible Nginx firewall module & 方便、高性能、兼容 ModSecurity 的 Nginx 防火墙模块</p></li><li><a href=https://github.com/apachecn/apachecn-linux-zh>apachecn/apachecn-linux-zh</a><p>:books: [译] ApacheCN Linux 译文集</p></li><li><a href=https://github.com/utmapp/UTM>utmapp/UTM</a><p>Virtual machines for iOS and macOS</p></li></ul>
+<ul><li><a href=https://github.com/fankes/TSBattery>fankes/TSBattery</a><p>A new way to save your battery avoid cancer apps hacker it.</p></li><li><a href=https://github.com/AkaraChen/twitter-ban-extend>AkaraChen/twitter-ban-extend</a><p>Hide people with certain emoji in their twitter id.</p></li><li><a href=https://github.com/antfu/case-police>antfu/case-police</a><p>🚨 Make the case correct, PLEASE!</p></li><li><a href=https://github.com/Tikam02/DevOps-Guide>Tikam02/DevOps-Guide</a><p>DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.</p></li><li><a href=https://github.com/AkaraChen/nashi>AkaraChen/nashi</a><p>🍐 The modern jQuery alternative.</p></li></ul>
 
 **你能找到我吗**
 
@@ -49,4 +49,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：4/6/23, 8:27 AM<br>下一次刷新：4/7/23, 8:27 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：4/7/23, 8:25 AM<br>下一次刷新：4/8/23, 8:25 AM</p>
