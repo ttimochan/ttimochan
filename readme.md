@@ -36,7 +36,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/wibus-wee/wlint>wibus-wee/wlint</a><p>🗜️ A Wonderful Linter Config Manager | Just `wlint`, configure completed</p></li><li><a href=https://github.com/miru-project/miru>miru-project/miru</a><p>Miru 一个支持扩展视频源的在线影视播放器</p></li><li><a href=https://github.com/fankes/TSBattery>fankes/TSBattery</a><p>A new way to save your battery avoid cancer apps hacker it.</p></li><li><a href=https://github.com/Dreamer-Paul/Pio>Dreamer-Paul/Pio</a><p>🎃 一个支持更换 Live2D 模型的 JS 插件</p></li><li><a href=https://github.com/utmapp/UTM>utmapp/UTM</a><p>Virtual machines for iOS and macOS</p></li></ul>
+<ul><li><a href=https://github.com/lss233/chatgpt-mirai-qq-bot>lss233/chatgpt-mirai-qq-bot</a><p>🚀 一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送 | 支持 QQ、Telegram、Discord 等平台</p></li><li><a href=https://github.com/Morganamilo/paru>Morganamilo/paru</a><p>Feature packed AUR helper</p></li><li><a href=https://github.com/Tikam02/DevOps-Guide>Tikam02/DevOps-Guide</a><p>DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.</p></li><li><a href=https://github.com/fankes/TSBattery>fankes/TSBattery</a><p>A new way to save your battery avoid cancer apps hacker it.</p></li><li><a href=https://github.com/v2rayA/v2rayA>v2rayA/v2rayA</a><p>A web GUI client of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel 🚀</p></li></ul>
 
 **你能找到我吗**
 
@@ -49,4 +49,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：4/8/23, 8:26 AM<br>下一次刷新：4/9/23, 8:26 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：4/9/23, 8:29 AM<br>下一次刷新：4/10/23, 8:29 AM</p>
