@@ -17,7 +17,7 @@
 <p>
   <img alt="Windows" src="https://img.shields.io/badge/-Windows-333?style=flat-square&logo=windows&logoColor=white" />
   <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
-  <img alt="Manjaro Linux" src="https://img.shields.io/badge/-Manjaro%20Linux-1B490B?style=flat-square&logo=Manjaro%20Linux&logoColor=1B490B" />
+  <img alt="ArchLinux" src="https://img.shields.io/badge/-archlinux-black?style=flat-square&logo=archlinux&logoColor=blue" />
 </p>
 
 
