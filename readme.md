@@ -32,11 +32,11 @@
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/1Panel-dev/1Panel>1Panel-dev/1Panel</a><p>现代化、开源的 Linux 服务器运维管理面板。</p></li><li><a href=https://github.com/wibus-wee/stable-diffusion-webui-ipynb>wibus-wee/stable-diffusion-webui-ipynb</a><p>AUTOMATIC1111 Stable Diffusion WebUI 1.5 + Kohya's Scripts</p></li><li><a href=https://github.com/mimblewimble/grin>mimblewimble/grin</a><p>Minimal implementation of the Mimblewimble protocol.</p></li><li><a href=https://github.com/quininer/unzrip>quininer/unzrip</a><p>Unzip implementation, support for parallel decompression, automatic detection encoding</p></li><li><a href=https://github.com/tauri-apps/tauri>tauri-apps/tauri</a><p>Build smaller, faster, and more secure desktop applications with a web frontend.</p></li></ul>
+<ul><li><a href=https://github.com/kubesphere/kubesphere>kubesphere/kubesphere</a><p>The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️</p></li><li><a href=https://github.com/1Panel-dev/1Panel>1Panel-dev/1Panel</a><p>现代化、开源的 Linux 服务器运维管理面板。</p></li><li><a href=https://github.com/wibus-wee/stable-diffusion-webui-ipynb>wibus-wee/stable-diffusion-webui-ipynb</a><p>AUTOMATIC1111 Stable Diffusion WebUI 1.5 + Kohya's Scripts</p></li><li><a href=https://github.com/mimblewimble/grin>mimblewimble/grin</a><p>Minimal implementation of the Mimblewimble protocol.</p></li><li><a href=https://github.com/quininer/unzrip>quininer/unzrip</a><p>Unzip implementation, support for parallel decompression, automatic detection encoding</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/qier222/YesPlayMusic>qier222/YesPlayMusic</a><p>高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:</p></li><li><a href=https://github.com/AkaraChen/nashi>AkaraChen/nashi</a><p>🍐 The modern jQuery alternative.</p></li><li><a href=https://github.com/ADD-SP/ngx_waf>ADD-SP/ngx_waf</a><p>Handy, High performance, ModSecurity compatible Nginx firewall module & 方便、高性能、兼容 ModSecurity 的 Nginx 防火墙模块</p></li><li><a href=https://github.com/neovim/neovim>neovim/neovim</a><p>Vim-fork focused on extensibility and usability</p></li><li><a href=https://github.com/fankes/TSBattery>fankes/TSBattery</a><p>A new way to save your battery avoid cancer apps hacker it.</p></li></ul>
+<ul><li><a href=https://github.com/Tikam02/DevOps-Guide>Tikam02/DevOps-Guide</a><p>DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.</p></li><li><a href=https://github.com/qier222/YesPlayMusic>qier222/YesPlayMusic</a><p>高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:</p></li><li><a href=https://github.com/zzzgydi/clash-verge>zzzgydi/clash-verge</a><p>A Clash GUI based on tauri. Supports Windows, macOS and Linux.</p></li><li><a href=https://github.com/miru-project/miru>miru-project/miru</a><p>Miru 一个支持扩展视频源的在线影视播放器</p></li><li><a href=https://github.com/Icalingua-plus-plus/Icalingua-plus-plus>Icalingua-plus-plus/Icalingua-plus-plus</a><p>A client for QQ and more.:electron:</p></li></ul>
 
 **你能找到我吗**
 
@@ -49,4 +49,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：4/26/23, 8:28 AM<br>下一次刷新：4/27/23, 8:28 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：4/27/23, 8:30 AM<br>下一次刷新：4/28/23, 8:30 AM</p>
