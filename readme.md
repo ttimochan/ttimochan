@@ -36,7 +36,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Tikam02/DevOps-Guide>Tikam02/DevOps-Guide</a><p>DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.</p></li><li><a href=https://github.com/ttimochan/hub-mirror>ttimochan/hub-mirror</a><p>🚀 gcr.io、k8s.gcr.io、quay.io、ghcr.io 等国外镜像加速下载服务</p></li><li><a href=https://github.com/AkaraChen/nashi>AkaraChen/nashi</a><p>🍐 The modern jQuery alternative.</p></li><li><a href=https://github.com/ADD-SP/ngx_waf>ADD-SP/ngx_waf</a><p>Handy, High performance, ModSecurity compatible Nginx firewall module & 方便、高性能、兼容 ModSecurity 的 Nginx 防火墙模块</p></li><li><a href=https://github.com/qier222/YesPlayMusic>qier222/YesPlayMusic</a><p>高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:</p></li></ul>
+<ul><li><a href=https://github.com/Dreamer-Paul/Pio>Dreamer-Paul/Pio</a><p>🎃 一个支持更换 Live2D 模型的 JS 插件</p></li><li><a href=https://github.com/davedoesdev/python-jwt>davedoesdev/python-jwt</a><p>Python module for generating and verifying JSON Web Tokens</p></li><li><a href=https://github.com/lss233/chatgpt-mirai-qq-bot>lss233/chatgpt-mirai-qq-bot</a><p>🚀 一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送 | 支持 QQ、Telegram、Discord、微信 等平台</p></li><li><a href=https://github.com/GrowingGit/GitHub-Chinese-Top-Charts>GrowingGit/GitHub-Chinese-Top-Charts</a><p>:cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。</p></li><li><a href=https://github.com/neovim/neovim>neovim/neovim</a><p>Vim-fork focused on extensibility and usability</p></li></ul>
 
 **你能找到我吗**
 
@@ -49,4 +49,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：5/13/23, 8:26 AM<br>下一次刷新：5/14/23, 8:26 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：5/14/23, 8:30 AM<br>下一次刷新：5/15/23, 8:30 AM</p>
