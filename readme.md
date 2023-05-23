@@ -36,7 +36,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/fankes/TSBattery>fankes/TSBattery</a><p>A new way to save your battery avoid cancer apps hacker it.</p></li><li><a href=https://github.com/davedoesdev/python-jwt>davedoesdev/python-jwt</a><p>Python module for generating and verifying JSON Web Tokens</p></li><li><a href=https://github.com/neovim/neovim>neovim/neovim</a><p>Vim-fork focused on extensibility and usability</p></li><li><a href=https://github.com/knownsec/404StarLink>knownsec/404StarLink</a><p>404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目</p></li><li><a href=https://github.com/Dreamer-Paul/Pio>Dreamer-Paul/Pio</a><p>🎃 一个支持更换 Live2D 模型的 JS 插件</p></li></ul>
+<ul><li><a href=https://github.com/davedoesdev/python-jwt>davedoesdev/python-jwt</a><p>Python module for generating and verifying JSON Web Tokens</p></li><li><a href=https://github.com/v2rayA/v2rayA>v2rayA/v2rayA</a><p>A web GUI client of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel 🚀</p></li><li><a href=https://github.com/fankes/TSBattery>fankes/TSBattery</a><p>A new way to save your battery avoid cancer apps hacker it.</p></li><li><a href=https://github.com/Dreamer-Paul/Pio>Dreamer-Paul/Pio</a><p>🎃 一个支持更换 Live2D 模型的 JS 插件</p></li><li><a href=https://github.com/knownsec/404StarLink>knownsec/404StarLink</a><p>404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目</p></li></ul>
 
 **你能找到我吗**
 
@@ -49,4 +49,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：5/22/23, 8:30 AM<br>下一次刷新：5/23/23, 8:30 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：5/23/23, 8:29 AM<br>下一次刷新：5/24/23, 8:29 AM</p>
