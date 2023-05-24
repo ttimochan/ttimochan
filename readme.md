@@ -28,7 +28,7 @@
 
 **最近写了...**
 
-<ul><li><span>3/6/23 - <a href=https://www.timochan.cn/posts/any_pen/adguard_home_for_me>使用 AdGuard Home 来守护自己的 DNS 查询</a></span></li><li><span>2/15/23 - <a href=https://www.timochan.cn/notes/40>你的下一个 Arch 何必是 Arch</a></span></li><li><span>12/15/22 - <a href=https://www.timochan.cn/posts/any_pen/stupid_modern_standby>愚蠢的 S0 睡眠 - 现代待机</a></span></li><li><span>10/31/22 - <a href=https://www.timochan.cn/notes/39>我为什么拥抱 Linux</a></span></li><li><span>10/18/22 - <a href=https://www.timochan.cn/notes/38>最后还是选择了 Manjaro</a></span></li></ul>
+<ul><li><span>5/23/23 - <a href=https://www.timochan.cn/posts/any_pen/adguard_home_for_setting>Adguard Home 调整</a></span></li><li><span>3/6/23 - <a href=https://www.timochan.cn/posts/any_pen/adguard_home_for_me>使用 AdGuard Home 来守护自己的 DNS 查询</a></span></li><li><span>2/15/23 - <a href=https://www.timochan.cn/notes/40>你的下一个 Arch 何必是 Arch</a></span></li><li><span>12/15/22 - <a href=https://www.timochan.cn/posts/any_pen/stupid_modern_standby>愚蠢的 S0 睡眠 - 现代待机</a></span></li><li><span>10/31/22 - <a href=https://www.timochan.cn/notes/39>我为什么拥抱 Linux</a></span></li></ul>
 
 **最近赞了...**
 
@@ -36,7 +36,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/davedoesdev/python-jwt>davedoesdev/python-jwt</a><p>Python module for generating and verifying JSON Web Tokens</p></li><li><a href=https://github.com/v2rayA/v2rayA>v2rayA/v2rayA</a><p>A web GUI client of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel 🚀</p></li><li><a href=https://github.com/fankes/TSBattery>fankes/TSBattery</a><p>A new way to save your battery avoid cancer apps hacker it.</p></li><li><a href=https://github.com/Dreamer-Paul/Pio>Dreamer-Paul/Pio</a><p>🎃 一个支持更换 Live2D 模型的 JS 插件</p></li><li><a href=https://github.com/knownsec/404StarLink>knownsec/404StarLink</a><p>404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目</p></li></ul>
+<ul><li><a href=https://github.com/wibus-wee/wlint>wibus-wee/wlint</a><p>🗜️ A Wonderful Linter Config Manager | Just `wlint`, configure completed</p></li><li><a href=https://github.com/AkaraChen/nashi>AkaraChen/nashi</a><p>🍐 The modern jQuery alternative.</p></li><li><a href=https://github.com/tauri-apps/tauri>tauri-apps/tauri</a><p>Build smaller, faster, and more secure desktop applications with a web frontend.</p></li><li><a href=https://github.com/qier222/YesPlayMusic>qier222/YesPlayMusic</a><p>高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:</p></li><li><a href=https://github.com/v2rayA/v2rayA>v2rayA/v2rayA</a><p>A web GUI client of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel 🚀</p></li></ul>
 
 **你能找到我吗**
 
@@ -49,4 +49,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：5/23/23, 8:29 AM<br>下一次刷新：5/24/23, 8:29 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：5/24/23, 8:28 AM<br>下一次刷新：5/25/23, 8:28 AM</p>
