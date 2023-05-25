@@ -32,11 +32,11 @@
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/cinit/QAuxiliary>cinit/QAuxiliary</a><p>QNotified phoenix - To make OICQ great again</p></li><li><a href=https://github.com/kubesphere/kubesphere>kubesphere/kubesphere</a><p>The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️</p></li><li><a href=https://github.com/1Panel-dev/1Panel>1Panel-dev/1Panel</a><p>现代化、开源的 Linux 服务器运维管理面板。</p></li><li><a href=https://github.com/wibus-wee/stable-diffusion-webui-ipynb>wibus-wee/stable-diffusion-webui-ipynb</a><p>AUTOMATIC1111 Stable Diffusion WebUI 1.5 + Kohya's Scripts</p></li><li><a href=https://github.com/mimblewimble/grin>mimblewimble/grin</a><p>Minimal implementation of the Mimblewimble protocol.</p></li></ul>
+<ul><li><a href=https://github.com/FortAwesome/Font-Awesome>FortAwesome/Font-Awesome</a><p>The iconic SVG, font, and CSS toolkit</p></li><li><a href=https://github.com/cinit/QAuxiliary>cinit/QAuxiliary</a><p>QNotified phoenix - To make OICQ great again</p></li><li><a href=https://github.com/kubesphere/kubesphere>kubesphere/kubesphere</a><p>The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️</p></li><li><a href=https://github.com/1Panel-dev/1Panel>1Panel-dev/1Panel</a><p>现代化、开源的 Linux 服务器运维管理面板。</p></li><li><a href=https://github.com/wibus-wee/stable-diffusion-webui-ipynb>wibus-wee/stable-diffusion-webui-ipynb</a><p>AUTOMATIC1111 Stable Diffusion WebUI 1.5 + Kohya's Scripts</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/wibus-wee/wlint>wibus-wee/wlint</a><p>🗜️ A Wonderful Linter Config Manager | Just `wlint`, configure completed</p></li><li><a href=https://github.com/AkaraChen/nashi>AkaraChen/nashi</a><p>🍐 The modern jQuery alternative.</p></li><li><a href=https://github.com/tauri-apps/tauri>tauri-apps/tauri</a><p>Build smaller, faster, and more secure desktop applications with a web frontend.</p></li><li><a href=https://github.com/qier222/YesPlayMusic>qier222/YesPlayMusic</a><p>高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:</p></li><li><a href=https://github.com/v2rayA/v2rayA>v2rayA/v2rayA</a><p>A web GUI client of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel 🚀</p></li></ul>
+<ul><li><a href=https://github.com/rust-lang/rust>rust-lang/rust</a><p>Empowering everyone to build reliable and efficient software.</p></li><li><a href=https://github.com/qier222/YesPlayMusic>qier222/YesPlayMusic</a><p>高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:</p></li><li><a href=https://github.com/fankes/TSBattery>fankes/TSBattery</a><p>A new way to save your battery avoid cancer apps hacker it.</p></li><li><a href=https://github.com/v2rayA/v2rayA>v2rayA/v2rayA</a><p>A web GUI client of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel 🚀</p></li><li><a href=https://github.com/GrowingGit/GitHub-Chinese-Top-Charts>GrowingGit/GitHub-Chinese-Top-Charts</a><p>:cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。</p></li></ul>
 
 **你能找到我吗**
 
@@ -49,4 +49,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：5/24/23, 8:28 AM<br>下一次刷新：5/25/23, 8:28 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：5/25/23, 8:27 AM<br>下一次刷新：5/26/23, 8:27 AM</p>
