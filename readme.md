@@ -28,7 +28,7 @@
 
 **最近写了...**
 
-<ul><li><span>5/23/23 - <a href=https://www.timochan.cn/posts/any_pen/adguard_home_setting>Adguard Home 调整</a></span></li><li><span>3/6/23 - <a href=https://www.timochan.cn/posts/any_pen/adguard_home_for_me>使用 AdGuard Home 来守护自己的 DNS 查询</a></span></li><li><span>2/15/23 - <a href=https://www.timochan.cn/notes/40>你的下一个 Arch 何必是 Arch</a></span></li><li><span>12/15/22 - <a href=https://www.timochan.cn/posts/any_pen/stupid_modern_standby>愚蠢的 S0 睡眠 - 现代待机</a></span></li><li><span>10/31/22 - <a href=https://www.timochan.cn/notes/39>我为什么拥抱 Linux</a></span></li></ul>
+<ul><li><span>5/23/23 - <a href=https://www.timochan.cn/posts/any_pen/adguard_home_for_setting>Adguard Home 调整</a></span></li><li><span>3/6/23 - <a href=https://www.timochan.cn/posts/any_pen/adguard_home_for_me>使用 AdGuard Home 来守护自己的 DNS 查询</a></span></li><li><span>2/15/23 - <a href=https://www.timochan.cn/notes/40>你的下一个 Arch 何必是 Arch</a></span></li><li><span>12/15/22 - <a href=https://www.timochan.cn/posts/any_pen/stupid_modern_standby>愚蠢的 S0 睡眠 - 现代待机</a></span></li><li><span>10/31/22 - <a href=https://www.timochan.cn/notes/39>我为什么拥抱 Linux</a></span></li></ul>
 
 **最近赞了...**
 
@@ -36,7 +36,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/apachecn/apachecn-linux-zh>apachecn/apachecn-linux-zh</a><p>:books: [译] ApacheCN Linux 译文集</p></li><li><a href=https://github.com/Morganamilo/paru>Morganamilo/paru</a><p>Feature packed AUR helper</p></li><li><a href=https://github.com/tauri-apps/tauri>tauri-apps/tauri</a><p>Build smaller, faster, and more secure desktop applications with a web frontend.</p></li><li><a href=https://github.com/fankes/TSBattery>fankes/TSBattery</a><p>A new way to save your battery avoid cancer apps hacker it.</p></li><li><a href=https://github.com/AkaraChen/twitter-ban-extend>AkaraChen/twitter-ban-extend</a><p>Hide people with certain emoji in their twitter id.</p></li></ul>
+<ul><li><a href=https://github.com/quininer/unzrip>quininer/unzrip</a><p>Unzip implementation, support for parallel decompression, automatic detection encoding</p></li><li><a href=https://github.com/GrowingGit/GitHub-Chinese-Top-Charts>GrowingGit/GitHub-Chinese-Top-Charts</a><p>:cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。</p></li><li><a href=https://github.com/miru-project/miru>miru-project/miru</a><p>Miru 一个支持扩展视频源的在线影视播放器</p></li><li><a href=https://github.com/wibus-wee/stable-diffusion-webui-ipynb>wibus-wee/stable-diffusion-webui-ipynb</a><p>AUTOMATIC1111 Stable Diffusion WebUI 1.5 + Kohya's Scripts</p></li><li><a href=https://github.com/mimblewimble/grin>mimblewimble/grin</a><p>Minimal implementation of the Mimblewimble protocol.</p></li></ul>
 
 **你能找到我吗**
 
@@ -49,4 +49,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：6/18/23, 8:36 AM<br>下一次刷新：6/19/23, 8:36 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：6/19/23, 8:32 AM<br>下一次刷新：6/20/23, 8:32 AM</p>
