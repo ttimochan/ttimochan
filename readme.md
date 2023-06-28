@@ -28,7 +28,7 @@
 
 **最近写了...**
 
-<ul><li><span>5/23/23 - <a href=https://www.timochan.cn/posts/any_pen/adguard_home_for_setting>Adguard Home 调整</a></span></li><li><span>3/6/23 - <a href=https://www.timochan.cn/posts/any_pen/adguard_home_for_me>使用 AdGuard Home 来守护自己的 DNS 查询</a></span></li><li><span>2/15/23 - <a href=https://www.timochan.cn/notes/40>你的下一个 Arch 何必是 Arch</a></span></li><li><span>12/15/22 - <a href=https://www.timochan.cn/posts/any_pen/stupid_modern_standby>愚蠢的 S0 睡眠 - 现代待机</a></span></li><li><span>10/31/22 - <a href=https://www.timochan.cn/notes/39>我为什么拥抱 Linux</a></span></li></ul>
+<ul><li><span>6/27/23 - <a href=https://www.timochan.cn/posts/study/ocsp_certificate_status_verification_exploration>探究 OCSP（在线证书状态协议）</a></span></li><li><span>5/23/23 - <a href=https://www.timochan.cn/posts/any_pen/adguard_home_for_setting>Adguard Home 调整</a></span></li><li><span>3/6/23 - <a href=https://www.timochan.cn/posts/any_pen/adguard_home_for_me>使用 AdGuard Home 来守护自己的 DNS 查询</a></span></li><li><span>2/15/23 - <a href=https://www.timochan.cn/notes/40>你的下一个 Arch 何必是 Arch</a></span></li><li><span>12/15/22 - <a href=https://www.timochan.cn/posts/any_pen/stupid_modern_standby>愚蠢的 S0 睡眠 - 现代待机</a></span></li></ul>
 
 **最近赞了...**
 
@@ -36,7 +36,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/mimblewimble/grin>mimblewimble/grin</a><p>Minimal implementation of the Mimblewimble protocol.</p></li><li><a href=https://github.com/davedoesdev/python-jwt>davedoesdev/python-jwt</a><p>Python module for generating and verifying JSON Web Tokens</p></li><li><a href=https://github.com/tauri-apps/tauri>tauri-apps/tauri</a><p>Build smaller, faster, and more secure desktop applications with a web frontend.</p></li><li><a href=https://github.com/apachecn/apachecn-linux-zh>apachecn/apachecn-linux-zh</a><p>:books: [译] ApacheCN Linux 译文集</p></li><li><a href=https://github.com/Morganamilo/paru>Morganamilo/paru</a><p>Feature packed AUR helper</p></li></ul>
+<ul><li><a href=https://github.com/1Panel-dev/1Panel>1Panel-dev/1Panel</a><p>🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。</p></li><li><a href=https://github.com/v2rayA/v2rayA>v2rayA/v2rayA</a><p>A web GUI client of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel 🚀</p></li><li><a href=https://github.com/Icalingua-plus-plus/Icalingua-plus-plus>Icalingua-plus-plus/Icalingua-plus-plus</a><p>A client for QQ and more.:electron:</p></li><li><a href=https://github.com/quininer/unzrip>quininer/unzrip</a><p>Unzip implementation, support for parallel decompression, automatic detection encoding</p></li><li><a href=https://github.com/ttimochan/hub-mirror>ttimochan/hub-mirror</a><p>🚀 gcr.io、k8s.gcr.io、quay.io、ghcr.io 等国外镜像加速下载服务</p></li></ul>
 
 **你能找到我吗**
 
@@ -49,4 +49,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：6/27/23, 8:36 AM<br>下一次刷新：6/28/23, 8:36 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：6/28/23, 8:36 AM<br>下一次刷新：6/29/23, 8:36 AM</p>
