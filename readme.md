@@ -36,7 +36,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/miru-project/miru>miru-project/miru</a><p>Miru 一个支持扩展视频源的在线影视播放器</p></li><li><a href=https://github.com/tauri-apps/tauri>tauri-apps/tauri</a><p>Build smaller, faster, and more secure desktop applications with a web frontend.</p></li><li><a href=https://github.com/1Panel-dev/1Panel>1Panel-dev/1Panel</a><p>🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。</p></li><li><a href=https://github.com/rust-lang/rust>rust-lang/rust</a><p>Empowering everyone to build reliable and efficient software.</p></li><li><a href=https://github.com/zzzgydi/clash-verge>zzzgydi/clash-verge</a><p>A Clash GUI based on tauri. Supports Windows, macOS and Linux.</p></li></ul>
+<ul><li><a href=https://github.com/Icalingua-plus-plus/Icalingua-plus-plus>Icalingua-plus-plus/Icalingua-plus-plus</a><p>A client for QQ and more.:electron:</p></li><li><a href=https://github.com/AkaraChen/twitter-ban-extend>AkaraChen/twitter-ban-extend</a><p>Hide people with certain emoji in their twitter id.</p></li><li><a href=https://github.com/AkaraChen/nashi>AkaraChen/nashi</a><p>🍐 The modern jQuery alternative.</p></li><li><a href=https://github.com/apachecn/apachecn-linux-zh>apachecn/apachecn-linux-zh</a><p>:books: [译] ApacheCN Linux 译文集</p></li><li><a href=https://github.com/v2rayA/v2rayA>v2rayA/v2rayA</a><p>A web GUI client of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel 🚀</p></li></ul>
 
 **你能找到我吗**
 
@@ -49,4 +49,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：6/29/23, 8:35 AM<br>下一次刷新：6/30/23, 8:35 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：6/30/23, 8:34 AM<br>下一次刷新：7/1/23, 8:34 AM</p>
