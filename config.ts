@@ -16,7 +16,7 @@ export const github = {
 
 export const mxSpace = {
   url: "https://www.timochan.cn",
-  api: "https://api.timochan.cn/apc",
+  api: "https://www.timochan.cn/api",
 };
 
 export const timeZone = "Asia/Shanghai";
