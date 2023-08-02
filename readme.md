@@ -36,7 +36,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/rust-lang/rust>rust-lang/rust</a><p>Empowering everyone to build reliable and efficient software.</p></li><li><a href=https://github.com/yaklang/yakit>yaklang/yakit</a><p>Cyber Security ALL-IN-ONE Platform</p></li><li><a href=https://github.com/Morganamilo/paru>Morganamilo/paru</a><p>Feature packed AUR helper</p></li><li><a href=https://github.com/fankes/TSBattery>fankes/TSBattery</a><p>A new way to save your battery avoid cancer apps hacker it.</p></li><li><a href=https://github.com/kubesphere/kubesphere>kubesphere/kubesphere</a><p>The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️</p></li></ul>
+<ul><li><a href=https://github.com/Dreamer-Paul/Pio>Dreamer-Paul/Pio</a><p>🎃 一个支持更换 Live2D 模型的 JS 插件</p></li><li><a href=https://github.com/GrowingGit/GitHub-Chinese-Top-Charts>GrowingGit/GitHub-Chinese-Top-Charts</a><p>:cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。</p></li><li><a href=https://github.com/rust-lang/rust>rust-lang/rust</a><p>Empowering everyone to build reliable and efficient software.</p></li><li><a href=https://github.com/1Panel-dev/1Panel>1Panel-dev/1Panel</a><p>🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。</p></li><li><a href=https://github.com/AkaraChen/twitter-ban-extend>AkaraChen/twitter-ban-extend</a><p>Hide people with certain emoji in their twitter id.</p></li></ul>
 
 **你能找到我吗**
 
@@ -49,4 +49,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：8/1/23, 8:35 AM<br>下一次刷新：8/2/23, 8:35 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：8/2/23, 8:30 AM<br>下一次刷新：8/3/23, 8:30 AM</p>
