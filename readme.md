@@ -28,7 +28,7 @@
 
 **最近写了...**
 
-<ul><li><span>8/13/23 - <a href=https://www.timochan.cn/posts/study/protecting-privacy-and-optimizing-networks>保护隐私与优化网络：深入比较 DoT、DoH、H3 和 DoQ 协议的功能与优势</a></span></li><li><span>7/14/23 - <a href=https://www.timochan.cn/posts/study/check_dns_ecs_support>Checking DNS ECS Feature Support</a></span></li><li><span>6/27/23 - <a href=https://www.timochan.cn/posts/study/ocsp_certificate_status_verification_exploration>探究 OCSP（在线证书状态协议）</a></span></li><li><span>5/23/23 - <a href=https://www.timochan.cn/posts/any_pen/adguard_home_for_setting>Adguard Home 调整</a></span></li><li><span>3/6/23 - <a href=https://www.timochan.cn/posts/any_pen/adguard_home_for_me>使用 AdGuard Home 来守护自己的 DNS 查询</a></span></li></ul>
+<ul><li><span>8/13/23 - <a href=https://www.timochan.cn/posts/study/protecting_privacy_and_optimizing_networks>保护隐私与优化网络：深入比较 DoT、DoH、H3 和 DoQ 协议的功能与优势</a></span></li><li><span>7/14/23 - <a href=https://www.timochan.cn/posts/study/check_dns_ecs_support>Checking DNS ECS Feature Support</a></span></li><li><span>6/27/23 - <a href=https://www.timochan.cn/posts/study/ocsp_certificate_status_verification_exploration>探究 OCSP（在线证书状态协议）</a></span></li><li><span>5/23/23 - <a href=https://www.timochan.cn/posts/any_pen/adguard_home_for_setting>Adguard Home 调整</a></span></li><li><span>3/6/23 - <a href=https://www.timochan.cn/posts/any_pen/adguard_home_for_me>使用 AdGuard Home 来守护自己的 DNS 查询</a></span></li></ul>
 
 **最近赞了...**
 
@@ -36,7 +36,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/mimblewimble/grin>mimblewimble/grin</a><p>Minimal implementation of the Mimblewimble protocol.</p></li><li><a href=https://github.com/rust-lang/rust>rust-lang/rust</a><p>Empowering everyone to build reliable and efficient software.</p></li><li><a href=https://github.com/fankes/TSBattery>fankes/TSBattery</a><p>A new way to save your battery avoid cancer apps hacker it.</p></li><li><a href=https://github.com/qier222/YesPlayMusic>qier222/YesPlayMusic</a><p>高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:</p></li><li><a href=https://github.com/knownsec/404StarLink>knownsec/404StarLink</a><p>404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目</p></li></ul>
+<ul><li><a href=https://github.com/zzzgydi/clash-verge>zzzgydi/clash-verge</a><p>A Clash GUI based on tauri. Supports Windows, macOS and Linux.</p></li><li><a href=https://github.com/1Panel-dev/1Panel>1Panel-dev/1Panel</a><p>🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。</p></li><li><a href=https://github.com/v2rayA/v2rayA>v2rayA/v2rayA</a><p>A web GUI client of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Juicity. 🚀🚀</p></li><li><a href=https://github.com/Dreamer-Paul/Pio>Dreamer-Paul/Pio</a><p>🎃 一个支持更换 Live2D 模型的 JS 插件</p></li><li><a href=https://github.com/quininer/unzrip>quininer/unzrip</a><p>Unzip implementation, support for parallel decompression, automatic detection encoding</p></li></ul>
 
 **你能找到我吗**
 
@@ -49,4 +49,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：8/23/23, 8:25 AM<br>下一次刷新：8/24/23, 8:25 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：8/24/23, 8:24 AM<br>下一次刷新：8/25/23, 8:24 AM</p>
