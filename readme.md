@@ -36,7 +36,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/AkaraChen/twitter-ban-extend>AkaraChen/twitter-ban-extend</a><p>Hide people with certain emoji in their twitter id.</p></li><li><a href=https://github.com/v2rayA/v2rayA>v2rayA/v2rayA</a><p>A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀</p></li><li><a href=https://github.com/TNXG/ProcessReporterWinpy>TNXG/ProcessReporterWinpy</a></li><li><a href=https://github.com/mx-space/ProcessReporterMac>mx-space/ProcessReporterMac</a></li><li><a href=https://github.com/AkaraChen/confetti>AkaraChen/confetti</a></li></ul>
+<ul><li><a href=https://github.com/fankes/TSBattery>fankes/TSBattery</a><p>A new way to save your battery avoid cancer apps hacker it.</p></li><li><a href=https://github.com/v2rayA/v2rayA>v2rayA/v2rayA</a><p>A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀</p></li><li><a href=https://github.com/GrowingGit/GitHub-Chinese-Top-Charts>GrowingGit/GitHub-Chinese-Top-Charts</a><p>:cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。</p></li><li><a href=https://github.com/wibus-wee/stable-diffusion-webui-ipynb>wibus-wee/stable-diffusion-webui-ipynb</a><p>AUTOMATIC1111 Stable Diffusion WebUI 1.5 + Kohya's Scripts</p></li><li><a href=https://github.com/yaklang/yakit>yaklang/yakit</a><p>Cyber Security ALL-IN-ONE Platform</p></li></ul>
 
 **你能找到我吗**
 
@@ -49,4 +49,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：9/11/23, 8:26 AM<br>下一次刷新：9/12/23, 8:26 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：9/12/23, 8:24 AM<br>下一次刷新：9/13/23, 8:24 AM</p>
