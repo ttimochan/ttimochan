@@ -28,15 +28,15 @@
 
 **最近写了...**
 
-<ul><li><span>8/13/23 - <a href=https://www.timochan.cn/posts/study/protecting_privacy_and_optimizing_networks>保护隐私与优化网络：深入比较 DoT、DoH、H3 和 DoQ 协议的功能与优势</a></span></li><li><span>7/14/23 - <a href=https://www.timochan.cn/posts/study/check_dns_ecs_support>Checking DNS ECS Feature Support</a></span></li><li><span>6/27/23 - <a href=https://www.timochan.cn/posts/study/ocsp_certificate_status_verification_exploration>探究 OCSP（在线证书状态协议）</a></span></li><li><span>5/23/23 - <a href=https://www.timochan.cn/posts/any_pen/adguard_home_for_setting>Adguard Home 调整</a></span></li><li><span>3/6/23 - <a href=https://www.timochan.cn/posts/any_pen/adguard_home_for_me>使用 AdGuard Home 来守护自己的 DNS 查询</a></span></li></ul>
+<ul><li><span>9/16/23 - <a href=https://www.timochan.cn/posts/jc/adguard_home_configuration_guide>Adguard Home 中文指南</a></span></li><li><span>8/13/23 - <a href=https://www.timochan.cn/posts/study/protecting_privacy_and_optimizing_networks>保护隐私与优化网络：深入比较 DoT、DoH、H3 和 DoQ 协议的功能与优势</a></span></li><li><span>7/14/23 - <a href=https://www.timochan.cn/posts/study/check_dns_ecs_support>Checking DNS ECS Feature Support</a></span></li><li><span>6/27/23 - <a href=https://www.timochan.cn/posts/study/ocsp_certificate_status_verification_exploration>探究 OCSP（在线证书状态协议）</a></span></li><li><span>5/23/23 - <a href=https://www.timochan.cn/posts/any_pen/adguard_home_for_setting>Adguard Home 调整</a></span></li></ul>
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/k3s-io/k3s>k3s-io/k3s</a><p>Lightweight Kubernetes</p></li><li><a href=https://github.com/fuqiuluo/unidbg-fetch-qsign>fuqiuluo/unidbg-fetch-qsign</a><p>获取QQSign通过Unidbg</p></li><li><a href=https://github.com/so1ve/fuck-elonmusk>so1ve/fuck-elonmusk</a><p>Fuck Elon Musk! Let's bring Twitter back.</p></li><li><a href=https://github.com/MetaCubeX/Clash.Meta>MetaCubeX/Clash.Meta</a><p>A rule-based tunnel in Go.</p></li><li><a href=https://github.com/Innei/nvim-config-lua>Innei/nvim-config-lua</a><p>NVim is awesome</p></li></ul>
+<ul><li><a href=https://github.com/AdguardTeam/AdGuardHome>AdguardTeam/AdGuardHome</a><p>Network-wide ads & trackers blocking DNS server</p></li><li><a href=https://github.com/k3s-io/k3s>k3s-io/k3s</a><p>Lightweight Kubernetes</p></li><li><a href=https://github.com/fuqiuluo/unidbg-fetch-qsign>fuqiuluo/unidbg-fetch-qsign</a><p>获取QQSign通过Unidbg</p></li><li><a href=https://github.com/so1ve/fuck-elonmusk>so1ve/fuck-elonmusk</a><p>Fuck Elon Musk! Let's bring Twitter back.</p></li><li><a href=https://github.com/MetaCubeX/Clash.Meta>MetaCubeX/Clash.Meta</a><p>A rule-based tunnel in Go.</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/v2rayA/v2rayA>v2rayA/v2rayA</a><p>A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀</p></li><li><a href=https://github.com/mx-space/ProcessReporterMac>mx-space/ProcessReporterMac</a></li><li><a href=https://github.com/FortAwesome/Font-Awesome>FortAwesome/Font-Awesome</a><p>The iconic SVG, font, and CSS toolkit</p></li><li><a href=https://github.com/zzzgydi/clash-verge>zzzgydi/clash-verge</a><p>A Clash GUI based on tauri. Supports Windows, macOS and Linux.</p></li><li><a href=https://github.com/cinit/QAuxiliary>cinit/QAuxiliary</a><p>QNotified phoenix - To make OICQ great again</p></li></ul>
+<ul><li><a href=https://github.com/1Panel-dev/1Panel>1Panel-dev/1Panel</a><p>🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。</p></li><li><a href=https://github.com/yaklang/yakit>yaklang/yakit</a><p>Cyber Security ALL-IN-ONE Platform</p></li><li><a href=https://github.com/rust-lang/rust>rust-lang/rust</a><p>Empowering everyone to build reliable and efficient software.</p></li><li><a href=https://github.com/kubesphere/kubesphere>kubesphere/kubesphere</a><p>The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️</p></li><li><a href=https://github.com/AkaraChen/confetti>AkaraChen/confetti</a></li></ul>
 
 **你能找到我吗**
 
@@ -49,4 +49,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：9/16/23, 8:24 AM<br>下一次刷新：9/17/23, 8:24 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：9/17/23, 8:28 AM<br>下一次刷新：9/18/23, 8:28 AM</p>
