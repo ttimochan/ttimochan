@@ -32,11 +32,11 @@
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/Alex313031/thorium>Alex313031/thorium</a><p>Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.</p></li><li><a href=https://github.com/tiny-craft/tiny-rdm>tiny-craft/tiny-rdm</a><p>A Modern Redis Desktop Manager</p></li><li><a href=https://github.com/AdguardTeam/AdGuardHome>AdguardTeam/AdGuardHome</a><p>Network-wide ads & trackers blocking DNS server</p></li><li><a href=https://github.com/k3s-io/k3s>k3s-io/k3s</a><p>Lightweight Kubernetes</p></li><li><a href=https://github.com/fuqiuluo/unidbg-fetch-qsign>fuqiuluo/unidbg-fetch-qsign</a><p>获取QQSign通过Unidbg</p></li></ul>
+<ul><li><a href=https://github.com/duo/octopus-qq>duo/octopus-qq</a><p>Octopus QQ limb</p></li><li><a href=https://github.com/Alex313031/thorium>Alex313031/thorium</a><p>Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.</p></li><li><a href=https://github.com/tiny-craft/tiny-rdm>tiny-craft/tiny-rdm</a><p>A Modern Redis Desktop Manager</p></li><li><a href=https://github.com/AdguardTeam/AdGuardHome>AdguardTeam/AdGuardHome</a><p>Network-wide ads & trackers blocking DNS server</p></li><li><a href=https://github.com/k3s-io/k3s>k3s-io/k3s</a><p>Lightweight Kubernetes</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/wibus-wee/icalingua-theme-telegram>wibus-wee/icalingua-theme-telegram</a><p>A Telegram-like theme based on icalingua++</p></li><li><a href=https://github.com/wibus-wee/stable-diffusion-webui-ipynb>wibus-wee/stable-diffusion-webui-ipynb</a><p>AUTOMATIC1111 Stable Diffusion WebUI 1.5 + Kohya's Scripts</p></li><li><a href=https://github.com/lxgw/LxgwBright>lxgw/LxgwBright</a><p>A merged font of Ysabeau and LXGW WenKai.</p></li><li><a href=https://github.com/zzzgydi/clash-verge>zzzgydi/clash-verge</a><p>A Clash GUI based on tauri. Supports Windows, macOS and Linux.</p></li><li><a href=https://github.com/seanmonstar/reqwest>seanmonstar/reqwest</a><p>An easy and powerful Rust HTTP Client</p></li></ul>
+<ul><li><a href=https://github.com/TNXG/ProcessReporterWinpy>TNXG/ProcessReporterWinpy</a></li><li><a href=https://github.com/cinit/QAuxiliary>cinit/QAuxiliary</a><p>QNotified phoenix - To make OICQ great again</p></li><li><a href=https://github.com/knownsec/404StarLink>knownsec/404StarLink</a><p>404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目</p></li><li><a href=https://github.com/quininer/unzrip>quininer/unzrip</a><p>Unzip implementation, support for parallel decompression, automatic detection encoding</p></li><li><a href=https://github.com/fuqiuluo/unidbg-fetch-qsign>fuqiuluo/unidbg-fetch-qsign</a><p>获取QQSign通过Unidbg</p></li></ul>
 
 **你能找到我吗**
 
@@ -49,4 +49,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：10/9/23, 8:27 AM<br>下一次刷新：10/10/23, 8:27 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：10/10/23, 8:26 AM<br>下一次刷新：10/11/23, 8:26 AM</p>
