@@ -36,7 +36,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/kubesphere/kubesphere>kubesphere/kubesphere</a><p>The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️</p></li><li><a href=https://github.com/fuqiuluo/unidbg-fetch-qsign>fuqiuluo/unidbg-fetch-qsign</a><p>获取QQSign通过Unidbg</p></li><li><a href=https://github.com/quininer/unzrip>quininer/unzrip</a><p>Unzip implementation, support for parallel decompression, automatic detection encoding</p></li><li><a href=https://github.com/lxgw/LxgwBright>lxgw/LxgwBright</a><p>A merged font of Ysabeau and LXGW WenKai.</p></li><li><a href=https://github.com/mimblewimble/grin>mimblewimble/grin</a><p>Minimal implementation of the Mimblewimble protocol.</p></li></ul>
+<ul><li><a href=https://github.com/wibus-wee/icalingua-theme-telegram>wibus-wee/icalingua-theme-telegram</a><p>A Telegram-like theme based on icalingua++</p></li><li><a href=https://github.com/TNXG/ProcessReporterWinpy>TNXG/ProcessReporterWinpy</a></li><li><a href=https://github.com/Innei/nvim-config-lua>Innei/nvim-config-lua</a><p>NVim is awesome</p></li><li><a href=https://github.com/knownsec/404StarLink>knownsec/404StarLink</a><p>404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目</p></li><li><a href=https://github.com/cinit/QAuxiliary>cinit/QAuxiliary</a><p>QNotified phoenix - To make OICQ great again</p></li></ul>
 
 **你能找到我吗**
 
@@ -49,4 +49,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：10/12/23, 8:24 AM<br>下一次刷新：10/13/23, 8:24 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：10/13/23, 8:27 AM<br>下一次刷新：10/14/23, 8:27 AM</p>
