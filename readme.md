@@ -28,7 +28,7 @@
 
 **最近写了...**
 
-<ul><li><span>9/16/23 - <a href=https://www.timochan.cn/posts/jc/adguard_home_configuration_guide>AdGuard Home 中文指南</a></span></li><li><span>8/13/23 - <a href=https://www.timochan.cn/posts/study/protecting_privacy_and_optimizing_networks>保护隐私与优化网络：深入比较 DoT、DoH、H3 和 DoQ 协议的功能与优势</a></span></li><li><span>7/14/23 - <a href=https://www.timochan.cn/posts/study/check_dns_ecs_support>Checking DNS ECS Feature Support</a></span></li><li><span>6/27/23 - <a href=https://www.timochan.cn/posts/study/ocsp_certificate_status_verification_exploration>探究 OCSP（在线证书状态协议）</a></span></li><li><span>5/23/23 - <a href=https://www.timochan.cn/posts/any_pen/adguard_home_for_setting>Adguard Home 调整</a></span></li></ul>
+<ul><li><span>9/16/23 - <a href=https://www.timochan.cn/posts/jc/adguard_home_configuration_guide>AdGuard Home 中文指南</a></span></li><li><span>8/13/23 - <a href=https://www.timochan.cn/posts/study/protecting_privacy_and_optimizing_networks>保护隐私与优化网络：深入比较 DoT、DoH、H3 和 DoQ 协议的功能与优势</a></span></li><li><span>7/14/23 - <a href=https://www.timochan.cn/posts/study/check_dns_ecs_support>Checking DNS ECS Feature Support</a></span></li><li><span>6/27/23 - <a href=https://www.timochan.cn/posts/study/ocsp_certificate_status_verification_exploration>探究 OCSP（在线证书状态协议）</a></span></li><li><span>5/23/23 - <a href=https://www.timochan.cn/posts/any_pen/adguard_home_for_setting>AdGuard Home 调整</a></span></li></ul>
 
 **最近赞了...**
 
@@ -36,7 +36,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/seanmonstar/reqwest>seanmonstar/reqwest</a><p>An easy and powerful Rust HTTP Client</p></li><li><a href=https://github.com/fankes/TSBattery>fankes/TSBattery</a><p>A new way to save your battery avoid cancer apps hacker it.</p></li><li><a href=https://github.com/mimblewimble/grin>mimblewimble/grin</a><p>Minimal implementation of the Mimblewimble protocol.</p></li><li><a href=https://github.com/kubesphere/kubesphere>kubesphere/kubesphere</a><p>The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️</p></li><li><a href=https://github.com/k3s-io/k3s>k3s-io/k3s</a><p>Lightweight Kubernetes</p></li></ul>
+<ul><li><a href=https://github.com/wibus-wee/icalingua-theme-telegram>wibus-wee/icalingua-theme-telegram</a><p>A Telegram-like theme based on icalingua++</p></li><li><a href=https://github.com/tauri-apps/tauri>tauri-apps/tauri</a><p>Build smaller, faster, and more secure desktop applications with a web frontend.</p></li><li><a href=https://github.com/k3s-io/k3s>k3s-io/k3s</a><p>Lightweight Kubernetes</p></li><li><a href=https://github.com/TNXG/ProcessReporterWinpy>TNXG/ProcessReporterWinpy</a></li><li><a href=https://github.com/so1ve/fuck-elonmusk>so1ve/fuck-elonmusk</a><p>Fuck Elon Musk! Let's bring Twitter back.</p></li></ul>
 
 **你能找到我吗**
 
@@ -49,4 +49,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：10/30/23, 8:27 AM<br>下一次刷新：10/31/23, 8:27 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：10/31/23, 8:27 AM<br>下一次刷新：11/1/23, 8:27 AM</p>
