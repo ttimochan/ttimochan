@@ -32,11 +32,11 @@
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/SocialSisterYi/CxKitty>SocialSisterYi/CxKitty</a><p>超星学习通答题姬（视频文档观看、模拟答题，无需浏览器、无需油猴，容器/host 运行ok！</p></li><li><a href=https://github.com/NOMADxzy/xiaoxin-pro16-5800h-hackintosh>NOMADxzy/xiaoxin-pro16-5800h-hackintosh</a><p>小新pro16 2021 黑苹果efi</p></li><li><a href=https://github.com/huangzheng2016/CTFd-docker>huangzheng2016/CTFd-docker</a><p>用Docker一键配置CTFd，此版本的CTFd集合Whale/Owl等插件，可以实现docker-compose/dockerfile/swarm启动容器</p></li><li><a href=https://github.com/duo/octopus-qq>duo/octopus-qq</a><p>Octopus QQ limb</p></li><li><a href=https://github.com/Alex313031/thorium>Alex313031/thorium</a><p>Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.</p></li></ul>
+<ul><li><a href=https://github.com/foxcpp/maddy>foxcpp/maddy</a><p>✉️ Composable all-in-one mail server.</p></li><li><a href=https://github.com/SocialSisterYi/CxKitty>SocialSisterYi/CxKitty</a><p>超星学习通答题姬（视频文档观看、模拟答题，无需浏览器、无需油猴，容器/host 运行ok！</p></li><li><a href=https://github.com/NOMADxzy/xiaoxin-pro16-5800h-hackintosh>NOMADxzy/xiaoxin-pro16-5800h-hackintosh</a><p>小新pro16 2021 黑苹果efi</p></li><li><a href=https://github.com/huangzheng2016/CTFd-docker>huangzheng2016/CTFd-docker</a><p>用Docker一键配置CTFd，此版本的CTFd集合Whale/Owl等插件，可以实现docker-compose/dockerfile/swarm启动容器</p></li><li><a href=https://github.com/duo/octopus-qq>duo/octopus-qq</a><p>Octopus QQ limb</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/tiny-craft/tiny-rdm>tiny-craft/tiny-rdm</a><p>A Modern Redis GUI Client</p></li><li><a href=https://github.com/mimblewimble/grin>mimblewimble/grin</a><p>Minimal implementation of the Mimblewimble protocol.</p></li><li><a href=https://github.com/rust-lang/rust>rust-lang/rust</a><p>Empowering everyone to build reliable and efficient software.</p></li><li><a href=https://github.com/MetaCubeX/Clash.Meta>MetaCubeX/Clash.Meta</a><p>A rule-based tunnel in Go.</p></li><li><a href=https://github.com/1Panel-dev/1Panel>1Panel-dev/1Panel</a><p>🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。</p></li></ul>
+<ul><li><a href=https://github.com/wibus-wee/icalingua-theme-telegram>wibus-wee/icalingua-theme-telegram</a><p>A Telegram-like theme based on icalingua++</p></li><li><a href=https://github.com/knownsec/404StarLink>knownsec/404StarLink</a><p>404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目</p></li><li><a href=https://github.com/zzzgydi/clash-verge>zzzgydi/clash-verge</a><p>A Clash GUI based on tauri. Supports Windows, macOS and Linux.</p></li><li><a href=https://github.com/lxgw/LxgwBright>lxgw/LxgwBright</a><p>A merged font of Ysabeau and LXGW WenKai.</p></li><li><a href=https://github.com/mimblewimble/grin>mimblewimble/grin</a><p>Minimal implementation of the Mimblewimble protocol.</p></li></ul>
 
 **你能找到我吗**
 
@@ -49,4 +49,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/8/23, 8:26 AM<br>下一次刷新：11/9/23, 8:26 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/9/23, 8:26 AM<br>下一次刷新：11/10/23, 8:26 AM</p>
