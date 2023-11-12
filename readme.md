@@ -36,7 +36,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Innei/nvim-config-lua>Innei/nvim-config-lua</a><p>NVim is awesome</p></li><li><a href=https://github.com/lxgw/LxgwBright>lxgw/LxgwBright</a><p>A merged font of Ysabeau and LXGW WenKai.</p></li><li><a href=https://github.com/Innei/Shiro>Innei/Shiro</a><p>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</p></li><li><a href=https://github.com/AdguardTeam/AdGuardHome>AdguardTeam/AdGuardHome</a><p>Network-wide ads & trackers blocking DNS server</p></li><li><a href=https://github.com/MetaCubeX/Clash.Meta>MetaCubeX/Clash.Meta</a><p>A rule-based tunnel in Go.</p></li></ul>
+<ul><li><a href=https://github.com/wibus-wee/icalingua-theme-telegram>wibus-wee/icalingua-theme-telegram</a><p>A Telegram-like theme based on icalingua++</p></li><li><a href=https://github.com/AdguardTeam/AdGuardHome>AdguardTeam/AdGuardHome</a><p>Network-wide ads & trackers blocking DNS server</p></li><li><a href=https://github.com/cinit/QAuxiliary>cinit/QAuxiliary</a><p>QNotified phoenix - To make OICQ great again</p></li><li><a href=https://github.com/Innei/nvim-config-lua>Innei/nvim-config-lua</a><p>NVim is awesome</p></li><li><a href=https://github.com/k3s-io/k3s>k3s-io/k3s</a><p>Lightweight Kubernetes</p></li></ul>
 
 **你能找到我吗**
 
@@ -49,4 +49,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/11/23, 8:26 AM<br>下一次刷新：11/12/23, 8:26 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/12/23, 8:29 AM<br>下一次刷新：11/13/23, 8:29 AM</p>
