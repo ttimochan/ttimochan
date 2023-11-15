@@ -36,7 +36,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/mx-space/ProcessReporterMac>mx-space/ProcessReporterMac</a></li><li><a href=https://github.com/seanmonstar/reqwest>seanmonstar/reqwest</a><p>An easy and powerful Rust HTTP Client</p></li><li><a href=https://github.com/lxgw/LxgwBright>lxgw/LxgwBright</a><p>A merged font of Ysabeau and LXGW WenKai.</p></li><li><a href=https://github.com/cinit/QAuxiliary>cinit/QAuxiliary</a><p>QNotified phoenix - To make OICQ great again</p></li><li><a href=https://github.com/tauri-apps/tauri>tauri-apps/tauri</a><p>Build smaller, faster, and more secure desktop applications with a web frontend.</p></li></ul>
+<ul><li><a href=https://github.com/fankes/TSBattery>fankes/TSBattery</a><p>A new way to save your battery avoid cancer apps hacker it.</p></li><li><a href=https://github.com/FortAwesome/Font-Awesome>FortAwesome/Font-Awesome</a><p>The iconic SVG, font, and CSS toolkit</p></li><li><a href=https://github.com/1Panel-dev/1Panel>1Panel-dev/1Panel</a><p>🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。</p></li><li><a href=https://github.com/quininer/unzrip>quininer/unzrip</a><p>Unzip implementation, support for parallel decompression, automatic detection encoding</p></li><li><a href=https://github.com/tiny-craft/tiny-rdm>tiny-craft/tiny-rdm</a><p>A Modern Redis GUI Client</p></li></ul>
 
 **你能找到我吗**
 
@@ -49,4 +49,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/14/23, 8:27 AM<br>下一次刷新：11/15/23, 8:27 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/15/23, 8:27 AM<br>下一次刷新：11/16/23, 8:27 AM</p>
