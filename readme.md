@@ -32,11 +32,11 @@
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/keiko233/clash-nyanpasu>keiko233/clash-nyanpasu</a><p>Clash Nyanpasu!</p></li><li><a href=https://github.com/foxcpp/maddy>foxcpp/maddy</a><p>✉️ Composable all-in-one mail server.</p></li><li><a href=https://github.com/SocialSisterYi/CxKitty>SocialSisterYi/CxKitty</a><p>超星学习通答题姬（视频文档观看、模拟答题，无需浏览器、无需油猴，容器/host 运行ok！</p></li><li><a href=https://github.com/NOMADxzy/xiaoxin-pro16-5800h-hackintosh>NOMADxzy/xiaoxin-pro16-5800h-hackintosh</a><p>小新pro16 2021 黑苹果efi</p></li><li><a href=https://github.com/huangzheng2016/CTFd-docker>huangzheng2016/CTFd-docker</a><p>用Docker一键配置CTFd，此版本的CTFd集合Whale/Owl等插件，可以实现docker-compose/dockerfile/swarm启动容器</p></li></ul>
+<ul><li><a href=https://github.com/Dreamer-Paul/Cupcake>Dreamer-Paul/Cupcake</a><p>🍰 一个多巴胺配色的小窝前端主题</p></li><li><a href=https://github.com/keiko233/clash-nyanpasu>keiko233/clash-nyanpasu</a><p>Clash Nyanpasu!</p></li><li><a href=https://github.com/foxcpp/maddy>foxcpp/maddy</a><p>✉️ Composable all-in-one mail server.</p></li><li><a href=https://github.com/SocialSisterYi/CxKitty>SocialSisterYi/CxKitty</a><p>超星学习通答题姬（视频文档观看、模拟答题，无需浏览器、无需油猴，容器/host 运行ok！</p></li><li><a href=https://github.com/NOMADxzy/xiaoxin-pro16-5800h-hackintosh>NOMADxzy/xiaoxin-pro16-5800h-hackintosh</a><p>小新pro16 2021 黑苹果efi</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/kubesphere/kubesphere>kubesphere/kubesphere</a><p>The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️</p></li><li><a href=https://github.com/yaklang/yakit>yaklang/yakit</a><p>Cyber Security ALL-IN-ONE Platform</p></li><li><a href=https://github.com/FortAwesome/Font-Awesome>FortAwesome/Font-Awesome</a><p>The iconic SVG, font, and CSS toolkit</p></li><li><a href=https://github.com/wibus-wee/icalingua-theme-telegram>wibus-wee/icalingua-theme-telegram</a><p>A Telegram-like theme based on icalingua++</p></li><li><a href=https://github.com/wibus-wee/stable-diffusion-webui-ipynb>wibus-wee/stable-diffusion-webui-ipynb</a><p>AUTOMATIC1111 Stable Diffusion WebUI 1.5 + Kohya's Scripts</p></li></ul>
+<ul><li><a href=https://github.com/seanmonstar/reqwest>seanmonstar/reqwest</a><p>An easy and powerful Rust HTTP Client</p></li><li><a href=https://github.com/k3s-io/k3s>k3s-io/k3s</a><p>Lightweight Kubernetes</p></li><li><a href=https://github.com/huangzheng2016/CTFd-docker>huangzheng2016/CTFd-docker</a><p>用Docker一键配置CTFd，此版本的CTFd集合Whale/Owl等插件，可以实现docker-compose/dockerfile/swarm启动容器</p></li><li><a href=https://github.com/cinit/QAuxiliary>cinit/QAuxiliary</a><p>QNotified phoenix - To make OICQ great again</p></li><li><a href=https://github.com/kubesphere/kubesphere>kubesphere/kubesphere</a><p>The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️</p></li></ul>
 
 **你能找到我吗**
 
@@ -49,4 +49,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/22/23, 8:29 AM<br>下一次刷新：11/23/23, 8:29 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/23/23, 8:28 AM<br>下一次刷新：11/24/23, 8:28 AM</p>
