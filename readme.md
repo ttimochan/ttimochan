@@ -32,7 +32,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/AdguardTeam/AdGuardHome>AdguardTeam/AdGuardHome</a><span> Network-wide ads & trackers blocking DNS server</span></li><li><a href=https://github.com/Alex313031/thorium>Alex313031/thorium</a><span> Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.</span></li><li><a href=https://github.com/tiny-craft/tiny-rdm>tiny-craft/tiny-rdm</a><span> A Modern Redis GUI Client</span></li><li><a href=https://github.com/mx-space/ProcessReporterMac>mx-space/ProcessReporterMac</a></li><li><a href=https://github.com/wibus-wee/stable-diffusion-webui-ipynb>wibus-wee/stable-diffusion-webui-ipynb</a><span> AUTOMATIC1111 Stable Diffusion WebUI 1.5 + Kohya's Scripts</span></li></ul>
+<ul><li><a href=https://github.com/k3s-io/k3s>k3s-io/k3s</a><span> Lightweight Kubernetes</span></li><li><a href=https://github.com/seanmonstar/reqwest>seanmonstar/reqwest</a><span> An easy and powerful Rust HTTP Client</span></li><li><a href=https://github.com/wibus-wee-ac/icalingua-theme-telegram>wibus-wee-ac/icalingua-theme-telegram</a><span> A Telegram-like theme based on icalingua++</span></li><li><a href=https://github.com/so1ve/fuck-elonmusk>so1ve/fuck-elonmusk</a><span> Fuck Elon Musk! Let's bring Twitter back.</span></li><li><a href=https://github.com/quininer/unzrip>quininer/unzrip</a><span> Unzip implementation, support for parallel decompression, automatic detection encoding</span></li></ul>
 
 **你能找到我吗**
 
@@ -44,4 +44,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：7/1/24, 8:21 AM<br>下一次刷新：7/2/24, 8:21 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：7/2/24, 8:17 AM<br>下一次刷新：7/3/24, 8:17 AM</p>
