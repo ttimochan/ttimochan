@@ -8,6 +8,7 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Debian" src="https://img.shields.io/badge/-Debian-FF0033?style=flat-square&logo=Debian&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-DB652A?style=flat-square&logo=ubuntu&logoColor=white" />
+  <img alt="Ubuntu" src="https://img.shields.io/badge/-kubernetes-46a2f1?style=flat-square&logo=kubernetes&logoColor=white" />
 </p>
 
 **Environment**
@@ -16,6 +17,7 @@
   <img alt="Windows" src="https://img.shields.io/badge/-Windows-333?style=flat-square&logo=windows&logoColor=white" />
   <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
   <img alt="ArchLinux" src="https://img.shields.io/badge/-archlinux-black?style=flat-square&logo=archlinux&logoColor=blue" />
+  <img alt="macOS" src="https://img.shields.io/badge/-macOS-333?style=flat-square&logo=apple&logoColor=white" />
 </p>
 
 **参与了...**
