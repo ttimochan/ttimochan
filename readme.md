@@ -8,6 +8,7 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Debian" src="https://img.shields.io/badge/-Debian-FF0033?style=flat-square&logo=Debian&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-DB652A?style=flat-square&logo=ubuntu&logoColor=white" />
+  <img alt="Ubuntu" src="https://img.shields.io/badge/-kubernetes-46a2f1?style=flat-square&logo=kubernetes&logoColor=white" />
 </p>
 
 **Environment**
@@ -16,6 +17,7 @@
   <img alt="Windows" src="https://img.shields.io/badge/-Windows-333?style=flat-square&logo=windows&logoColor=white" />
   <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
   <img alt="ArchLinux" src="https://img.shields.io/badge/-archlinux-black?style=flat-square&logo=archlinux&logoColor=blue" />
+  <img alt="macOS" src="https://img.shields.io/badge/-macOS-333?style=flat-square&logo=apple&logoColor=white" />
 </p>
 
 **参与了...**
@@ -32,7 +34,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/mx-space/ProcessReporterMac>mx-space/ProcessReporterMac</a></li><li><a href=https://github.com/quininer/unzrip>quininer/unzrip</a><span> Unzip implementation, support for parallel decompression, automatic detection encoding</span></li><li><a href=https://github.com/yaklang/yakit>yaklang/yakit</a><span> Cyber Security ALL-IN-ONE Platform</span></li><li><a href=https://github.com/Alex313031/thorium>Alex313031/thorium</a><span> Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.</span></li><li><a href=https://github.com/knownsec/404StarLink>knownsec/404StarLink</a><span> 404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目</span></li></ul>
+<ul><li><a href=https://github.com/Innei/nvim-config-lua>Innei/nvim-config-lua</a><span> NVim is awesome</span></li><li><a href=https://github.com/cinit/QAuxiliary>cinit/QAuxiliary</a><span> QNotified phoenix - To make OICQ great again</span></li><li><a href=https://github.com/so1ve/fuck-elonmusk>so1ve/fuck-elonmusk</a><span> Fuck Elon Musk! Let's bring Twitter back.</span></li><li><a href=https://github.com/tauri-apps/tauri>tauri-apps/tauri</a><span> Build smaller, faster, and more secure desktop applications with a web frontend.</span></li><li><a href=https://github.com/quininer/unzrip>quininer/unzrip</a><span> Unzip implementation, support for parallel decompression, automatic detection encoding</span></li></ul>
 
 **你能找到我吗**
 
@@ -44,4 +46,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：7/7/24, 8:19 AM<br>下一次刷新：7/8/24, 8:19 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：7/7/24, 10:00 AM<br>下一次刷新：7/8/24, 10:00 AM</p>
