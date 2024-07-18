@@ -26,7 +26,7 @@
 
 **最近写了...**
 
-<ul><li><span>5/25/24 - <a href=https://www.timochan.cn/notes/41>最近面试</a></span></li><li><span>5/22/24 - <a href=https://www.timochan.cn/posts/study/wechat_push_exploration_and_solution>折腾 WeChat 推送之路</a></span></li><li><span>4/7/24 - <a href=https://www.timochan.cn/posts/any_pen/understanding_docker_for_me>闲谈 - 我如何看待 Docker</a></span></li><li><span>9/16/23 - <a href=https://www.timochan.cn/posts/jc/adguard_home_configuration_guide>AdGuard Home 中文指南</a></span></li><li><span>8/13/23 - <a href=https://www.timochan.cn/posts/study/protecting_privacy_and_optimizing_networks>保护隐私与优化网络：深入比较 DoT、DoH、H3 和 DoQ 协议的功能与优势</a></span></li></ul>
+<ul><li><span>7/17/24 - <a href=https://www.timochan.cn/posts/jc/using_catwrt_to_enhance_network_experience>旁路网关：使用 CatWrt 来提升网络体验</a></span></li><li><span>5/25/24 - <a href=https://www.timochan.cn/notes/41>最近面试</a></span></li><li><span>5/22/24 - <a href=https://www.timochan.cn/posts/study/wechat_push_exploration_and_solution>折腾 WeChat 推送之路</a></span></li><li><span>4/7/24 - <a href=https://www.timochan.cn/posts/any_pen/understanding_docker_for_me>闲谈 - 我如何看待 Docker</a></span></li><li><span>9/16/23 - <a href=https://www.timochan.cn/posts/jc/adguard_home_configuration_guide>AdGuard Home 中文指南</a></span></li></ul>
 
 **最近赞了...**
 
@@ -34,7 +34,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/kubesphere/kubesphere>kubesphere/kubesphere</a><span> The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️</span></li><li><a href=https://github.com/wibus-wee-ac/icalingua-theme-telegram>wibus-wee-ac/icalingua-theme-telegram</a><span> A Telegram-like theme based on icalingua++</span></li><li><a href=https://github.com/quininer/unzrip>quininer/unzrip</a><span> Unzip implementation, support for parallel decompression, automatic detection encoding</span></li><li><a href=https://github.com/fankes/TSBattery>fankes/TSBattery</a><span> A new way to save your battery avoid cancer apps hacker it.</span></li><li><a href=https://github.com/mimblewimble/grin>mimblewimble/grin</a><span> Minimal implementation of the Mimblewimble protocol.</span></li></ul>
+<ul><li><a href=https://github.com/quininer/unzrip>quininer/unzrip</a><span> Unzip implementation, support for parallel decompression, automatic detection encoding</span></li><li><a href=https://github.com/wibus-wee/stable-diffusion-webui-ipynb>wibus-wee/stable-diffusion-webui-ipynb</a><span> AUTOMATIC1111 Stable Diffusion WebUI 1.5 + Kohya's Scripts</span></li><li><a href=https://github.com/wibus-wee-ac/icalingua-theme-telegram>wibus-wee-ac/icalingua-theme-telegram</a><span> A Telegram-like theme based on icalingua++</span></li><li><a href=https://github.com/tokio-rs/axum>tokio-rs/axum</a><span> Ergonomic and modular web framework built with Tokio, Tower, and Hyper</span></li><li><a href=https://github.com/tiny-craft/tiny-rdm>tiny-craft/tiny-rdm</a><span> A Modern Redis GUI Client</span></li></ul>
 
 **你能找到我吗**
 
@@ -46,4 +46,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：7/17/24, 8:19 AM<br>下一次刷新：7/18/24, 8:19 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：7/18/24, 8:17 AM<br>下一次刷新：7/19/24, 8:17 AM</p>
