@@ -26,7 +26,7 @@
 
 **最近写了...**
 
-<ul><li><span>7/17/24 - <a href=https://www.timochan.cn/posts/jc/using_catwrt_to_enhance_network_experience>旁路网关：使用 CatWrt 来提升网络体验</a></span></li><li><span>5/25/24 - <a href=https://www.timochan.cn/notes/41>最近面试</a></span></li><li><span>5/22/24 - <a href=https://www.timochan.cn/posts/study/wechat_push_exploration_and_solution>折腾 WeChat 推送之路</a></span></li><li><span>4/7/24 - <a href=https://www.timochan.cn/posts/any_pen/understanding_docker_for_me>闲谈 - 我如何看待 Docker</a></span></li><li><span>9/16/23 - <a href=https://www.timochan.cn/posts/jc/adguard_home_configuration_guide>AdGuard Home 中文指南</a></span></li></ul>
+<ul><li><span>7/21/24 - <a href=https://www.timochan.cn/posts/study/catwrt_usage_tips>CatWrt 使用经验</a></span></li><li><span>7/17/24 - <a href=https://www.timochan.cn/posts/jc/using_catwrt_to_enhance_network_experience>旁路网关：使用 CatWrt 来提升网络体验</a></span></li><li><span>5/25/24 - <a href=https://www.timochan.cn/notes/41>最近面试</a></span></li><li><span>5/22/24 - <a href=https://www.timochan.cn/posts/study/wechat_push_exploration_and_solution>折腾 WeChat 推送之路</a></span></li><li><span>4/7/24 - <a href=https://www.timochan.cn/posts/any_pen/understanding_docker_for_me>闲谈 - 我如何看待 Docker</a></span></li></ul>
 
 **最近赞了...**
 
@@ -34,7 +34,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Dreamer-Paul/Cupcake>Dreamer-Paul/Cupcake</a><span> 🍰 一个多巴胺配色的个人网站前端，基于 Remix 构建</span></li><li><a href=https://github.com/cinit/QAuxiliary>cinit/QAuxiliary</a><span> QNotified phoenix - To make OICQ great again</span></li><li><a href=https://github.com/tauri-apps/tauri>tauri-apps/tauri</a><span> Build smaller, faster, and more secure desktop applications with a web frontend.</span></li><li><a href=https://github.com/yaklang/yakit>yaklang/yakit</a><span> Cyber Security ALL-IN-ONE Platform</span></li><li><a href=https://github.com/lxgw/LxgwBright>lxgw/LxgwBright</a><span> A merged font of Ysabeau and LXGW WenKai.</span></li></ul>
+<ul><li><a href=https://github.com/so1ve/fuck-elonmusk>so1ve/fuck-elonmusk</a><span> Fuck Elon Musk! Let's bring Twitter back.</span></li><li><a href=https://github.com/tauri-apps/tauri>tauri-apps/tauri</a><span> Build smaller, faster, and more secure desktop applications with a web frontend.</span></li><li><a href=https://github.com/mimblewimble/grin>mimblewimble/grin</a><span> Minimal implementation of the Mimblewimble protocol.</span></li><li><a href=https://github.com/tokio-rs/axum>tokio-rs/axum</a><span> Ergonomic and modular web framework built with Tokio, Tower, and Hyper</span></li><li><a href=https://github.com/MetaCubeX/mihomo>MetaCubeX/mihomo</a><span> A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.</span></li></ul>
 
 **你能找到我吗**
 
@@ -46,4 +46,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：7/20/24, 8:17 AM<br>下一次刷新：7/21/24, 8:17 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：7/21/24, 6:59 PM<br>下一次刷新：7/22/24, 6:59 PM</p>
