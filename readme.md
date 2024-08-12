@@ -34,7 +34,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/MetaCubeX/mihomo>MetaCubeX/mihomo</a><span> A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.</span></li><li><a href=https://github.com/Dreamer-Paul/Cupcake>Dreamer-Paul/Cupcake</a><span> 🍰 一个多巴胺配色的个人网站前端，基于 Remix 构建</span></li><li><a href=https://github.com/FortAwesome/Font-Awesome>FortAwesome/Font-Awesome</a><span> The iconic SVG, font, and CSS toolkit</span></li><li><a href=https://github.com/tokio-rs/axum>tokio-rs/axum</a><span> Ergonomic and modular web framework built with Tokio, Tower, and Hyper</span></li><li><a href=https://github.com/tauri-apps/tauri>tauri-apps/tauri</a><span> Build smaller, faster, and more secure desktop applications with a web frontend.</span></li></ul>
+<ul><li><a href=https://github.com/so1ve/fuck-elonmusk>so1ve/fuck-elonmusk</a><span> Fuck Elon Musk! Let's bring Twitter back.</span></li><li><a href=https://github.com/kubesphere/kubesphere>kubesphere/kubesphere</a><span> The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️</span></li><li><a href=https://github.com/tauri-apps/tauri>tauri-apps/tauri</a><span> Build smaller, faster, and more secure desktop applications with a web frontend.</span></li><li><a href=https://github.com/quininer/unzrip>quininer/unzrip</a><span> Unzip implementation, support for parallel decompression, automatic detection encoding</span></li><li><a href=https://github.com/wibus-wee/stable-diffusion-webui-ipynb>wibus-wee/stable-diffusion-webui-ipynb</a><span> AUTOMATIC1111 Stable Diffusion WebUI 1.5 + Kohya's Scripts</span></li></ul>
 
 **你能找到我吗**
 
@@ -46,4 +46,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：8/10/24, 8:18 AM<br>下一次刷新：8/11/24, 8:18 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：8/12/24, 8:19 AM<br>下一次刷新：8/13/24, 8:19 AM</p>
