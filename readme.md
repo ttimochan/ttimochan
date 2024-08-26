@@ -26,7 +26,7 @@
 
 **最近写了...**
 
-<ul><li><span>7/21/24 - <a href=https://www.timochan.cn/posts/study/catwrt_usage_tips>CatWrt 使用经验</a></span></li><li><span>7/17/24 - <a href=https://www.timochan.cn/posts/jc/using_catwrt_to_enhance_network_experience>旁路网关：使用 CatWrt 来提升网络体验</a></span></li><li><span>5/25/24 - <a href=https://www.timochan.cn/notes/41>最近面试</a></span></li><li><span>5/22/24 - <a href=https://www.timochan.cn/posts/study/wechat_push_exploration_and_solution>折腾 WeChat 推送之路</a></span></li><li><span>4/7/24 - <a href=https://www.timochan.cn/posts/any_pen/understanding_docker_for_me>闲谈 - 我如何看待 Docker</a></span></li></ul>
+<ul><li><span>8/25/24 - <a href=https://www.timochan.cn/notes/42>初入职场：租房与生活初体验</a></span></li><li><span>7/21/24 - <a href=https://www.timochan.cn/posts/study/catwrt_usage_tips>CatWrt 使用经验</a></span></li><li><span>7/17/24 - <a href=https://www.timochan.cn/posts/jc/using_catwrt_to_enhance_network_experience>旁路网关：使用 CatWrt 来提升网络体验</a></span></li><li><span>5/25/24 - <a href=https://www.timochan.cn/notes/41>最近面试</a></span></li><li><span>5/22/24 - <a href=https://www.timochan.cn/posts/study/wechat_push_exploration_and_solution>折腾 WeChat 推送之路</a></span></li></ul>
 
 **最近赞了...**
 
@@ -34,7 +34,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/mimblewimble/grin>mimblewimble/grin</a><span> Minimal implementation of the Mimblewimble protocol.</span></li><li><a href=https://github.com/tokio-rs/axum>tokio-rs/axum</a><span> Ergonomic and modular web framework built with Tokio, Tower, and Hyper</span></li><li><a href=https://github.com/seanmonstar/reqwest>seanmonstar/reqwest</a><span> An easy and powerful Rust HTTP Client</span></li><li><a href=https://github.com/05sec/Cardinal>05sec/Cardinal</a><span> CTF🚩 AWD (Attack with Defense) 线下赛平台 / AWD platform - 欢迎 Star~ ✨</span></li><li><a href=https://github.com/TNXG/ProcessReporterWinpy>TNXG/ProcessReporterWinpy</a></li></ul>
+<ul><li><a href=https://github.com/k3s-io/k3s>k3s-io/k3s</a><span> Lightweight Kubernetes</span></li><li><a href=https://github.com/eeg1412/wikimoeNodeJSBlog>eeg1412/wikimoeNodeJSBlog</a><span> 猛男自用博客系统，基于nodejs，mongodb</span></li><li><a href=https://github.com/seanmonstar/reqwest>seanmonstar/reqwest</a><span> An easy and powerful Rust HTTP Client</span></li><li><a href=https://github.com/yaklang/yakit>yaklang/yakit</a><span> Cyber Security ALL-IN-ONE Platform</span></li><li><a href=https://github.com/tiny-craft/tiny-rdm>tiny-craft/tiny-rdm</a><span> Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.</span></li></ul>
 
 **你能找到我吗**
 
@@ -46,4 +46,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：8/25/24, 8:20 AM<br>下一次刷新：8/26/24, 8:20 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：8/26/24, 8:19 AM<br>下一次刷新：8/27/24, 8:19 AM</p>
