@@ -26,7 +26,7 @@
 
 **最近写了...**
 
-<ul><li><span>9/27/24 - <a href=https://www.timochan.cn/notes/43>离别</a></span></li><li><span>8/25/24 - <a href=https://www.timochan.cn/notes/42>初入职场：租房与生活初体验</a></span></li><li><span>7/21/24 - <a href=https://www.timochan.cn/posts/study/catwrt_usage_tips>CatWrt 使用经验</a></span></li><li><span>7/17/24 - <a href=https://www.timochan.cn/posts/jc/using_catwrt_to_enhance_network_experience>旁路网关：使用 CatWrt 来提升网络体验</a></span></li><li><span>5/25/24 - <a href=https://www.timochan.cn/notes/41>最近面试</a></span></li></ul>
+<ul><li><span>10/6/24 - <a href=https://www.timochan.cn/notes/44>OnePlus ACE 3 开箱体验</a></span></li><li><span>9/27/24 - <a href=https://www.timochan.cn/notes/43>离别</a></span></li><li><span>8/25/24 - <a href=https://www.timochan.cn/notes/42>初入职场：租房与生活初体验</a></span></li><li><span>7/21/24 - <a href=https://www.timochan.cn/posts/study/catwrt_usage_tips>CatWrt 使用经验</a></span></li><li><span>7/17/24 - <a href=https://www.timochan.cn/posts/jc/using_catwrt_to_enhance_network_experience>旁路网关：使用 CatWrt 来提升网络体验</a></span></li></ul>
 
 **最近赞了...**
 
@@ -34,7 +34,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/mimblewimble/grin>mimblewimble/grin</a><span> Minimal implementation of the Mimblewimble protocol.</span></li><li><a href=https://github.com/chaseSpace/k8s-tutorial-cn>chaseSpace/k8s-tutorial-cn</a><span> The most(might be) detailed Kubernetes tutorials in Chinese. 全网（可能）最详细的Kubernetes中文教程。</span></li><li><a href=https://github.com/lxgw/LxgwBright>lxgw/LxgwBright</a><span> A merged font of Ysabeau and LXGW WenKai.</span></li><li><a href=https://github.com/yaklang/yakit>yaklang/yakit</a><span> Cyber Security ALL-IN-ONE Platform</span></li><li><a href=https://github.com/tiny-craft/tiny-rdm>tiny-craft/tiny-rdm</a><span> Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.</span></li></ul>
+<ul><li><a href=https://github.com/1Panel-dev/1Panel>1Panel-dev/1Panel</a><span> 🔥🔥🔥 Web-based linux server management control panel. / 现代化、开源的 Linux 服务器运维管理面板。</span></li><li><a href=https://github.com/k3s-io/k3s>k3s-io/k3s</a><span> Lightweight Kubernetes</span></li><li><a href=https://github.com/chaseSpace/k8s-tutorial-cn>chaseSpace/k8s-tutorial-cn</a><span> The most(might be) detailed Kubernetes tutorials in Chinese. 全网（可能）最详细的Kubernetes中文教程。</span></li><li><a href=https://github.com/tokio-rs/axum>tokio-rs/axum</a><span> Ergonomic and modular web framework built with Tokio, Tower, and Hyper</span></li><li><a href=https://github.com/TNXG/ProcessReporterWinpy>TNXG/ProcessReporterWinpy</a></li></ul>
 
 **你能找到我吗**
 
@@ -46,4 +46,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：10/6/24, 8:22 AM<br>下一次刷新：10/7/24, 8:22 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：10/7/24, 8:21 AM<br>下一次刷新：10/8/24, 8:21 AM</p>
