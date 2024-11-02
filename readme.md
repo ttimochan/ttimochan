@@ -34,7 +34,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Dreamer-Paul/Cupcake>Dreamer-Paul/Cupcake</a><span> 🍰 一个多巴胺配色的个人网站前端，基于 Remix 构建</span></li><li><a href=https://github.com/daeuniverse/dae>daeuniverse/dae</a><span> eBPF-based Linux high-performance transparent proxy solution.</span></li><li><a href=https://github.com/mimblewimble/grin>mimblewimble/grin</a><span> Minimal implementation of the Mimblewimble protocol.</span></li><li><a href=https://github.com/seanmonstar/reqwest>seanmonstar/reqwest</a><span> An easy and powerful Rust HTTP Client</span></li><li><a href=https://github.com/mx-space/ProcessReporterMac>mx-space/ProcessReporterMac</a></li></ul>
+<ul><li><a href=https://github.com/mimblewimble/grin>mimblewimble/grin</a><span> Minimal implementation of the Mimblewimble protocol.</span></li><li><a href=https://github.com/k3s-io/k3s>k3s-io/k3s</a><span> Lightweight Kubernetes</span></li><li><a href=https://github.com/FortAwesome/Font-Awesome>FortAwesome/Font-Awesome</a><span> The iconic SVG, font, and CSS toolkit</span></li><li><a href=https://github.com/lxgw/LxgwBright>lxgw/LxgwBright</a><span> A merged font of Ysabeau and LXGW WenKai.</span></li><li><a href=https://github.com/so1ve/fuck-elonmusk>so1ve/fuck-elonmusk</a><span> Fuck Elon Musk! Let's bring Twitter back.</span></li></ul>
 
 **你能找到我吗**
 
@@ -46,4 +46,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：10/30/24, 8:20 AM<br>下一次刷新：10/31/24, 8:20 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/2/24, 8:20 AM<br>下一次刷新：11/3/24, 8:20 AM</p>
