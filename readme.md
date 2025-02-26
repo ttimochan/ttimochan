@@ -26,7 +26,7 @@
 
 **最近写了...**
 
-<ul><li><span>10/6/24 - <a href=https://www.timochan.cn/notes/44>OnePlus ACE 3 开箱体验</a></span></li><li><span>9/27/24 - <a href=https://www.timochan.cn/notes/43>离别</a></span></li><li><span>8/25/24 - <a href=https://www.timochan.cn/notes/42>初入职场：租房与生活初体验</a></span></li><li><span>7/21/24 - <a href=https://www.timochan.cn/posts/study/catwrt_usage_tips>CatWrt 使用经验</a></span></li><li><span>7/17/24 - <a href=https://www.timochan.cn/posts/jc/using_catwrt_to_enhance_network_experience>旁路网关：使用 CatWrt 来提升网络体验</a></span></li></ul>
+<ul><li><span>2/25/25 - <a href=https://www.timochan.cn/posts/any_pen/conatiner_one>容器（一）</a></span></li><li><span>10/6/24 - <a href=https://www.timochan.cn/notes/44>OnePlus ACE 3 开箱体验</a></span></li><li><span>9/27/24 - <a href=https://www.timochan.cn/notes/43>离别</a></span></li><li><span>8/25/24 - <a href=https://www.timochan.cn/notes/42>初入职场：租房与生活初体验</a></span></li><li><span>7/21/24 - <a href=https://www.timochan.cn/posts/study/catwrt_usage_tips>CatWrt 使用经验</a></span></li></ul>
 
 **最近赞了...**
 
@@ -34,7 +34,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/tiny-craft/tiny-rdm>tiny-craft/tiny-rdm</a><span> Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.</span></li><li><a href=https://github.com/chaseSpace/k8s-tutorial-cn>chaseSpace/k8s-tutorial-cn</a><span> The most(might be) detailed Kubernetes tutorials in Chinese. 全网（可能）最详细的Kubernetes中文教程。</span></li><li><a href=https://github.com/MetaCubeX/mihomo>MetaCubeX/mihomo</a><span> A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.</span></li><li><a href=https://github.com/kube-rs/kube>kube-rs/kube</a><span> Rust Kubernetes client and controller runtime</span></li><li><a href=https://github.com/eeg1412/wikimoeNodeJSBlog>eeg1412/wikimoeNodeJSBlog</a><span> 猛男自用博客系统，基于nodejs，mongodb，nuxt3</span></li></ul>
+<ul><li><a href=https://github.com/Alex313031/thorium>Alex313031/thorium</a><span> Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.</span></li><li><a href=https://github.com/tokio-rs/axum>tokio-rs/axum</a><span> Ergonomic and modular web framework built with Tokio, Tower, and Hyper</span></li><li><a href=https://github.com/eeg1412/wikimoeNodeJSBlog>eeg1412/wikimoeNodeJSBlog</a><span> 猛男自用博客系统，基于nodejs，mongodb，nuxt3</span></li><li><a href=https://github.com/seanmonstar/reqwest>seanmonstar/reqwest</a><span> An easy and powerful Rust HTTP Client</span></li><li><a href=https://github.com/Dreamer-Paul/Cupcake>Dreamer-Paul/Cupcake</a><span> 🍰 一个多巴胺配色的个人网站前端，基于 Remix 构建</span></li></ul>
 
 **你能找到我吗**
 
@@ -46,4 +46,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：2/25/25, 8:21 AM<br>下一次刷新：2/26/25, 8:21 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：2/26/25, 8:21 AM<br>下一次刷新：2/27/25, 8:21 AM</p>
