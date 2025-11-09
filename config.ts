@@ -9,7 +9,7 @@ export const opensource = {
     ],
   },
 };
-export const motto = `<p align=center><strong>お可愛いこと。</strong></p>`;
+export const motto = `<p align=center><strong>可爱</strong></p>`;
 export const github = {
   name: "ttimochan",
 };
