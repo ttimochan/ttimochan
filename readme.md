@@ -9,7 +9,7 @@
   <img alt="Debian" src="https://img.shields.io/badge/-Debian-FF0033?style=flat-square&logo=Debian&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-DB652A?style=flat-square&logo=ubuntu&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/-kubernetes-46a2f1?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-postgresql-46a2f1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-46a2f1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
 **Environment**
@@ -35,7 +35,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/so1ve/fuck-elonmusk>so1ve/fuck-elonmusk</a><span> Fuck Elon Musk! Let's bring Twitter back.</span></li><li><a href=https://github.com/form-dev/form>form-dev/form</a><span> The FORM project for symbolic manipulation of very big expressions</span></li><li><a href=https://github.com/kube-rs/controller-rs>kube-rs/controller-rs</a><span> A kubernetes reference controller with actix-web</span></li><li><a href=https://github.com/cloudflare/pingora>cloudflare/pingora</a><span> A library for building fast, reliable and evolvable network services.</span></li><li><a href=https://github.com/VictoriaMetrics/VictoriaMetrics>VictoriaMetrics/VictoriaMetrics</a><span> VictoriaMetrics: fast, cost-effective monitoring solution and time series database</span></li></ul>
+<ul><li><a href=https://github.com/wibus-wee-ac/icalingua-theme-telegram>wibus-wee-ac/icalingua-theme-telegram</a><span> A Telegram-like theme based on icalingua++</span></li><li><a href=https://github.com/RSSNext/Folo>RSSNext/Folo</a><span> 🧡 Folo is the AI Reader</span></li><li><a href=https://github.com/Genymobile/scrcpy>Genymobile/scrcpy</a><span> Display and control your Android device</span></li><li><a href=https://github.com/tokio-rs/axum>tokio-rs/axum</a><span> Ergonomic and modular web framework built with Tokio, Tower, and Hyper</span></li><li><a href=https://github.com/VictoriaMetrics/VictoriaMetrics>VictoriaMetrics/VictoriaMetrics</a><span> VictoriaMetrics: fast, cost-effective monitoring solution and time series database</span></li></ul>
 
 **你能找到我吗**
 
@@ -47,4 +47,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>可爱</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/9/25, 9:29 PM<br>下一次刷新：11/10/25, 9:29 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/9/25, 9:30 PM<br>下一次刷新：11/10/25, 9:30 PM</p>
