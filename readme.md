@@ -9,6 +9,7 @@
   <img alt="Debian" src="https://img.shields.io/badge/-Debian-FF0033?style=flat-square&logo=Debian&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-DB652A?style=flat-square&logo=ubuntu&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/-kubernetes-46a2f1?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-postgresql-46a2f1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
 **Environment**
@@ -26,15 +27,15 @@
 
 **最近写了...**
 
-<ul><li><span>2/25/25 - <a href=https://www.timochan.cn/posts/any_pen/conatiner_one>容器（一）</a></span></li><li><span>10/6/24 - <a href=https://www.timochan.cn/notes/44>OnePlus ACE 3 开箱体验</a></span></li><li><span>9/27/24 - <a href=https://www.timochan.cn/notes/43>离别</a></span></li><li><span>8/25/24 - <a href=https://www.timochan.cn/notes/42>初入职场：租房与生活初体验</a></span></li><li><span>7/21/24 - <a href=https://www.timochan.cn/posts/study/catwrt_usage_tips>CatWrt 使用经验</a></span></li></ul>
+<ul><li><span>11/8/25 - <a href=https://www.timochan.cn/posts/study/mysql_vs_postgresql_correctness_not_convenience>都 2025 年了，还不试试 PostgreSQL？</a></span></li><li><span>7/6/25 - <a href=https://www.timochan.cn/posts/jc/catwrt_ipv6_dual_ra>如何用旁路网关接管内网 IPv6 代理：RA 双路由优先级实战</a></span></li><li><span>6/7/25 - <a href=https://www.timochan.cn/notes/45>毕业季</a></span></li><li><span>2/25/25 - <a href=https://www.timochan.cn/posts/any_pen/conatiner_one>容器（一）</a></span></li><li><span>10/6/24 - <a href=https://www.timochan.cn/notes/44>OnePlus ACE 3 开箱体验</a></span></li></ul>
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/micolore/note>micolore/note</a><span> It might be useful for you</span></li><li><a href=https://github.com/VictoriaMetrics/VictoriaMetrics>VictoriaMetrics/VictoriaMetrics</a><span> VictoriaMetrics: fast, cost-effective monitoring solution and time series database</span></li><li><a href=https://github.com/Genymobile/scrcpy>Genymobile/scrcpy</a><span> Display and control your Android device</span></li><li><a href=https://github.com/RSSNext/Follow>RSSNext/Follow</a><span> 🧡 Follow everything in one place</span></li><li><a href=https://github.com/kube-rs/controller-rs>kube-rs/controller-rs</a><span> A kubernetes reference controller with actix-web</span></li></ul>
+<ul><li><a href=https://github.com/canmi21/vane>canmi21/vane</a><span> A flow-based, two-phase reverse proxy with modular protocol layers and unified middleware.</span></li><li><a href=https://github.com/google/google-authenticator-libpam>google/google-authenticator-libpam</a></li><li><a href=https://github.com/Cosmian/kms>Cosmian/kms</a><span> A feature-rich, scalable, Key Management System</span></li><li><a href=https://github.com/sctg-development/sctgdesk-server>sctg-development/sctgdesk-server</a><span> Rendez-vous server, API server and web console for Rustdesk 100% in Rust ( integrated version, for standalone see https://github.com/sctg-development/sctgdesk-api-server )</span></li><li><a href=https://github.com/micolore/note>micolore/note</a><span> It might be useful for you</span></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/torvalds/linux>torvalds/linux</a><span> Linux kernel source tree</span></li><li><a href=https://github.com/mx-space/ProcessReporterMac>mx-space/ProcessReporterMac</a></li><li><a href=https://github.com/tiny-craft/tiny-rdm>tiny-craft/tiny-rdm</a><span> Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.</span></li><li><a href=https://github.com/lxgw/LxgwBright>lxgw/LxgwBright</a><span> A merged font of Ysabeau and LXGW WenKai.</span></li><li><a href=https://github.com/so1ve/fuck-elonmusk>so1ve/fuck-elonmusk</a><span> Fuck Elon Musk! Let's bring Twitter back.</span></li></ul>
+<ul><li><a href=https://github.com/kube-rs/controller-rs>kube-rs/controller-rs</a><span> A kubernetes reference controller with actix-web</span></li><li><a href=https://github.com/daeuniverse/dae>daeuniverse/dae</a><span> eBPF-based Linux high-performance transparent proxy solution.</span></li><li><a href=https://github.com/VictoriaMetrics/VictoriaMetrics>VictoriaMetrics/VictoriaMetrics</a><span> VictoriaMetrics: fast, cost-effective monitoring solution and time series database</span></li><li><a href=https://github.com/torvalds/linux>torvalds/linux</a><span> Linux kernel source tree</span></li><li><a href=https://github.com/chaseSpace/k8s-tutorial-cn>chaseSpace/k8s-tutorial-cn</a><span> The most(might be) detailed Kubernetes tutorials in Chinese. 全网（可能）最详细的Kubernetes中文教程。</span></li></ul>
 
 **你能找到我吗**
 
@@ -45,5 +46,5 @@
 Thanks , [Innei](https://github.com/Innei)
 ------------
 
-<p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：3/3/25, 8:22 AM<br>下一次刷新：3/4/25, 8:22 AM</p>
+<p align=center><strong>可爱</strong></p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/9/25, 9:28 PM<br>下一次刷新：11/10/25, 9:28 PM</p>
