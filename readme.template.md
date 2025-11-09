@@ -9,7 +9,7 @@
   <img alt="Debian" src="https://img.shields.io/badge/-Debian-FF0033?style=flat-square&logo=Debian&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-DB652A?style=flat-square&logo=ubuntu&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/-kubernetes-46a2f1?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-postgresql-46a2f1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-46a2f1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
 **Environment**
