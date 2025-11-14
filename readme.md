@@ -35,7 +35,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/eeg1412/wikimoeNodeJSBlog>eeg1412/wikimoeNodeJSBlog</a><span> 猛男自用博客系统，基于nodejs，mongodb，nuxt3</span></li><li><a href=https://github.com/TNXG/ProcessReporterWinpy>TNXG/ProcessReporterWinpy</a></li><li><a href=https://github.com/tiny-craft/tiny-rdm>tiny-craft/tiny-rdm</a><span> Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.</span></li><li><a href=https://github.com/k3s-io/k3s>k3s-io/k3s</a><span> Lightweight Kubernetes</span></li><li><a href=https://github.com/tokio-rs/axum>tokio-rs/axum</a><span> Ergonomic and modular web framework built with Tokio, Tower, and Hyper</span></li></ul>
+<ul><li><a href=https://github.com/eeg1412/wikimoeNodeJSBlog>eeg1412/wikimoeNodeJSBlog</a><span> 猛男自用博客系统，基于nodejs，mongodb，nuxt3</span></li><li><a href=https://github.com/chaseSpace/k8s-tutorial-cn>chaseSpace/k8s-tutorial-cn</a><span> The most(might be) detailed Kubernetes tutorials in Chinese. 全网（可能）最详细的Kubernetes中文教程。</span></li><li><a href=https://github.com/TNXG/ProcessReporterWinpy>TNXG/ProcessReporterWinpy</a></li><li><a href=https://github.com/MetaCubeX/mihomo>MetaCubeX/mihomo</a><span> A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.</span></li><li><a href=https://github.com/Alex313031/thorium>Alex313031/thorium</a><span> Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.</span></li></ul>
 
 **你能找到我吗**
 
@@ -47,4 +47,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>可爱</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/11/25, 8:34 AM<br>下一次刷新：11/12/25, 8:34 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/14/25, 8:34 AM<br>下一次刷新：11/15/25, 8:34 AM</p>
