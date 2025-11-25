@@ -35,7 +35,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/mx-space/ProcessReporterMac>mx-space/ProcessReporterMac</a></li><li><a href=https://github.com/Dreamer-Paul/Cupcake>Dreamer-Paul/Cupcake</a><span> 🍰 一个多巴胺配色的个人网站前端，基于 Remix + Tailwind 构建</span></li><li><a href=https://github.com/05sec/Cardinal>05sec/Cardinal</a><span> CTF🚩 AWD (Attack with Defense) 线下赛平台 / AWD platform - 欢迎 Star~ ✨</span></li><li><a href=https://github.com/TNXG/ProcessReporterWinpy>TNXG/ProcessReporterWinpy</a></li><li><a href=https://github.com/kube-rs/controller-rs>kube-rs/controller-rs</a><span> A kubernetes reference controller with actix-web</span></li></ul>
+<ul><li><a href=https://github.com/tiny-craft/tiny-rdm>tiny-craft/tiny-rdm</a><span> Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.</span></li><li><a href=https://github.com/RSSNext/Folo>RSSNext/Folo</a><span> 🧡 Folo is the AI Reader</span></li><li><a href=https://github.com/chaseSpace/k8s-tutorial-cn>chaseSpace/k8s-tutorial-cn</a><span> The most(might be) detailed Kubernetes tutorials in Chinese. 全网（可能）最详细的Kubernetes中文教程。</span></li><li><a href=https://github.com/VictoriaMetrics/VictoriaMetrics>VictoriaMetrics/VictoriaMetrics</a><span> VictoriaMetrics: fast, cost-effective monitoring solution and time series database</span></li><li><a href=https://github.com/TNXG/ProcessReporterWinpy>TNXG/ProcessReporterWinpy</a></li></ul>
 
 **你能找到我吗**
 
@@ -47,4 +47,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>可爱</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/24/25, 8:36 AM<br>下一次刷新：11/25/25, 8:36 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/25/25, 8:32 AM<br>下一次刷新：11/26/25, 8:32 AM</p>
