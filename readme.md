@@ -35,7 +35,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/cloudflare/pingora>cloudflare/pingora</a><span> A library for building fast, reliable and evolvable network services.</span></li><li><a href=https://github.com/form-dev/form>form-dev/form</a><span> The FORM project for symbolic manipulation of very big expressions</span></li><li><a href=https://github.com/chaseSpace/k8s-tutorial-cn>chaseSpace/k8s-tutorial-cn</a><span> The most(might be) detailed Kubernetes tutorials in Chinese. 全网（可能）最详细的Kubernetes中文教程。</span></li><li><a href=https://github.com/kube-rs/kube>kube-rs/kube</a><span> Rust Kubernetes client and controller runtime</span></li><li><a href=https://github.com/Genymobile/scrcpy>Genymobile/scrcpy</a><span> Display and control your Android device</span></li></ul>
+<ul><li><a href=https://github.com/kube-rs/kube>kube-rs/kube</a><span> Rust Kubernetes client and controller runtime</span></li><li><a href=https://github.com/cloudflare/pingora>cloudflare/pingora</a><span> A library for building fast, reliable and evolvable network services.</span></li><li><a href=https://github.com/TNXG/ProcessReporterWinpy>TNXG/ProcessReporterWinpy</a></li><li><a href=https://github.com/so1ve/fuck-elonmusk>so1ve/fuck-elonmusk</a><span> Fuck Elon Musk! Let's bring Twitter back.</span></li><li><a href=https://github.com/eeg1412/wikimoeNodeJSBlog>eeg1412/wikimoeNodeJSBlog</a><span> 猛男自用博客系统，基于nodejs，mongodb，nuxt3</span></li></ul>
 
 **你能找到我吗**
 
@@ -47,4 +47,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>可爱</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：12/11/25, 8:35 AM<br>下一次刷新：12/12/25, 8:35 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：12/12/25, 8:35 AM<br>下一次刷新：12/13/25, 8:35 AM</p>
