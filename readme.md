@@ -31,11 +31,11 @@
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/canmi21/vane>canmi21/vane</a><span> A flow-based, two-phase reverse proxy with modular protocol layers and unified middleware.</span></li><li><a href=https://github.com/google/google-authenticator-libpam>google/google-authenticator-libpam</a></li><li><a href=https://github.com/Cosmian/kms>Cosmian/kms</a><span> A feature-rich, scalable, Key Management System</span></li><li><a href=https://github.com/sctg-development/sctgdesk-server>sctg-development/sctgdesk-server</a><span> Rendez-vous server, API server and web console for Rustdesk 100% in Rust ( integrated version, for standalone see https://github.com/sctg-development/sctgdesk-api-server )</span></li><li><a href=https://github.com/micolore/note>micolore/note</a><span> It might be useful for you</span></li></ul>
+<ul><li><a href=https://github.com/miaoermua/AdguardFilter>miaoermua/AdguardFilter</a><span> ↩️ 更合理 AdGuard 规则，轻松改善你的使用体验</span></li><li><a href=https://github.com/canmi21/vane>canmi21/vane</a><span> A flow-based, two-phase reverse proxy with modular protocol layers and unified middleware.</span></li><li><a href=https://github.com/google/google-authenticator-libpam>google/google-authenticator-libpam</a></li><li><a href=https://github.com/Cosmian/kms>Cosmian/kms</a><span> A feature-rich, scalable, Key Management System</span></li><li><a href=https://github.com/sctg-development/sctgdesk-server>sctg-development/sctgdesk-server</a><span> Rendez-vous server, API server and web console for Rustdesk 100% in Rust ( integrated version, for standalone see https://github.com/sctg-development/sctgdesk-api-server )</span></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/VictoriaMetrics/VictoriaMetrics>VictoriaMetrics/VictoriaMetrics</a><span> VictoriaMetrics: fast, cost-effective monitoring solution and time series database</span></li><li><a href=https://github.com/kube-rs/controller-rs>kube-rs/controller-rs</a><span> A kubernetes reference controller with actix-web</span></li><li><a href=https://github.com/torvalds/linux>torvalds/linux</a><span> Linux kernel source tree</span></li><li><a href=https://github.com/TNXG/ProcessReporterWinpy>TNXG/ProcessReporterWinpy</a></li><li><a href=https://github.com/k3s-io/k3s>k3s-io/k3s</a><span> Lightweight Kubernetes</span></li></ul>
+<ul><li><a href=https://github.com/RSSNext/Folo>RSSNext/Folo</a><span> 🧡 Folo is the AI Reader</span></li><li><a href=https://github.com/micolore/note>micolore/note</a><span> It might be useful for you</span></li><li><a href=https://github.com/chaseSpace/k8s-tutorial-cn>chaseSpace/k8s-tutorial-cn</a><span> The most(might be) detailed Kubernetes tutorials in Chinese. 全网（可能）最详细的Kubernetes中文教程。</span></li><li><a href=https://github.com/k3s-io/k3s>k3s-io/k3s</a><span> Lightweight Kubernetes</span></li><li><a href=https://github.com/Dreamer-Paul/Cupcake>Dreamer-Paul/Cupcake</a><span> 🍰 一个多巴胺配色的个人网站前端，基于 Remix + Tailwind 构建</span></li></ul>
 
 **你能找到我吗**
 
@@ -47,4 +47,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>可爱</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：12/27/25, 8:34 AM<br>下一次刷新：12/28/25, 8:34 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：12/28/25, 8:40 AM<br>下一次刷新：12/29/25, 8:40 AM</p>
