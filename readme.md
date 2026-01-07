@@ -31,11 +31,11 @@
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/wublabdubdub/PDU-PostgreSQLDataUnloader>wublabdubdub/PDU-PostgreSQLDataUnloader</a><span> A Novice-Friendly Expert-level PostgreSQL Rescue Tool. Designed for Postgresql Database Rescue.</span></li><li><a href=https://github.com/miaoermua/AdguardFilter>miaoermua/AdguardFilter</a><span> ↩️ 更合理 AdGuard 规则，轻松改善你的使用体验</span></li><li><a href=https://github.com/canmi21/vane>canmi21/vane</a><span> A flow-based, two-phase reverse proxy with modular protocol layers and unified middleware.</span></li><li><a href=https://github.com/google/google-authenticator-libpam>google/google-authenticator-libpam</a></li><li><a href=https://github.com/Cosmian/kms>Cosmian/kms</a><span> A feature-rich, scalable, Key Management System</span></li></ul>
+<ul><li><a href=https://github.com/wublabdubdub/PDU-PostgreSQLDataUnloader>wublabdubdub/PDU-PostgreSQLDataUnloader</a><span> A Novice-Friendly Expert-level PostgreSQL Rescue Tool. Designed for Postgresql Database Rescue.</span></li><li><a href=https://github.com/miaoermua/AdguardFilter>miaoermua/AdguardFilter</a><span> ↩️ 更合理 AdGuard 规则，轻松改善你的使用体验</span></li><li><a href=https://github.com/canmi21/vane>canmi21/vane</a><span> A flow-based reverse proxy with multi-layer routing and programmable pipelines.</span></li><li><a href=https://github.com/google/google-authenticator-libpam>google/google-authenticator-libpam</a></li><li><a href=https://github.com/Cosmian/kms>Cosmian/kms</a><span> A feature-rich, scalable, Key Management System</span></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/cloudflare/pingora>cloudflare/pingora</a><span> A library for building fast, reliable and evolvable network services.</span></li><li><a href=https://github.com/ibarryyan/golang-tips-100>ibarryyan/golang-tips-100</a><span> You know , for golang tips!</span></li><li><a href=https://github.com/Genymobile/scrcpy>Genymobile/scrcpy</a><span> Display and control your Android device</span></li><li><a href=https://github.com/so1ve/fuck-elonmusk>so1ve/fuck-elonmusk</a><span> Fuck Elon Musk! Let's bring Twitter back.</span></li><li><a href=https://github.com/MetaCubeX/mihomo>MetaCubeX/mihomo</a><span> A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.</span></li></ul>
+<ul><li><a href=https://github.com/Dreamer-Paul/Cupcake>Dreamer-Paul/Cupcake</a><span> 🍰 一个多巴胺配色的个人网站前端，基于 Remix + Tailwind 构建</span></li><li><a href=https://github.com/Genymobile/scrcpy>Genymobile/scrcpy</a><span> Display and control your Android device</span></li><li><a href=https://github.com/form-dev/form>form-dev/form</a><span> The FORM project for symbolic manipulation of very big expressions</span></li><li><a href=https://github.com/kube-rs/controller-rs>kube-rs/controller-rs</a><span> A kubernetes reference controller with actix-web</span></li><li><a href=https://github.com/tokio-rs/axum>tokio-rs/axum</a><span> HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity</span></li></ul>
 
 **你能找到我吗**
 
@@ -47,4 +47,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>可爱</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：1/6/26, 8:36 AM<br>下一次刷新：1/7/26, 8:36 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：1/7/26, 8:36 AM<br>下一次刷新：1/8/26, 8:36 AM</p>
