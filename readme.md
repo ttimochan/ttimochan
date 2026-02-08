@@ -35,7 +35,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Genymobile/scrcpy>Genymobile/scrcpy</a><span> Display and control your Android device</span></li><li><a href=https://github.com/kube-rs/kube>kube-rs/kube</a><span> Rust Kubernetes client and controller runtime</span></li><li><a href=https://github.com/ibarryyan/golang-tips-100>ibarryyan/golang-tips-100</a><span> You know , for golang tips!</span></li><li><a href=https://github.com/MetaCubeX/mihomo>MetaCubeX/mihomo</a><span> A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.</span></li><li><a href=https://github.com/tokio-rs/axum>tokio-rs/axum</a><span> HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity</span></li></ul>
+<ul><li><a href=https://github.com/Cosmian/kms>Cosmian/kms</a><span> A feature-rich, scalable, Key Management System</span></li><li><a href=https://github.com/RSSNext/Folo>RSSNext/Folo</a><span> 🧡 Folo is the AI Reader</span></li><li><a href=https://github.com/tiny-craft/tiny-rdm>tiny-craft/tiny-rdm</a><span> Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.</span></li><li><a href=https://github.com/MetaCubeX/mihomo>MetaCubeX/mihomo</a><span> A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.</span></li><li><a href=https://github.com/eeg1412/wikimoeNodeJSBlog>eeg1412/wikimoeNodeJSBlog</a><span> 猛男自用博客系统，基于nodejs，mongodb，nuxt4</span></li></ul>
 
 **你能找到我吗**
 
@@ -47,4 +47,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>可爱</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：2/6/26, 8:41 AM<br>下一次刷新：2/7/26, 8:41 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：2/8/26, 8:55 AM<br>下一次刷新：2/9/26, 8:55 AM</p>
