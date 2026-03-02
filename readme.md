@@ -35,7 +35,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/google/google-authenticator-libpam>google/google-authenticator-libpam</a></li><li><a href=https://github.com/torvalds/linux>torvalds/linux</a><span> Linux kernel source tree</span></li><li><a href=https://github.com/tiny-craft/tiny-rdm>tiny-craft/tiny-rdm</a><span> Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.</span></li><li><a href=https://github.com/k3s-io/k3s>k3s-io/k3s</a><span> Lightweight Kubernetes</span></li><li><a href=https://github.com/micolore/note>micolore/note</a><span> It might be useful for you</span></li></ul>
+<ul><li><a href=https://github.com/torvalds/linux>torvalds/linux</a><span> Linux kernel source tree</span></li><li><a href=https://github.com/sctg-development/sctgdesk-server>sctg-development/sctgdesk-server</a><span> Rendez-vous server, API server and web console for Rustdesk 100% in Rust ( integrated version, for standalone see https://github.com/sctg-development/sctgdesk-api-server )</span></li><li><a href=https://github.com/Alex313031/thorium>Alex313031/thorium</a><span> Chromium fork named after radioactive element No. 90. Source code and Linux releases. Windows/MacOS/ARM builds served in different repos, links are towards the top of the README.md.</span></li><li><a href=https://github.com/cloudflare/pingora>cloudflare/pingora</a><span> A library for building fast, reliable and evolvable network services.</span></li><li><a href=https://github.com/Dreamer-Paul/Cupcake>Dreamer-Paul/Cupcake</a><span> 🍰 一个多巴胺配色的个人网站前端，基于 Remix + Tailwind 构建</span></li></ul>
 
 **你能找到我吗**
 
@@ -47,4 +47,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>可爱</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：2/28/26, 8:39 AM<br>下一次刷新：3/1/26, 8:39 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：3/2/26, 8:44 AM<br>下一次刷新：3/3/26, 8:44 AM</p>
