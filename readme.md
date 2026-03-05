@@ -35,7 +35,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/tokio-rs/axum>tokio-rs/axum</a><span> HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity</span></li><li><a href=https://github.com/sctg-development/sctgdesk-server>sctg-development/sctgdesk-server</a><span> Rendez-vous server, API server and web console for Rustdesk 100% in Rust ( integrated version, for standalone see https://github.com/sctg-development/sctgdesk-api-server )</span></li><li><a href=https://github.com/kube-rs/kube>kube-rs/kube</a><span> Rust Kubernetes client and controller runtime</span></li><li><a href=https://github.com/05sec/Cardinal>05sec/Cardinal</a><span> CTF🚩 AWD (Attack with Defense) 线下赛平台 / AWD platform - 欢迎 Star~ ✨</span></li><li><a href=https://github.com/eeg1412/wikimoeNodeJSBlog>eeg1412/wikimoeNodeJSBlog</a><span> 猛男自用博客系统，基于nodejs，mongodb，nuxt4</span></li></ul>
+<ul><li><a href=https://github.com/tokio-rs/axum>tokio-rs/axum</a><span> HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity</span></li><li><a href=https://github.com/chaseSpace/k8s-tutorial-cn>chaseSpace/k8s-tutorial-cn</a><span> The most(might be) detailed Kubernetes tutorials in Chinese. 全网（可能）最详细的Kubernetes中文教程。</span></li><li><a href=https://github.com/Dreamer-Paul/Cupcake>Dreamer-Paul/Cupcake</a><span> 🍰 一个多巴胺配色的个人网站前端，基于 Remix + Tailwind 构建</span></li><li><a href=https://github.com/canmi21/vane>canmi21/vane</a><span> A flow-based reverse proxy with multi-layer routing and programmable pipelines.</span></li><li><a href=https://github.com/kube-rs/controller-rs>kube-rs/controller-rs</a><span> A kubernetes reference controller with actix-web</span></li></ul>
 
 **你能找到我吗**
 
@@ -47,4 +47,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>可爱</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：3/3/26, 8:44 AM<br>下一次刷新：3/4/26, 8:44 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：3/5/26, 8:44 AM<br>下一次刷新：3/6/26, 8:44 AM</p>
