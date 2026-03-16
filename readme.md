@@ -27,7 +27,7 @@
 
 **最近写了...**
 
-<ul><li><span>11/8/25 - <a href=https://www.timochan.cn/posts/study/mysql_vs_postgresql_correctness_not_convenience>都 2025 年了，还不试试 PostgreSQL？</a></span></li><li><span>7/6/25 - <a href=https://www.timochan.cn/posts/jc/catwrt_ipv6_dual_ra>如何用旁路网关接管内网 IPv6 代理：RA 双路由优先级实战</a></span></li><li><span>6/7/25 - <a href=https://www.timochan.cn/notes/45>毕业季</a></span></li><li><span>2/25/25 - <a href=https://www.timochan.cn/posts/any_pen/conatiner_one>容器（一）</a></span></li><li><span>10/6/24 - <a href=https://www.timochan.cn/notes/44>OnePlus ACE 3 开箱体验</a></span></li></ul>
+<ul><li><span>3/15/26 - <a href=https://www.timochan.cn/posts/any_pen/from_oneplus_to_xiaomi>从一加到小米：从「TEE 损坏」到「TEE 自身完备」</a></span></li><li><span>11/8/25 - <a href=https://www.timochan.cn/posts/study/mysql_vs_postgresql_correctness_not_convenience>都 2025 年了，还不试试 PostgreSQL？</a></span></li><li><span>7/6/25 - <a href=https://www.timochan.cn/posts/jc/catwrt_ipv6_dual_ra>如何用旁路网关接管内网 IPv6 代理：RA 双路由优先级实战</a></span></li><li><span>6/7/25 - <a href=https://www.timochan.cn/notes/45>毕业季</a></span></li><li><span>2/25/25 - <a href=https://www.timochan.cn/posts/any_pen/conatiner_one>容器（一）</a></span></li></ul>
 
 **最近赞了...**
 
@@ -35,7 +35,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/go-gorm/gorm>go-gorm/gorm</a><span> The fantastic ORM library for Golang, aims to be developer friendly</span></li><li><a href=https://github.com/micolore/note>micolore/note</a><span> It might be useful for you</span></li><li><a href=https://github.com/torvalds/linux>torvalds/linux</a><span> Linux kernel source tree</span></li><li><a href=https://github.com/kube-rs/controller-rs>kube-rs/controller-rs</a><span> A kubernetes reference controller with actix-web</span></li><li><a href=https://github.com/Cosmian/kms>Cosmian/kms</a><span> A feature-rich, scalable, Key Management System</span></li></ul>
+<ul><li><a href=https://github.com/ibarryyan/golang-tips-100>ibarryyan/golang-tips-100</a><span> You know , for golang tips!</span></li><li><a href=https://github.com/form-dev/form>form-dev/form</a><span> The FORM project for symbolic manipulation of very big expressions</span></li><li><a href=https://github.com/torvalds/linux>torvalds/linux</a><span> Linux kernel source tree</span></li><li><a href=https://github.com/RSSNext/Folo>RSSNext/Folo</a><span> 🧡 Folo is the AI Reader</span></li><li><a href=https://github.com/eeg1412/wikimoeNodeJSBlog>eeg1412/wikimoeNodeJSBlog</a><span> 猛男自用博客系统，基于nodejs，mongodb，nuxt4</span></li></ul>
 
 **你能找到我吗**
 
@@ -47,4 +47,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>可爱</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：3/15/26, 8:50 AM<br>下一次刷新：3/16/26, 8:50 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：3/16/26, 8:50 AM<br>下一次刷新：3/17/26, 8:50 AM</p>
