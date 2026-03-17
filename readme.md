@@ -35,7 +35,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/ibarryyan/golang-tips-100>ibarryyan/golang-tips-100</a><span> You know , for golang tips!</span></li><li><a href=https://github.com/form-dev/form>form-dev/form</a><span> The FORM project for symbolic manipulation of very big expressions</span></li><li><a href=https://github.com/torvalds/linux>torvalds/linux</a><span> Linux kernel source tree</span></li><li><a href=https://github.com/RSSNext/Folo>RSSNext/Folo</a><span> 🧡 Folo is the AI Reader</span></li><li><a href=https://github.com/eeg1412/wikimoeNodeJSBlog>eeg1412/wikimoeNodeJSBlog</a><span> 猛男自用博客系统，基于nodejs，mongodb，nuxt4</span></li></ul>
+<ul><li><a href=https://github.com/canmi21/vane>canmi21/vane</a><span> A multi-layer routing and programmable proxy engine.</span></li><li><a href=https://github.com/cloudflare/pingora>cloudflare/pingora</a><span> A library for building fast, reliable and evolvable network services.</span></li><li><a href=https://github.com/micolore/note>micolore/note</a><span> It might be useful for you</span></li><li><a href=https://github.com/RSSNext/Folo>RSSNext/Folo</a><span> 🧡 Folo is the AI Reader</span></li><li><a href=https://github.com/kube-rs/kube>kube-rs/kube</a><span> Rust Kubernetes client and controller runtime</span></li></ul>
 
 **你能找到我吗**
 
@@ -47,4 +47,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>可爱</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：3/16/26, 8:50 AM<br>下一次刷新：3/17/26, 8:50 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：3/17/26, 8:42 AM<br>下一次刷新：3/18/26, 8:42 AM</p>
