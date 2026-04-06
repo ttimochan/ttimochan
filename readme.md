@@ -27,7 +27,7 @@
 
 **最近写了...**
 
-<ul><li><span>3/15/26 - <a href=https://www.timochan.cn/posts/any_pen/from_oneplus_to_xiaomi>从一加到小米：从「TEE 损坏」到「TEE 自身完备」</a></span></li><li><span>11/8/25 - <a href=https://www.timochan.cn/posts/study/mysql_vs_postgresql_correctness_not_convenience>都 2025 年了，还不试试 PostgreSQL？</a></span></li><li><span>7/6/25 - <a href=https://www.timochan.cn/posts/jc/catwrt_ipv6_dual_ra>如何用旁路网关接管内网 IPv6 代理：RA 双路由优先级实战</a></span></li><li><span>6/7/25 - <a href=https://www.timochan.cn/notes/45>毕业季</a></span></li><li><span>2/25/25 - <a href=https://www.timochan.cn/posts/any_pen/conatiner_one>容器（一）</a></span></li></ul>
+<ul><li><span>4/5/26 - <a href=https://www.timochan.cn/notes/46>两年三站：腾讯云、百度，以及我的 PostgreSQL 之路</a></span></li><li><span>3/15/26 - <a href=https://www.timochan.cn/posts/any_pen/from_oneplus_to_xiaomi>从一加到小米：从「TEE 损坏」到「TEE 自身完备」</a></span></li><li><span>11/8/25 - <a href=https://www.timochan.cn/posts/study/mysql_vs_postgresql_correctness_not_convenience>都 2025 年了，还不试试 PostgreSQL？</a></span></li><li><span>7/6/25 - <a href=https://www.timochan.cn/posts/jc/catwrt_ipv6_dual_ra>如何用旁路网关接管内网 IPv6 代理：RA 双路由优先级实战</a></span></li><li><span>6/7/25 - <a href=https://www.timochan.cn/notes/45>毕业季</a></span></li></ul>
 
 **最近赞了...**
 
@@ -35,7 +35,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/go-gorm/gorm>go-gorm/gorm</a><span> The fantastic ORM library for Golang, aims to be developer friendly</span></li><li><a href=https://github.com/sctg-development/sctgdesk-server>sctg-development/sctgdesk-server</a><span> Rendez-vous server, API server and web console for Rustdesk 100% in Rust ( integrated version, for standalone see https://github.com/sctg-development/sctgdesk-api-server )</span></li><li><a href=https://github.com/micolore/note>micolore/note</a><span> It might be useful for you</span></li><li><a href=https://github.com/torvalds/linux>torvalds/linux</a><span> Linux kernel source tree</span></li><li><a href=https://github.com/VictoriaMetrics/VictoriaMetrics>VictoriaMetrics/VictoriaMetrics</a><span> VictoriaMetrics: fast, cost-effective monitoring solution and time series database</span></li></ul>
+<ul><li><a href=https://github.com/05sec/Cardinal>05sec/Cardinal</a><span> CTF🚩 AWD (Attack with Defense) 线下赛平台 / AWD platform - 欢迎 Star~ ✨</span></li><li><a href=https://github.com/daeuniverse/dae>daeuniverse/dae</a><span> eBPF-based Linux high-performance transparent proxy solution.</span></li><li><a href=https://github.com/miaoermua/AdguardFilter>miaoermua/AdguardFilter</a><span> ↩️ 更合理 AdGuard 规则，轻松改善你的使用体验 - 专注于拦截追踪器和 HTTPDNS</span></li><li><a href=https://github.com/kube-rs/kube>kube-rs/kube</a><span> Rust Kubernetes client and controller runtime</span></li><li><a href=https://github.com/wublabdubdub/PDU-PostgreSQLDataUnloader>wublabdubdub/PDU-PostgreSQLDataUnloader</a><span> A Beginner-Friendly Expert-level PostgreSQL Rescue Tool. Designed for Postgresql Database Rescue.</span></li></ul>
 
 **你能找到我吗**
 
@@ -47,4 +47,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>可爱</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：4/5/26, 8:52 AM<br>下一次刷新：4/6/26, 8:52 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：4/6/26, 8:52 AM<br>下一次刷新：4/7/26, 8:52 AM</p>
