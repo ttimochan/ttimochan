@@ -35,7 +35,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/kube-rs/controller-rs>kube-rs/controller-rs</a><span> A kubernetes reference controller with actix-web</span></li><li><a href=https://github.com/actionbook/rust-skills>actionbook/rust-skills</a><span> Rust Developer AI Assistance System — Meta-Problem-Driven Knowledge Indexing</span></li><li><a href=https://github.com/chaseSpace/k8s-tutorial-cn>chaseSpace/k8s-tutorial-cn</a><span> The most(might be) detailed Kubernetes tutorials in Chinese. 全网（可能）最详细的Kubernetes中文教程。</span></li><li><a href=https://github.com/daeuniverse/dae>daeuniverse/dae</a><span> eBPF-based Linux high-performance transparent proxy solution.</span></li><li><a href=https://github.com/miaoermua/AdguardFilter>miaoermua/AdguardFilter</a><span> ↩️ 更合理 AdGuard 规则，轻松改善你的使用体验 - 专注于拦截追踪器和 HTTPDNS</span></li></ul>
+<ul><li><a href=https://github.com/RSSNext/Folo>RSSNext/Folo</a><span> 🧡 Folo is the AI RSS Reader</span></li><li><a href=https://github.com/ibarryyan/golang-tips-100>ibarryyan/golang-tips-100</a><span> You know , for golang tips!</span></li><li><a href=https://github.com/VictoriaMetrics/VictoriaMetrics>VictoriaMetrics/VictoriaMetrics</a><span> VictoriaMetrics: fast, cost-effective monitoring solution and time series database</span></li><li><a href=https://github.com/kube-rs/kube>kube-rs/kube</a><span> Rust Kubernetes client and controller runtime</span></li><li><a href=https://github.com/google/google-authenticator-libpam>google/google-authenticator-libpam</a><span> Google Authenticator PAM module</span></li></ul>
 
 **你能找到我吗**
 
@@ -47,4 +47,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>可爱</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：5/2/26, 8:57 AM<br>下一次刷新：5/3/26, 8:57 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：5/3/26, 9:03 AM<br>下一次刷新：5/4/26, 9:03 AM</p>
