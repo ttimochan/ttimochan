@@ -31,11 +31,11 @@
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/Enginex0/TEESimulator-RS>Enginex0/TEESimulator-RS</a><span> Software simulation for Android hardware-backed key pairs with key attestation | https://t.me/superpowers9</span></li><li><a href=https://github.com/ReChronoRain/HyperCeiler>ReChronoRain/HyperCeiler</a><span> HyperOS enhancement module - Make HyperOS Great Again!</span></li><li><a href=https://github.com/compose-miuix-ui/miuix>compose-miuix-ui/miuix</a><span> A UI library for Compose Multiplatform.</span></li><li><a href=https://github.com/MeowDump/Integrity-Box>MeowDump/Integrity-Box</a><span> A toolkit for managing Play Integrity & System Environment</span></li><li><a href=https://github.com/SukiSU-Ultra/SukiSU-Ultra>SukiSU-Ultra/SukiSU-Ultra</a><span> Kernel-based Android Root Solution & KPM</span></li></ul>
+<ul><li><a href=https://github.com/superturtlee/gbl_root_canoe>superturtlee/gbl_root_canoe</a><span> No TrickyStore on Canoe</span></li><li><a href=https://github.com/Enginex0/TEESimulator-RS>Enginex0/TEESimulator-RS</a><span> Software simulation for Android hardware-backed key pairs with key attestation | https://t.me/superpowers9</span></li><li><a href=https://github.com/ReChronoRain/HyperCeiler>ReChronoRain/HyperCeiler</a><span> HyperOS enhancement module - Make HyperOS Great Again!</span></li><li><a href=https://github.com/compose-miuix-ui/miuix>compose-miuix-ui/miuix</a><span> A UI library for Compose Multiplatform.</span></li><li><a href=https://github.com/MeowDump/Integrity-Box>MeowDump/Integrity-Box</a><span> A toolkit for managing Play Integrity & System Environment</span></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/micolore/note>micolore/note</a><span> It might be useful for you</span></li><li><a href=https://github.com/ibarryyan/golang-tips-100>ibarryyan/golang-tips-100</a><span> You know , for golang tips!</span></li><li><a href=https://github.com/actionbook/rust-skills>actionbook/rust-skills</a><span> Rust Developer AI Assistance System — Meta-Problem-Driven Knowledge Indexing</span></li><li><a href=https://github.com/05sec/Cardinal>05sec/Cardinal</a><span> CTF🚩 AWD (Attack with Defense) 线下赛平台 / AWD platform - 欢迎 Star~ ✨</span></li><li><a href=https://github.com/go-gorm/gorm>go-gorm/gorm</a><span> The fantastic ORM library for Golang, aims to be developer friendly</span></li></ul>
+<ul><li><a href=https://github.com/chaseSpace/k8s-tutorial-cn>chaseSpace/k8s-tutorial-cn</a><span> The most(might be) detailed Kubernetes tutorials in Chinese. 全网（可能）最详细的Kubernetes中文教程。</span></li><li><a href=https://github.com/kube-rs/kube>kube-rs/kube</a><span> Rust Kubernetes client and controller runtime</span></li><li><a href=https://github.com/kube-rs/controller-rs>kube-rs/controller-rs</a><span> A kubernetes reference controller with actix-web</span></li><li><a href=https://github.com/sctg-development/sctgdesk-server>sctg-development/sctgdesk-server</a><span> Rendez-vous server, API server and web console for Rustdesk 100% in Rust ( integrated version, for standalone see https://github.com/sctg-development/sctgdesk-api-server )</span></li><li><a href=https://github.com/JingMatrix/TEESimulator>JingMatrix/TEESimulator</a><span> Software simulation for Android hardware-backed key pairs with key attestation</span></li></ul>
 
 **你能找到我吗**
 
@@ -47,4 +47,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>可爱</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：5/9/26, 9:00 AM<br>下一次刷新：5/10/26, 9:00 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：5/10/26, 9:05 AM<br>下一次刷新：5/11/26, 9:05 AM</p>
