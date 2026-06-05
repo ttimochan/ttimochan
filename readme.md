@@ -35,7 +35,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/SukiSU-Ultra/SukiSU-Ultra>SukiSU-Ultra/SukiSU-Ultra</a><span> Kernel-based Android Root Solution & KPM</span></li><li><a href=https://github.com/form-dev/form>form-dev/form</a><span> The FORM project for symbolic manipulation of very big expressions</span></li><li><a href=https://github.com/micolore/note>micolore/note</a><span> It might be useful for you</span></li><li><a href=https://github.com/ibarryyan/golang-tips-100>ibarryyan/golang-tips-100</a><span> You know , for golang tips!</span></li><li><a href=https://github.com/RSSNext/Folo>RSSNext/Folo</a><span> 🧡 Folo is the AI RSS Reader</span></li></ul>
+<ul><li><a href=https://github.com/form-dev/form>form-dev/form</a><span> The FORM project for symbolic manipulation of very big expressions</span></li><li><a href=https://github.com/05sec/Cardinal>05sec/Cardinal</a><span> CTF🚩 AWD (Attack with Defense) 线下赛平台 / AWD platform - 欢迎 Star~ ✨</span></li><li><a href=https://github.com/torvalds/linux>torvalds/linux</a><span> Linux kernel source tree</span></li><li><a href=https://github.com/sctg-development/sctgdesk-server>sctg-development/sctgdesk-server</a><span> Rendez-vous server, API server and web console for Rustdesk 100% in Rust ( integrated version, for standalone see https://github.com/sctg-development/sctgdesk-api-server )</span></li><li><a href=https://github.com/cloudflare/pingora>cloudflare/pingora</a><span> A library for building fast, reliable and evolvable network services.</span></li></ul>
 
 **你能找到我吗**
 
@@ -47,4 +47,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>可爱</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：6/4/26, 9:21 AM<br>下一次刷新：6/5/26, 9:21 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：6/5/26, 9:12 AM<br>下一次刷新：6/6/26, 9:12 AM</p>
