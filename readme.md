@@ -27,7 +27,7 @@
 
 **最近写了...**
 
-<ul><li><span>4/5/26 - <a href=https://www.timochan.cn/notes/46>两年三站：腾讯云、百度，以及我的 PostgreSQL 之路</a></span></li><li><span>3/15/26 - <a href=https://www.timochan.cn/posts/any_pen/from_oneplus_to_xiaomi>从一加到小米：从「TEE 损坏」到「TEE 自身完备」</a></span></li><li><span>11/8/25 - <a href=https://www.timochan.cn/posts/study/mysql_vs_postgresql_correctness_not_convenience>都 2025 年了，还不试试 PostgreSQL？</a></span></li><li><span>7/6/25 - <a href=https://www.timochan.cn/posts/jc/catwrt_ipv6_dual_ra>如何用旁路网关接管内网 IPv6 代理：RA 双路由优先级实战</a></span></li><li><span>6/7/25 - <a href=https://www.timochan.cn/notes/45>毕业季</a></span></li></ul>
+<ul><li><span>Invalid Date - <a href=https://www.timochan.cn/posts/jc/virtual_camera>想避开视频会议,干自己的事？</a></span></li><li><span>Invalid Date - <a href=https://www.timochan.cn/posts/any_pen/china_telecom_super>天翼网关获取超级管理员密码</a></span></li><li><span>Invalid Date - <a href=https://www.timochan.cn/posts/any_pen/manjaro_install>Manjaro 安装与配置</a></span></li><li><span>Invalid Date - <a href=https://www.timochan.cn/posts/any_pen/annual_summary_2020>年度总结—2020</a></span></li><li><span>Invalid Date - <a href=https://www.timochan.cn/posts/any_pen/cdn_handsome>为handsome主题提供静态文件CDN支持</a></span></li></ul>
 
 **最近赞了...**
 
@@ -35,7 +35,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/canmi21/vane>canmi21/vane</a><span> A compact programmable proxy engine.</span></li><li><a href=https://github.com/sctg-development/sctgdesk-server>sctg-development/sctgdesk-server</a><span> Rendez-vous server, API server and web console for Rustdesk 100% in Rust ( integrated version, for standalone see https://github.com/sctg-development/sctgdesk-api-server )</span></li><li><a href=https://github.com/kube-rs/controller-rs>kube-rs/controller-rs</a><span> A kubernetes reference controller with actix-web</span></li><li><a href=https://github.com/cloudflare/pingora>cloudflare/pingora</a><span> A library for building fast, reliable and evolvable network services.</span></li><li><a href=https://github.com/Genymobile/scrcpy>Genymobile/scrcpy</a><span> Display and control your Android device</span></li></ul>
+<ul><li><a href=https://github.com/chaseSpace/k8s-tutorial-cn>chaseSpace/k8s-tutorial-cn</a><span> The most(might be) detailed Kubernetes tutorials in Chinese. 全网（可能）最详细的Kubernetes中文教程。</span></li><li><a href=https://github.com/miaoermua/AdguardFilter>miaoermua/AdguardFilter</a><span> ↩️ 更合理 AdGuard 规则，轻松改善你的使用体验 - 专注于拦截追踪器和 HTTPDNS</span></li><li><a href=https://github.com/cloudflare/pingora>cloudflare/pingora</a><span> A library for building fast, reliable and evolvable network services.</span></li><li><a href=https://github.com/form-dev/form>form-dev/form</a><span> The FORM project for symbolic manipulation of very big expressions</span></li><li><a href=https://github.com/canmi21/vane>canmi21/vane</a><span> A compact programmable proxy engine.</span></li></ul>
 
 **你能找到我吗**
 
@@ -47,4 +47,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>可爱</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：6/13/26, 9:16 AM<br>下一次刷新：6/14/26, 9:16 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：6/14/26, 9:18 AM<br>下一次刷新：6/15/26, 9:18 AM</p>
