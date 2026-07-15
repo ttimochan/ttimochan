@@ -35,7 +35,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/cloudflare/pingora>cloudflare/pingora</a><span> A library for building fast, reliable and evolvable network services.</span></li><li><a href=https://github.com/JingMatrix/TEESimulator>JingMatrix/TEESimulator</a><span> Software simulation for Android hardware-backed key pairs with key attestation</span></li><li><a href=https://github.com/form-dev/form>form-dev/form</a><span> The FORM project for symbolic manipulation of very big expressions</span></li><li><a href=https://github.com/RSSNext/Folo>RSSNext/Folo</a><span> 🧡 Folo is the AI RSS Reader</span></li><li><a href=https://github.com/wublabdubdub/PDU-PostgreSQLDataUnloader>wublabdubdub/PDU-PostgreSQLDataUnloader</a><span> A Beginner-Friendly Expert-level PostgreSQL Rescue Tool. Designed for Postgresql Database Rescue.</span></li></ul>
+<ul><li><a href=https://github.com/RSSNext/Folo>RSSNext/Folo</a><span> 🧡 Folo is the AI RSS Reader</span></li><li><a href=https://github.com/ibarryyan/golang-tips-100>ibarryyan/golang-tips-100</a><span> You know , for golang tips!</span></li><li><a href=https://github.com/JingMatrix/TEESimulator>JingMatrix/TEESimulator</a><span> Software simulation for Android hardware-backed key pairs with key attestation</span></li><li><a href=https://github.com/SukiSU-Ultra/SukiSU-Ultra>SukiSU-Ultra/SukiSU-Ultra</a><span> Kernel-based Android Root Solution & KPM</span></li><li><a href=https://github.com/kube-rs/kube>kube-rs/kube</a><span> Rust Kubernetes client and controller runtime</span></li></ul>
 
 **你能找到我吗**
 
@@ -47,4 +47,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>可爱</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：7/14/26, 11:11 AM<br>下一次刷新：7/15/26, 11:11 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：7/15/26, 10:55 AM<br>下一次刷新：7/16/26, 10:55 AM</p>
