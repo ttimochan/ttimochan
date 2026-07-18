@@ -35,7 +35,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/kube-rs/controller-rs>kube-rs/controller-rs</a><span> A kubernetes reference controller with actix-web</span></li><li><a href=https://github.com/torvalds/linux>torvalds/linux</a><span> Linux kernel source tree</span></li><li><a href=https://github.com/Genymobile/scrcpy>Genymobile/scrcpy</a><span> Display and control your Android device</span></li><li><a href=https://github.com/tokio-rs/axum>tokio-rs/axum</a><span> HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity</span></li><li><a href=https://github.com/micolore/note>micolore/note</a><span> It might be useful for you</span></li></ul>
+<ul><li><a href=https://github.com/JingMatrix/TEESimulator>JingMatrix/TEESimulator</a><span> Software simulation for Android hardware-backed key pairs with key attestation</span></li><li><a href=https://github.com/RSSNext/Folo>RSSNext/Folo</a><span> 🧡 Folo is the AI RSS Reader</span></li><li><a href=https://github.com/kube-rs/kube>kube-rs/kube</a><span> Rust Kubernetes client and controller runtime</span></li><li><a href=https://github.com/Genymobile/scrcpy>Genymobile/scrcpy</a><span> Display and control your Android device</span></li><li><a href=https://github.com/05sec/Cardinal>05sec/Cardinal</a><span> CTF🚩 AWD (Attack with Defense) 线下赛平台 / AWD platform - 欢迎 Star~ ✨</span></li></ul>
 
 **你能找到我吗**
 
@@ -47,4 +47,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>可爱</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：7/17/26, 11:20 AM<br>下一次刷新：7/18/26, 11:20 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：7/18/26, 10:57 AM<br>下一次刷新：7/19/26, 10:57 AM</p>
