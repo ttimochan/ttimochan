@@ -31,11 +31,11 @@
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/superturtlee/gbl_root_canoe>superturtlee/gbl_root_canoe</a><span> No TrickyStore on Canoe</span></li><li><a href=https://github.com/Enginex0/TEESimulator-RS>Enginex0/TEESimulator-RS</a><span> Software simulation for Android hardware-backed key pairs with key attestation | https://t.me/superpowers9</span></li><li><a href=https://github.com/ReChronoRain/HyperCeiler>ReChronoRain/HyperCeiler</a><span> HyperOS enhancement module - Make HyperOS Great Again!</span></li><li><a href=https://github.com/compose-miuix-ui/miuix>compose-miuix-ui/miuix</a><span> A UI library for Compose Multiplatform.</span></li><li><a href=https://github.com/MeowDump/Integrity-Box>MeowDump/Integrity-Box</a><span> A toolkit for managing Play Integrity & System Environment</span></li></ul>
+<ul><li><a href=https://github.com/superturtlee/gbl_root_canoe>superturtlee/gbl_root_canoe</a><span> No TrickyStore on Canoe</span></li><li><a href=https://github.com/Enginex0/TEESimulator-RS>Enginex0/TEESimulator-RS</a><span> Software simulation for Android hardware-backed key pairs with key attestation | https://t.me/superpowers9</span></li><li><a href=https://github.com/ReChronoRain/HyperCeiler>ReChronoRain/HyperCeiler</a><span> HyperOS enhancement module - Make HyperOS Great Again!</span></li><li><a href=https://github.com/compose-miuix-ui/miuix>compose-miuix-ui/miuix</a><span> A UI library for Compose Multiplatform</span></li><li><a href=https://github.com/MeowDump/Integrity-Box>MeowDump/Integrity-Box</a><span> A toolkit for managing Play Integrity & System Environment</span></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/kube-rs/kube>kube-rs/kube</a><span> Rust Kubernetes client and controller runtime</span></li><li><a href=https://github.com/VictoriaMetrics/VictoriaMetrics>VictoriaMetrics/VictoriaMetrics</a><span> VictoriaMetrics: fast, cost-effective monitoring solution and time series database</span></li><li><a href=https://github.com/chaseSpace/k8s-tutorial-cn>chaseSpace/k8s-tutorial-cn</a><span> The most(might be) detailed Kubernetes tutorials in Chinese. 全网（可能）最详细的Kubernetes中文教程。</span></li><li><a href=https://github.com/daeuniverse/dae>daeuniverse/dae</a><span> eBPF-based Linux high-performance transparent proxy solution.</span></li><li><a href=https://github.com/cloudflare/pingora>cloudflare/pingora</a><span> A library for building fast, reliable and evolvable network services.</span></li></ul>
+<ul><li><a href=https://github.com/05sec/Cardinal>05sec/Cardinal</a><span> CTF🚩 AWD (Attack with Defense) 线下赛平台 / AWD platform - 欢迎 Star~ ✨</span></li><li><a href=https://github.com/wublabdubdub/PDU-PostgreSQLDataUnloader>wublabdubdub/PDU-PostgreSQLDataUnloader</a><span> A Beginner-Friendly Expert-level PostgreSQL Rescue Tool. Designed for Postgresql Database Rescue.</span></li><li><a href=https://github.com/VictoriaMetrics/VictoriaMetrics>VictoriaMetrics/VictoriaMetrics</a><span> VictoriaMetrics: fast, cost-effective monitoring solution and time series database</span></li><li><a href=https://github.com/cloudflare/pingora>cloudflare/pingora</a><span> A library for building fast, reliable and evolvable network services.</span></li><li><a href=https://github.com/google/google-authenticator-libpam>google/google-authenticator-libpam</a><span> Google Authenticator PAM module</span></li></ul>
 
 **你能找到我吗**
 
@@ -47,4 +47,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>可爱</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：7/25/26, 11:20 AM<br>下一次刷新：7/26/26, 11:20 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：7/26/26, 11:35 AM<br>下一次刷新：7/27/26, 11:35 AM</p>
