@@ -1,6 +1,7 @@
 export const opensource = {
   active: [
-    "mx-space/docs"
+    "mx-space/docs",
+    "mx-space/kami"
   ],
   toys: {
     limit: 0,
