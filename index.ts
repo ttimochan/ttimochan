@@ -31,7 +31,7 @@ const md = new MarkdownIt({
 const githubAPIEndPoint = 'https://api.github.com'
 
 rax.attach()
-axios.defaults.raxConfig = {
+;(axios.defaults as typeof axios.defaults & { raxConfig: rax.RetryConfig }).raxConfig = {
   retry: 5,
   retryDelay: 4000,
   onRetryAttempt: (err) => {
@@ -63,18 +63,6 @@ type GHItem = {
   html_url: string
 }
 
-type PostItem = {
-  title: string
-  summary: string
-  created: string
-  modified: string
-  id: string
-  slug: string
-  category: {
-    name: string
-    slug: string
-  }
-}
 /**
  * 生成 `开源在` 结构
  */
@@ -157,7 +145,7 @@ function generateRepoHTML<T extends GHItem>(item: T) {
 }
 
 function generatePostItemHTML<T extends Partial<PostModel>>(item: T) {
-  return m`<li><span>${new Date(item.created).toLocaleDateString(undefined, {
+  return m`<li><span>${new Date(item.createdAt).toLocaleDateString(undefined, {
     dateStyle: 'short',
     timeZone,
   })} -  <a href="${
@@ -168,7 +156,7 @@ function generatePostItemHTML<T extends Partial<PostModel>>(item: T) {
 }
 
 function generateNoteItemHTML<T extends Partial<NoteModel>>(item: T) {
-  return m`<li><span>${new Date(item.created).toLocaleDateString(undefined, {
+  return m`<li><span>${new Date(item.createdAt).toLocaleDateString(undefined, {
     dateStyle: 'short',
     timeZone,
   })} -  <a href="${mxSpace.url + '/notes/' + item.nid}">${
@@ -249,7 +237,7 @@ ${topStar5}
         const sorted = [
           ...posts.map((i) => ({ ...i, type: 'Post' as const })),
           ...notes.map((i) => ({ ...i, type: 'Note' as const })),
-        ].sort((b, a) => +new Date(a.created) - +new Date(b.created))
+        ].sort((b, a) => +new Date(a.createdAt) - +new Date(b.createdAt))
         return sorted.slice(0, 5).reduce((acc, cur) => {
           if (cur.type === 'Note') {
             return acc.concat(generateNoteItemHTML(cur))

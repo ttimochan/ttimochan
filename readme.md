@@ -27,7 +27,7 @@
 
 **最近写了...**
 
-<ul><li><span>Invalid Date - <a href=https://www.timochan.cn/posts/jc/virtual_camera>想避开视频会议,干自己的事？</a></span></li><li><span>Invalid Date - <a href=https://www.timochan.cn/posts/any_pen/china_telecom_super>天翼网关获取超级管理员密码</a></span></li><li><span>Invalid Date - <a href=https://www.timochan.cn/posts/any_pen/manjaro_install>Manjaro 安装与配置</a></span></li><li><span>Invalid Date - <a href=https://www.timochan.cn/posts/any_pen/annual_summary_2020>年度总结—2020</a></span></li><li><span>Invalid Date - <a href=https://www.timochan.cn/posts/any_pen/cdn_handsome>为handsome主题提供静态文件CDN支持</a></span></li></ul>
+<ul><li><span>8/20/26 - <a href=https://www.timochan.cn/notes/47>对国产数据库的一期一会</a></span></li><li><span>4/5/26 - <a href=https://www.timochan.cn/notes/46>两年三站：腾讯云、百度，以及我的 PostgreSQL 之路</a></span></li><li><span>3/15/26 - <a href=https://www.timochan.cn/posts/any_pen/from_oneplus_to_xiaomi>从一加到小米：从「TEE 损坏」到「TEE 自身完备」</a></span></li><li><span>11/8/25 - <a href=https://www.timochan.cn/posts/study/mysql_vs_postgresql_correctness_not_convenience>都 2025 年了，还不试试 PostgreSQL？</a></span></li><li><span>7/6/25 - <a href=https://www.timochan.cn/posts/jc/catwrt_ipv6_dual_ra>如何用旁路网关接管内网 IPv6 代理：RA 双路由优先级实战</a></span></li></ul>
 
 **最近赞了...**
 
