@@ -35,7 +35,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/tokio-rs/axum>tokio-rs/axum</a><span> HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity</span></li><li><a href=https://github.com/torvalds/linux>torvalds/linux</a><span> Linux kernel source tree</span></li><li><a href=https://github.com/wublabdubdub/PDU-PostgreSQLDataUnloader>wublabdubdub/PDU-PostgreSQLDataUnloader</a><span> Open-source PostgreSQL data recovery tool for corrupted or offline PGDATA, WAL-based row recovery, and dropped-table recovery.</span></li><li><a href=https://github.com/actionbook/rust-skills>actionbook/rust-skills</a><span> Rust Developer AI Assistance System — Meta-Problem-Driven Knowledge Indexing</span></li><li><a href=https://github.com/eeg1412/wikimoeNodeJSBlog>eeg1412/wikimoeNodeJSBlog</a><span> 猛男自用博客系统，基于nodejs，mongodb，nuxt4</span></li></ul>
+<ul><li><a href=https://github.com/miaoermua/AdguardFilter>miaoermua/AdguardFilter</a><span> ↩️ 更合理 AdGuard 规则，轻松改善你的使用体验 - 专注于拦截追踪器和 HTTPDNS</span></li><li><a href=https://github.com/daeuniverse/dae>daeuniverse/dae</a><span> eBPF-based Linux high-performance transparent proxy solution.</span></li><li><a href=https://github.com/micolore/note>micolore/note</a><span> It might be useful for you</span></li><li><a href=https://github.com/JingMatrix/TEESimulator>JingMatrix/TEESimulator</a><span> Software simulation for Android hardware-backed key pairs with key attestation</span></li><li><a href=https://github.com/SukiSU-Ultra/SukiSU-Ultra>SukiSU-Ultra/SukiSU-Ultra</a><span> Kernel-based Android Root Solution & KPM</span></li></ul>
 
 **你能找到我吗**
 
@@ -47,4 +47,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>可爱</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：8/30/26, 12:55 PM<br>下一次刷新：8/31/26, 12:55 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：8/31/26, 12:59 PM<br>下一次刷新：9/1/26, 12:59 PM</p>
