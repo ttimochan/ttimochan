@@ -35,7 +35,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/canmi21/vane>canmi21/vane</a><span> A compact programmable proxy engine.</span></li><li><a href=https://github.com/miaoermua/AdguardFilter>miaoermua/AdguardFilter</a><span> ↩️ 更合理 AdGuard 规则，轻松改善你的使用体验 - 专注于拦截追踪器和 HTTPDNS</span></li><li><a href=https://github.com/torvalds/linux>torvalds/linux</a><span> Linux kernel source tree</span></li><li><a href=https://github.com/ibarryyan/golang-tips-100>ibarryyan/golang-tips-100</a><span> You know , for Go and Python tips!</span></li><li><a href=https://github.com/VictoriaMetrics/VictoriaMetrics>VictoriaMetrics/VictoriaMetrics</a><span> VictoriaMetrics: fast, cost-effective monitoring solution and time series database</span></li></ul>
+<ul><li><a href=https://github.com/ibarryyan/golang-tips-100>ibarryyan/golang-tips-100</a><span> You know , for Go and Python tips!</span></li><li><a href=https://github.com/VictoriaMetrics/VictoriaMetrics>VictoriaMetrics/VictoriaMetrics</a><span> VictoriaMetrics: fast, cost-effective monitoring solution and time series database</span></li><li><a href=https://github.com/SukiSU-Ultra/SukiSU-Ultra>SukiSU-Ultra/SukiSU-Ultra</a><span> Kernel-based Android Root Solution & KPM</span></li><li><a href=https://github.com/canmi21/vane>canmi21/vane</a><span> A compact programmable proxy engine.</span></li><li><a href=https://github.com/RSSNext/Folo>RSSNext/Folo</a><span> 🧡 Folo is the AI RSS Reader</span></li></ul>
 
 **你能找到我吗**
 
@@ -47,4 +47,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>可爱</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：9/13/26, 12:21 PM<br>下一次刷新：9/14/26, 12:21 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：9/14/26, 12:27 PM<br>下一次刷新：9/15/26, 12:27 PM</p>
