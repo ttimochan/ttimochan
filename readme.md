@@ -27,7 +27,7 @@
 
 **最近写了...**
 
-<ul><li><span>8/20/26 - <a href=https://www.timochan.cn/notes/47>对国产数据库的一期一会</a></span></li><li><span>4/5/26 - <a href=https://www.timochan.cn/notes/46>两年三站：腾讯云、百度，以及我的 PostgreSQL 之路</a></span></li><li><span>3/15/26 - <a href=https://www.timochan.cn/posts/any_pen/from_oneplus_to_xiaomi>从一加到小米：从「TEE 损坏」到「TEE 自身完备」</a></span></li><li><span>11/8/25 - <a href=https://www.timochan.cn/posts/study/mysql_vs_postgresql_correctness_not_convenience>都 2025 年了，还不试试 PostgreSQL？</a></span></li><li><span>7/6/25 - <a href=https://www.timochan.cn/posts/jc/catwrt_ipv6_dual_ra>如何用旁路网关接管内网 IPv6 代理：RA 双路由优先级实战</a></span></li></ul>
+<ul><li><span>9/21/26 - <a href=https://www.timochan.cn/notes/48>AI时代，我们如何与AI同行</a></span></li><li><span>8/20/26 - <a href=https://www.timochan.cn/notes/47>对国产数据库的一期一会</a></span></li><li><span>4/5/26 - <a href=https://www.timochan.cn/notes/46>两年三站：腾讯云、百度，以及我的 PostgreSQL 之路</a></span></li><li><span>3/15/26 - <a href=https://www.timochan.cn/posts/any_pen/from_oneplus_to_xiaomi>从一加到小米：从「TEE 损坏」到「TEE 自身完备」</a></span></li><li><span>11/8/25 - <a href=https://www.timochan.cn/posts/study/mysql_vs_postgresql_correctness_not_convenience>都 2025 年了，还不试试 PostgreSQL？</a></span></li></ul>
 
 **最近赞了...**
 
@@ -35,7 +35,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/cloudflare/pingora>cloudflare/pingora</a><span> A library for building fast, reliable and evolvable network services.</span></li><li><a href=https://github.com/Genymobile/scrcpy>Genymobile/scrcpy</a><span> Display and control your Android device</span></li><li><a href=https://github.com/SukiSU-Ultra/SukiSU-Ultra>SukiSU-Ultra/SukiSU-Ultra</a><span> Kernel-based Android Root Solution & KPM</span></li><li><a href=https://github.com/ibarryyan/golang-tips-100>ibarryyan/golang-tips-100</a><span> You know , for Go and Python tips!</span></li><li><a href=https://github.com/JingMatrix/TEESimulator>JingMatrix/TEESimulator</a><span> Software simulation for Android hardware-backed key pairs with key attestation</span></li></ul>
+<ul><li><a href=https://github.com/google/google-authenticator-libpam>google/google-authenticator-libpam</a><span> Google Authenticator PAM module</span></li><li><a href=https://github.com/Cosmian/kms>Cosmian/kms</a><span> A feature-rich, scalable, Key Management System</span></li><li><a href=https://github.com/cloudflare/pingora>cloudflare/pingora</a><span> A library for building fast, reliable and evolvable network services.</span></li><li><a href=https://github.com/go-gorm/gorm>go-gorm/gorm</a><span> The fantastic ORM library for Golang, aims to be developer friendly</span></li><li><a href=https://github.com/kube-rs/kube>kube-rs/kube</a><span> Rust Kubernetes client and controller runtime</span></li></ul>
 
 **你能找到我吗**
 
@@ -47,4 +47,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>可爱</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：9/20/26, 12:30 PM<br>下一次刷新：9/21/26, 12:30 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：9/21/26, 12:28 PM<br>下一次刷新：9/22/26, 12:28 PM</p>
