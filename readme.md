@@ -27,7 +27,7 @@
 
 **最近写了...**
 
-<ul><li><span>9/25/26 - <a href=https://www.timochan.cn/notes/49>AI时代，我们如何与AI同行（二）</a></span></li><li><span>9/21/26 - <a href=https://www.timochan.cn/notes/48>AI时代，我们如何与AI同行</a></span></li><li><span>8/20/26 - <a href=https://www.timochan.cn/notes/47>对国产数据库的一期一会</a></span></li><li><span>4/5/26 - <a href=https://www.timochan.cn/notes/46>两年三站：腾讯云、百度，以及我的 PostgreSQL 之路</a></span></li><li><span>3/15/26 - <a href=https://www.timochan.cn/posts/any_pen/from_oneplus_to_xiaomi>从一加到小米：从「TEE 损坏」到「TEE 自身完备」</a></span></li></ul>
+<ul><li><span>10/25/26 - <a href=https://www.timochan.cn/notes/50>舍得</a></span></li><li><span>9/25/26 - <a href=https://www.timochan.cn/notes/49>AI时代，我们如何与AI同行（二）</a></span></li><li><span>9/21/26 - <a href=https://www.timochan.cn/notes/48>AI时代，我们如何与AI同行</a></span></li><li><span>8/20/26 - <a href=https://www.timochan.cn/notes/47>对国产数据库的一期一会</a></span></li><li><span>4/5/26 - <a href=https://www.timochan.cn/notes/46>两年三站：腾讯云、百度，以及我的 PostgreSQL 之路</a></span></li></ul>
 
 **最近赞了...**
 
@@ -35,7 +35,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/RSSNext/Folo>RSSNext/Folo</a><span> 🧡 Folo is the AI RSS Reader</span></li><li><a href=https://github.com/cloudflare/pingora>cloudflare/pingora</a><span> A library for building fast, reliable and evolvable network services.</span></li><li><a href=https://github.com/wublabdubdub/PDU-PostgreSQLDataUnloader>wublabdubdub/PDU-PostgreSQLDataUnloader</a><span> Open-source PostgreSQL data recovery tool for corrupted or offline PGDATA, WAL-based row recovery, and dropped-table recovery.</span></li><li><a href=https://github.com/sctg-development/sctgdesk-server>sctg-development/sctgdesk-server</a><span> Rendez-vous server, API server and web console for Rustdesk 100% in Rust ( integrated version, for standalone see https://github.com/sctg-development/sctgdesk-api-server )</span></li><li><a href=https://github.com/JingMatrix/TEESimulator>JingMatrix/TEESimulator</a><span> Software simulation for Android hardware-backed key pairs with key attestation</span></li></ul>
+<ul><li><a href=https://github.com/daeuniverse/dae>daeuniverse/dae</a><span> eBPF-based Linux high-performance transparent proxy solution.</span></li><li><a href=https://github.com/eeg1412/wikimoeNodeJSBlog>eeg1412/wikimoeNodeJSBlog</a><span> 猛男自用博客系统，基于nodejs，mongodb，nuxt4</span></li><li><a href=https://github.com/MeowDump/Integrity-Box>MeowDump/Integrity-Box</a><span> A toolkit for managing Play Integrity & System Environment</span></li><li><a href=https://github.com/google/google-authenticator-libpam>google/google-authenticator-libpam</a><span> Google Authenticator PAM module</span></li><li><a href=https://github.com/SukiSU-Ultra/SukiSU-Ultra>SukiSU-Ultra/SukiSU-Ultra</a><span> Kernel-based Android Root Solution & KPM</span></li></ul>
 
 **你能找到我吗**
 
@@ -47,4 +47,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>可爱</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：10/24/26, 12:09 PM<br>下一次刷新：10/25/26, 12:09 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：10/25/26, 12:12 PM<br>下一次刷新：10/26/26, 12:12 PM</p>
