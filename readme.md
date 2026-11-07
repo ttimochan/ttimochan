@@ -35,7 +35,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/sctg-development/sctgdesk-server>sctg-development/sctgdesk-server</a><span> Rendez-vous server, API server and web console for Rustdesk 100% in Rust ( integrated version, for standalone see https://github.com/sctg-development/sctgdesk-api-server )</span></li><li><a href=https://github.com/micolore/note>micolore/note</a><span> It might be useful for you</span></li><li><a href=https://github.com/canmi21/vane>canmi21/vane</a><span> A compact programmable proxy engine.</span></li><li><a href=https://github.com/MeowDump/Integrity-Box>MeowDump/Integrity-Box</a><span> A toolkit for managing Play Integrity & System Environment</span></li><li><a href=https://github.com/torvalds/linux>torvalds/linux</a><span> Linux kernel source tree</span></li></ul>
+<ul><li><a href=https://github.com/cloudflare/pingora>cloudflare/pingora</a><span> A library for building fast, reliable and evolvable network services.</span></li><li><a href=https://github.com/go-gorm/gorm>go-gorm/gorm</a><span> The fantastic ORM library for Golang, aims to be developer friendly</span></li><li><a href=https://github.com/daeuniverse/dae>daeuniverse/dae</a><span> eBPF-based Linux high-performance transparent proxy solution.</span></li><li><a href=https://github.com/Genymobile/scrcpy>Genymobile/scrcpy</a><span> Display and control your Android device</span></li><li><a href=https://github.com/ibarryyan/golang-tips-100>ibarryyan/golang-tips-100</a><span> You know , for Go and Python tips!</span></li></ul>
 
 **你能找到我吗**
 
@@ -47,4 +47,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>可爱</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/6/26, 2:01 PM<br>下一次刷新：11/7/26, 2:01 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/7/26, 1:33 PM<br>下一次刷新：11/8/26, 1:33 PM</p>
