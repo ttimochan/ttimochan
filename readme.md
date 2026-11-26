@@ -35,7 +35,7 @@
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/wublabdubdub/PDU-PostgreSQLDataUnloader>wublabdubdub/PDU-PostgreSQLDataUnloader</a><span> Open-source PostgreSQL data recovery tool for corrupted or offline PGDATA, WAL-based row recovery, and dropped-table recovery.</span></li><li><a href=https://github.com/Genymobile/scrcpy>Genymobile/scrcpy</a><span> Display and control your Android device</span></li><li><a href=https://github.com/JingMatrix/TEESimulator>JingMatrix/TEESimulator</a><span> Software simulation for Android hardware-backed key pairs with key attestation</span></li><li><a href=https://github.com/kube-rs/kube>kube-rs/kube</a><span> Rust Kubernetes client and controller runtime</span></li><li><a href=https://github.com/Cosmian/kms>Cosmian/kms</a><span> A feature-rich, scalable, Key Management System</span></li></ul>
+<ul><li><a href=https://github.com/sctg-development/sctgdesk-server>sctg-development/sctgdesk-server</a><span> Multiplatform Rendez-vous server, API server and web console for Rustdesk 100% in Rust</span></li><li><a href=https://github.com/miaoermua/AdguardFilter>miaoermua/AdguardFilter</a><span> ↩️ 更合理 AdGuard 规则，轻松改善你的使用体验 - 专注于拦截追踪器和 HTTPDNS</span></li><li><a href=https://github.com/RSSNext/Folo>RSSNext/Folo</a><span> 🧡 Folo is the AI RSS Reader</span></li><li><a href=https://github.com/ibarryyan/golang-tips-100>ibarryyan/golang-tips-100</a><span> You know , for Go and Python tips!</span></li><li><a href=https://github.com/micolore/note>micolore/note</a><span> It might be useful for you</span></li></ul>
 
 **你能找到我吗**
 
@@ -47,4 +47,4 @@ Thanks , [Innei](https://github.com/Innei)
 ------------
 
 <p align=center><strong>可爱</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/25/26, 3:58 PM<br>下一次刷新：11/26/26, 3:58 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：11/26/26, 3:51 PM<br>下一次刷新：11/27/26, 3:51 PM</p>
